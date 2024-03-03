@@ -28,7 +28,7 @@ jobs:
       run: packwiz modrinth export
 
     - name: Upload the pack
-      uses: actions/upload-artifact@v2
+      uses: actions/upload-artifact@v4
       with:
         name: qol-pack-artifacts-${{ steps.ref.outputs.branch }}
         path: ./*.mrpack
