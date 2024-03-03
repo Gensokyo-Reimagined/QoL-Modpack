@@ -835,12 +835,12 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "37ecb4a19c2cc81fc9eef12745ab3817c3ab4dd9ca1070b4defd090ce7d6b277"
+hash = "d8141ee9ad948865c4da8594fe1e785ff6933d3f5b299234d002e2014559c0e4"
 metafile = true
 
 [[files]]
 file = "mods/exordium.pw.toml"
-hash = "3e9cda0fa395a1f6fe8e90182cd8ffab7e72ba9b3a75cf4d4e06c5650199d899"
+hash = "350e3aa46726c4ce33c9c383c673ab131c76c9015b5aa8c5532521beed1dfca4"
 metafile = true
 
 [[files]]
@@ -850,7 +850,7 @@ metafile = true
 
 [[files]]
 file = "mods/explosive-enhancement.pw.toml"
-hash = "afe4a2446679827ede0d3a0a3ebc5004bffd98142642a65b8e72ee6163334bd5"
+hash = "20487e4b3ada29b8574c50d82cbff3d3729c9a16e912d9e18c085d6db4bac141"
 metafile = true
 
 [[files]]
@@ -989,7 +989,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "a4fcc61837abe8a895f7dc85f97b6c1950dc208da43f58e2fc0ac90ff8b66fcb"
+hash = "249dec365f1a15ef6d1da48910e5fa04c039e95375ce246d5a771941b6b8892c"
 metafile = true
 
 [[files]]
@@ -1008,7 +1008,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "b1d09da63b5a315fc50608ebe9c15f207f18c17cbe2bb2b17fe5965c0dd10d2e"
+hash = "18998b5c1ec55ea4febac338d248da721a08378089af76a6cefcbcfd321a18f1"
 metafile = true
 
 [[files]]
@@ -1073,7 +1073,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "37e917db3cddb70bfdecc62917d37091238f1826ee4630a2ecd381c995ad2ca9"
+hash = "5e73967368d47038c38dc52fa298b45603fbe6baf2608f171638ff767178ad9a"
 metafile = true
 
 [[files]]
@@ -1112,18 +1112,13 @@ hash = "d12bc54c9bb275cc5c3f5ea8c88a238bab6b1f68fbaa36c747eeac09ad20650d"
 metafile = true
 
 [[files]]
-file = "mods/voxy.pw.toml"
-hash = "b2c4d38f228fa504c20a98f52584d6998c4431875f63d9c76efa6418c28a4a69"
-metafile = true
-
-[[files]]
 file = "mods/worldeditcui-fabric.pw.toml"
 hash = "faf0c6a3a1973e7611c9d6c8fffc30a6381e48468e55bb2fa48d3edd52ee0d7e"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "6fea2f9bac56a998ca70374c89e788a7d5d78d0b59311f4fadb09ec91af99212"
+hash = "9822cc2334f8939f4638b34363ee20b296709f550029e323ff220f826b894f22"
 metafile = true
 
 [[files]]
