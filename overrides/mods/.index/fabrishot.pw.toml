@@ -1,0 +1,13 @@
+filename = 'fabrishot-1.12.1.jar'
+name = 'Fabrishot'
+side = 'client'
+
+[download]
+hash = 'b9dd8ec0dc7d78ca3b339c20428ab12e7fd099873f418a22d02d91a3605c9f47260bcbcc5977d19c4b5049eb8f69557c2157f83c96b1e1b90f7395ea6f44f675'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/3qsfQtE9/versions/crC7YOpw/fabrishot-1.12.1.jar'
+
+[update.modrinth]
+mod-id = '3qsfQtE9'
+version = 'crC7YOpw'

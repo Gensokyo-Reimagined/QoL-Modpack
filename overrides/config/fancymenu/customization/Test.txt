@@ -1,0 +1,315 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = foreground
+  randommode = true
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = bg
+  action = setbackgroundslideshow
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = mid-left
+  x = 170
+  action = movebutton
+  y = 36
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  width = 92
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  action = setbuttonlabel
+  value = Server List
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  orientation = mid-left
+  x = 170
+  action = movebutton
+  y = 60
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  width = 92
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  action = setbuttonlabel
+  value =  Mods
+}
+
+customization {
+  identifier = %id=802990%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=604394%
+  orientation = mid-left
+  x = 194
+  action = movebutton
+  y = 84
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = mid-left
+  x = 76
+  action = movebutton
+  y = 36
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  width = 90
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = mid-left
+  x = 76
+  action = movebutton
+  y = 60
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  width = 90
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  action = setbuttonlabel
+  value = Options
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = mid-left
+  x = 217
+  action = movebutton
+  y = 84
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  width = 45
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  action = setbuttonlabel
+  value = Quit
+}
+
+customization {
+  identifier = %id=376394%
+  orientation = mid-left
+  x = 170
+  action = movebutton
+  y = 84
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 2
+  width = 165
+  action = deep_customization_element:title_screen_branding
+  actionid = 949afdeb-0afc-44f6-9878-2b0335b695d91673851489173
+  y = 497
+  height = 10
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 583
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = 4abaa43d-a695-4cc1-a263-17584a4cc85d1673851489184
+  y = 227
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 343
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = ca684396-853e-4a02-a1ec-bececa9783311673851489184
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = true
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 12403abb-7f3c-4698-b6e9-0a803b2b06b01673851489184
+  y = 0
+  height = 30
+}
+
+customization {
+  path = 
+  orientation = top-left
+  x = 0
+  width = 0
+  action = addtexture
+  actionid = 989e0b9b-2e56-450c-b213-028b065604d11673851507001
+  y = 10
+  height = 100
+}
+
+customization {
+  orientation = mid-left
+  restartbackgroundanimations = true
+  buttonaction = joinserver;play.gensokyoreimagined.net%btnaction_splitter_fm%
+  description = CURRENTLY IN DEVELOPMENT
+  label = Survival Server
+  loopbackgroundanimations = true
+  hoverlabel = Survival Server
+  x = 76
+  width = 90
+  action = addbutton
+  actionid = e310006c-ccb7-4608-aa9e-c60f2afd212e1673857045621
+  y = 12
+  height = 20
+}
+
+customization {
+  path = 
+  orientation = top-left
+  x = 0
+  width = 0
+  action = addtexture
+  actionid = 8ce313cf-ee2f-4937-93e9-13ad280507381673923122125
+  y = 10
+  height = 100
+}
+
+customization {
+  orientation = mid-left
+  restartbackgroundanimations = true
+  buttonaction = openlink;https://www.buymeacoffee.com/greimagined/membership%btnaction_splitter_fm%
+  backgroundhovered = config/fancymenu/resources/bmc_hover.png
+  label = 
+  loopbackgroundanimations = true
+  x = 76
+  width = 20
+  action = addbutton
+  actionid = f5cc3a38-91c1-4cee-9066-fdb018cba6291673924162960
+  y = 84
+  backgroundnormal = config/fancymenu/resources/bmc.png
+  height = 20
+}
+
+customization {
+  path = 
+  orientation = top-left
+  x = 0
+  width = 0
+  action = addtexture
+  actionid = e519f642-04c1-4237-bb3a-f1229a4727a31673925115051
+  y = 10
+  height = 100
+}
+
+customization {
+  orientation = mid-left
+  restartbackgroundanimations = true
+  buttonaction = openlink;https://discord.gg/U9fZSJJcte%btnaction_splitter_fm%
+  backgroundhovered = config/fancymenu/resources/discord_hover.png
+  label = 
+  loopbackgroundanimations = true
+  x = 101
+  width = 20
+  action = addbutton
+  actionid = 907ba651-c685-4e01-8221-650f0dbbd03a1673925123327
+  y = 84
+  backgroundnormal = config/fancymenu/resources/discord.png
+  height = 20
+}
+
+customization {
+  orientation = mid-left
+  restartbackgroundanimations = true
+  buttonaction = joinserver;build.gensokyoreimagined.net%btnaction_splitter_fm%
+  description = Build in Gensokyo
+  label = Build Server
+  loopbackgroundanimations = true
+  hoverlabel = Build Server
+  x = 170
+  width = 92
+  action = addbutton
+  actionid = 6b56ef7d-a633-47bf-b112-987107fe11f31685649765234
+  y = 12
+  height = 20
+}
+
+customization {
+  orientation = mid-left
+  restartbackgroundanimations = true
+  buttonaction = openlink;https://modrinth.com/modpack/gensokyo-reimagined-qol%btnaction_splitter_fm%
+  backgroundhovered = config/fancymenu/resources/modrinth_hover.png
+  label = 
+  loopbackgroundanimations = true
+  x = 126
+  width = 20
+  action = addbutton
+  actionid = a8ea8bce-9007-41d1-a589-962b0376d08b1701014542490
+  y = 84
+  backgroundnormal = config/fancymenu/resources/modrinth.png
+  height = 20
+}
+
+customization {
+  path = config/fancymenu/resources/new_logo.png
+  orientation = mid-left
+  x = 0
+  width = 351
+  action = addtexture
+  actionid = 342470af-f857-4694-9ae9-4275fbcb345f1704724957804
+  y = -191
+  height = 186
+}
+

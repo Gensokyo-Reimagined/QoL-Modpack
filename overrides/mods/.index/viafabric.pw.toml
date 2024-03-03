@@ -1,0 +1,13 @@
+filename = 'ViaFabric-0.4.13+63-dev.jar'
+name = 'ViaFabric'
+side = 'both'
+
+[download]
+hash = 'dc83278cb1759c5fab9c56882dbe542331b820dfea1eacd5b9ed0eb875d85e2c31f3df7e8cd7a3721b40eb005c4906f8b4cf204229b7b216127329940eaca7ff'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/YlKdE5VK/versions/ifjZlSsW/ViaFabric-0.4.13%2B63-dev.jar'
+
+[update.modrinth]
+mod-id = 'YlKdE5VK'
+version = 'ifjZlSsW'

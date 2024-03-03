@@ -1,0 +1,13 @@
+filename = 'PacketFixer-fabric-1.20.4-1.2.4.jar'
+name = 'Packet Fixer'
+side = 'both'
+
+[download]
+hash = '337b0ced3013fc37e3185be3bed1e264d7b3a8e797ad13ce98605179b05076ccece3c466cd3c7eef2537dcedfbd74c3d5135e6e3da8f0873bc33d61eab62bc3f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/c7m1mi73/versions/ApOlD7Rb/PacketFixer-fabric-1.20.4-1.2.4.jar'
+
+[update.modrinth]
+mod-id = 'c7m1mi73'
+version = 'ApOlD7Rb'
