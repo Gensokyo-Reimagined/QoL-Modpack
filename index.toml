@@ -1077,6 +1077,11 @@ hash = "d12bc54c9bb275cc5c3f5ea8c88a238bab6b1f68fbaa36c747eeac09ad20650d"
 metafile = true
 
 [[files]]
+file = "mods/voxy.pw.toml"
+hash = "b2c4d38f228fa504c20a98f52584d6998c4431875f63d9c76efa6418c28a4a69"
+metafile = true
+
+[[files]]
 file = "mods/worldeditcui-fabric.pw.toml"
 hash = "faf0c6a3a1973e7611c9d6c8fffc30a6381e48468e55bb2fa48d3edd52ee0d7e"
 metafile = true
