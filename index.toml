@@ -758,6 +758,11 @@ hash = "6acf1b92d8424d1baa9e9c8a75877ab0176ae8c686d7dd08b84bec6af48c5ecd"
 metafile = true
 
 [[files]]
+file = "mods/better-third-person.pw.toml"
+hash = "16fe6ed9141ad05b926a919da76d1a3596490f60f0aa91ee7d01604f3486df08"
+metafile = true
+
+[[files]]
 file = "mods/bobby.pw.toml"
 hash = "863e580738d669e5b7bff195d30f34ab3b0d22e299e011839f790f1f94920887"
 metafile = true
@@ -769,6 +774,11 @@ hash = "a565491285ada8b475b98a72a23f7221a24a8026f20e59fc17c708081844066b"
 [[files]]
 file = "mods/camera-utils.pw.toml"
 hash = "b87f893295747963bd0de01e639e838cd1a9ec3ed5684459bb57ea477128c0a2"
+metafile = true
+
+[[files]]
+file = "mods/capes.pw.toml"
+hash = "e830181780af968161663c573c8230a8af71d0329bbc585f1f8e887694472b94"
 metafile = true
 
 [[files]]
@@ -788,6 +798,11 @@ metafile = true
 [[files]]
 file = "mods/continuity-3.0.0-beta.4+1.20.2.jar"
 hash = "f9fbcbb54f76db39fc96502ced9e1a980c7075e3a5a3122264c0629af074f9b5"
+
+[[files]]
+file = "mods/craftgr.pw.toml"
+hash = "fa722a2d473f3bf10043f33a919753075d1fa35a69c2925cd02ddc25589596f4"
+metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
@@ -866,6 +881,11 @@ metafile = true
 [[files]]
 file = "mods/ferritecore-fabric.pw.toml"
 hash = "48f8ca009db92b23ea56c3699e1939dbba14d85f99e11a36c6fec1afc4f5df14"
+metafile = true
+
+[[files]]
+file = "mods/first-person-model.pw.toml"
+hash = "12ac002d0164a0b1b23097e673063f38ab2c9d940f5bc1f130a00cc1b8e38576"
 metafile = true
 
 [[files]]
@@ -987,6 +1007,11 @@ hash = "b1d09da63b5a315fc50608ebe9c15f207f18c17cbe2bb2b17fe5965c0dd10d2e"
 metafile = true
 
 [[files]]
+file = "mods/physicsmod.pw.toml"
+hash = "88132026ee602031bd3cae991cbc21e39cb69405066a7e4db5db1551395ea4f4"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "966f01c6e189532454a16c879686346dd226f12d7603e460dad9c7ee523236fd"
 metafile = true
@@ -1047,6 +1072,11 @@ hash = "37e917db3cddb70bfdecc62917d37091238f1826ee4630a2ecd381c995ad2ca9"
 metafile = true
 
 [[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "be143ce106f1069a48f2c5ab46b4889f9bd080089c2819ff763e4e3e1893ee00"
+metafile = true
+
+[[files]]
 file = "mods/spyglass-astronomy.pw.toml"
 hash = "5ab36bcb9cd8288b97c4ba9ada144d0b39746be11d4b5a057551dbe026eea95e"
 metafile = true
@@ -1078,7 +1108,7 @@ metafile = true
 
 [[files]]
 file = "mods/voxy.pw.toml"
-hash = "b2c4d38f228fa504c20a98f52584d6998c4431875f63d9c76efa6418c28a4a69"
+hash = "36a41e0e4e192b33e0db4af12c2eb32bb5f9a1443c8556e0c754ac189338a9a0"
 metafile = true
 
 [[files]]
