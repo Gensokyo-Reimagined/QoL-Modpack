@@ -1,0 +1,13 @@
+filename = 'gadget-0.2.3+1.20.3.jar'
+name = 'gadget'
+side = 'client'
+
+[download]
+hash = '101614f9e300a19f9857e40d89c0f1b0cc22abb7de29ca47a4e0ac981b0f13c8010a7adc1462ed723112b59b9720d89157139fe41532b5fcbd6c02a323c3a881'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/UoGtUh98/versions/OdTBm2dN/gadget-0.2.3%2B1.20.3.jar'
+
+[update.modrinth]
+mod-id = 'UoGtUh98'
+version = 'OdTBm2dN'

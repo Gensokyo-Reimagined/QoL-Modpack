@@ -1,0 +1,13 @@
+name = "ViaFabric"
+filename = "ViaFabric-0.4.13+63-dev.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "518765e66a47f5494f4455e89dc9dab16dd317b5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5132327
+project-id = 391298
