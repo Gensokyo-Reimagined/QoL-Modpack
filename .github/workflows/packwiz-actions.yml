@@ -1,0 +1,22 @@
+name: build-commit
+
+on: [ push, workflow_dispatch ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Set up GO and Packwiz
+      - uses: actions/checkout@v4
+      - uses: actions/setup-go@v5
+        with:
+          go-version: '1.16.1' # The Go version to download (if necessary) and use.
+      - run: go install github.com/packwiz/packwiz@latest
+      - name: Build the pack
+        run: packwiz modrinth export
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v2
+        with:
+          name: qol-pack-${{ steps.ref.outputs.branch }}
+          path: ./*.mrpack
