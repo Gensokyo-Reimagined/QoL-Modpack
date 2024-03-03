@@ -32,4 +32,5 @@ jobs:
       with:
         name: qol-pack-artifacts-${{ steps.ref.outputs.branch }}
         path: ./*.mrpack
+        compression-level: 9
 
