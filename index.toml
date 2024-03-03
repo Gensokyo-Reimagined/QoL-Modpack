@@ -759,7 +759,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-third-person.pw.toml"
-hash = "16fe6ed9141ad05b926a919da76d1a3596490f60f0aa91ee7d01604f3486df08"
+hash = "6263e11a74d3b52726a3ed048472ee7ac210b09dbfb9970279b2ae1c9407ffe8"
 metafile = true
 
 [[files]]
@@ -778,7 +778,7 @@ metafile = true
 
 [[files]]
 file = "mods/capes.pw.toml"
-hash = "e830181780af968161663c573c8230a8af71d0329bbc585f1f8e887694472b94"
+hash = "219d1f2e05a8093ef522a84edf58b8c95db634faabb9d035aa9e1d461849f75a"
 metafile = true
 
 [[files]]
@@ -801,7 +801,7 @@ hash = "f9fbcbb54f76db39fc96502ced9e1a980c7075e3a5a3122264c0629af074f9b5"
 
 [[files]]
 file = "mods/craftgr.pw.toml"
-hash = "fa722a2d473f3bf10043f33a919753075d1fa35a69c2925cd02ddc25589596f4"
+hash = "9bb62a810a3f723c352d94297e04184cdb8c62bf25fb23751fa858fbdcbe6856"
 metafile = true
 
 [[files]]
@@ -849,6 +849,11 @@ hash = "f61b029a23f9322e3ad5f48f1a9a0af8952822509047e44a2f0da114411de6b7"
 metafile = true
 
 [[files]]
+file = "mods/explosive-enhancement.pw.toml"
+hash = "afe4a2446679827ede0d3a0a3ebc5004bffd98142642a65b8e72ee6163334bd5"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "cfe484dfb3903e353e0cd7d570457199eb78edbbd93e7cf01b75b89e2dbdc4fd"
 metafile = true
@@ -885,7 +890,7 @@ metafile = true
 
 [[files]]
 file = "mods/first-person-model.pw.toml"
-hash = "12ac002d0164a0b1b23097e673063f38ab2c9d940f5bc1f130a00cc1b8e38576"
+hash = "530a9db0f3a70af433f183de6e05fe6df7c9cd4c18e5db77602a26a9c1e3bd75"
 metafile = true
 
 [[files]]
@@ -1008,7 +1013,7 @@ metafile = true
 
 [[files]]
 file = "mods/physicsmod.pw.toml"
-hash = "88132026ee602031bd3cae991cbc21e39cb69405066a7e4db5db1551395ea4f4"
+hash = "3bce10e5eaa0b0bf9201ddcc8857314c36e468c3e5205f18e8e06580ef444a96"
 metafile = true
 
 [[files]]
@@ -1073,7 +1078,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "be143ce106f1069a48f2c5ab46b4889f9bd080089c2819ff763e4e3e1893ee00"
+hash = "ea28d5198ea150397be0590774a61cb0b761e1e37353271a69d1b05c8ee42c79"
 metafile = true
 
 [[files]]
@@ -1108,12 +1113,17 @@ metafile = true
 
 [[files]]
 file = "mods/voxy.pw.toml"
-hash = "36a41e0e4e192b33e0db4af12c2eb32bb5f9a1443c8556e0c754ac189338a9a0"
+hash = "b2c4d38f228fa504c20a98f52584d6998c4431875f63d9c76efa6418c28a4a69"
 metafile = true
 
 [[files]]
 file = "mods/worldeditcui-fabric.pw.toml"
 hash = "faf0c6a3a1973e7611c9d6c8fffc30a6381e48468e55bb2fa48d3edd52ee0d7e"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "6fea2f9bac56a998ca70374c89e788a7d5d78d0b59311f4fadb09ec91af99212"
 metafile = true
 
 [[files]]
