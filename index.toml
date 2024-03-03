@@ -734,6 +734,11 @@ hash = "0620edcd851e4387e07a3b3b34f7f1e8fb1a3382ae689b14aaa3e088da0d6120"
 metafile = true
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "4209b7c1f768202b2f70ec5ab499b26ae9d4e73cf1e855099fe5fb23db0512e5"
+metafile = true
+
+[[files]]
 file = "mods/ImmediatelyFast-Fabric-1.2.11-SNAPSHOT+1.20.4.jar"
 hash = "cf8c8c65a846f263ee9d0a8c07efcce7bd75c50b4d8e5ce866aa0b2fd4ef30f0"
 
