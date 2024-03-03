@@ -9,14 +9,6 @@ file = ".spyglass_astronomy/unknown/6420008576066811976.txt"
 hash = "3f9c8acf73895033c07275c7eb6939ef69c7b40755e1ece67539e20a692dfa80"
 
 [[files]]
-file = "LICENSE"
-hash = "a402adfbaaf744117638c882fb524db2876fce2bcc18b7de26bfd22745bc476f"
-
-[[files]]
-file = "README.md"
-hash = "c975f4deeec1ea6a12ecca317edfebfa726ede0353675b895c588d0200d61610"
-
-[[files]]
 file = "config/ViaFabric/viafabric.yml"
 hash = "dd34f976667a5d91df70c76db5f71a7338f1f04510f0b771ed88f35b2c37adcb"
 
@@ -1062,11 +1054,6 @@ hash = "6cca1ddaa3bef2b12c077837173a0f170695da697c27ec2ccdde7fa058e86a1e"
 metafile = true
 
 [[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "0150d00929ef9a718de3377b9861c1ac6e675464037f6bf10da4b48e858d540c"
-metafile = true
-
-[[files]]
 file = "mods/smoothcoasters.pw.toml"
 hash = "b8fd793a77e2c66e65f43d53a34642bfa863b5b407cb2170cd6118c90ae06388"
 metafile = true
@@ -1115,6 +1102,10 @@ metafile = true
 file = "mods/vmp-fabric.pw.toml"
 hash = "d12bc54c9bb275cc5c3f5ea8c88a238bab6b1f68fbaa36c747eeac09ad20650d"
 metafile = true
+
+[[files]]
+file = "mods/voxy-0.1.5-alpha.jar"
+hash = "9243a2070bf0015c8aea210dcd8e36941fa40ffd2a5663526c3b28bdf558ef99"
 
 [[files]]
 file = "mods/worldeditcui-fabric.pw.toml"
