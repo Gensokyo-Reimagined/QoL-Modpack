@@ -24,7 +24,10 @@ jobs:
     - name: Install packwiz
       run: go install github.com/packwiz/packwiz@latest
 
-    - name: Upload artifacts
+    - name: Create the pack
+      run: packwiz modrinth export
+
+    - name: Upload the pack
       uses: actions/upload-artifact@v2
       with:
         name: qol-pack-artifacts-${{ steps.ref.outputs.branch }}
