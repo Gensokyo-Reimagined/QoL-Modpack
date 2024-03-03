@@ -748,12 +748,14 @@ hash = "9b0b843844e70d1b10d805527b91686e7685c3aedde2422c5b21609fd90246d8"
 metafile = true
 
 [[files]]
-file = "mods/better-clouds-1.5.7+1.20.4.jar"
-hash = "9208943b295e08c5c2fadf22b97b219f110bed41f2c737b6922a4cef8a9bb81e"
+file = "mods/better-clouds.pw.toml"
+hash = "4e15b840dd4d26308f7a509f732b9b0e9044bdc36628515dde050ea03fe97f52"
+metafile = true
 
 [[files]]
-file = "mods/better-pie-chart-1.0.0+1.20.jar"
-hash = "f46122021e5d45f9b2afecb912ef742d3e301e9262e1afb53da9e2e74bfd3eef"
+file = "mods/better-pie-chart.pw.toml"
+hash = "6acf1b92d8424d1baa9e9c8a75877ab0176ae8c686d7dd08b84bec6af48c5ecd"
+metafile = true
 
 [[files]]
 file = "mods/bobby.pw.toml"
@@ -827,8 +829,9 @@ hash = "3e9cda0fa395a1f6fe8e90182cd8ffab7e72ba9b3a75cf4d4e06c5650199d899"
 metafile = true
 
 [[files]]
-file = "mods/experimentalPerformance-0.1.1.jar"
-hash = "dd50cb2aa0ade5b1ead157670d0d600b399fe7979d956c6060567d139e8b1d10"
+file = "mods/experimentalperformance.pw.toml"
+hash = "f61b029a23f9322e3ad5f48f1a9a0af8952822509047e44a2f0da114411de6b7"
+metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
@@ -856,8 +859,9 @@ hash = "ebe385af569e07826622795acc1de79358915535f95de3df4ab83ea9fdcc2eb3"
 metafile = true
 
 [[files]]
-file = "mods/fasterrandom-3.0.1.jar"
-hash = "96aeb6d81cb804a61427f763288ff6d5a1616c68cc457840014a01ad76b8a117"
+file = "mods/faster-random.pw.toml"
+hash = "b549ab4aa4f36488b0510240d77157dda5baf5c18f474ff30ebbac4705b5db91"
+metafile = true
 
 [[files]]
 file = "mods/ferritecore-fabric.pw.toml"
@@ -865,17 +869,14 @@ hash = "48f8ca009db92b23ea56c3699e1939dbba14d85f99e11a36c6fec1afc4f5df14"
 metafile = true
 
 [[files]]
-file = "mods/forcecloseloadingscreen-2.2.0.jar"
-hash = "1e35fb2764c94cf2dbb9ddb556bac84424daf149dadfce0b95bfc0c0bf26ac73"
+file = "mods/forcecloseworldloadingscreen.pw.toml"
+hash = "f887b988eab34f06e2c1ddc8c61e04824301262d5e366e4c6f482f673bc9b143"
+metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port-fabric.pw.toml"
 hash = "50b1bf576c504b6ad39532db6f0e38c7804ca1fe6649ad754100d7b8f4937c1f"
 metafile = true
-
-[[files]]
-file = "mods/gadget-0.2.3+1.20.3.jar"
-hash = "c1ee910e751ce3126814c912d6ee4a841b38d2a4c36a5c3e6462f1e9dad65770"
 
 [[files]]
 file = "mods/indium.pw.toml"
@@ -942,12 +943,14 @@ hash = "fe5eb25afb43a5bfbd7d16c8b72a307d5440ee6219fa7f5d25670e548493aa1a"
 metafile = true
 
 [[files]]
-file = "mods/modmenu-9.0.0.jar"
-hash = "b180249fa2b5e01ee703a987aedefd5e45ee940919c58725e4967d6e7007a0f1"
+file = "mods/modmenu.pw.toml"
+hash = "b61b0ccdc8328d637c0f57cbb25258491b94ae03c89c4194ad6ca8b86579dd28"
+metafile = true
 
 [[files]]
-file = "mods/moreculling-1.20.4-0.22.1.jar"
-hash = "c8d568404a72d446eee11031fef655a68e7cc358ee8c589e91daef00a07d9608"
+file = "mods/moreculling.pw.toml"
+hash = "ef9c4bc27256d065df4feaba2bc05883ba22987c41cd48786070d37ae85cc8e1"
+metafile = true
 
 [[files]]
 file = "mods/no-telemetry.pw.toml"
@@ -965,8 +968,9 @@ hash = "a4fcc61837abe8a895f7dc85f97b6c1950dc208da43f58e2fc0ac90ff8b66fcb"
 metafile = true
 
 [[files]]
-file = "mods/noxesium-1.2.0.jar"
-hash = "9e41c719092c1e9e15b77cf42f06cd5d0b9a20ee9240306b76f4fff53c49830d"
+file = "mods/noxesium.pw.toml"
+hash = "aa82f9bf467fc7069f3b00a612348b6fa15f112e06a3cda85e67181daa18b974"
+metafile = true
 
 [[files]]
 file = "mods/nvidium-0.2.6-beta.jar"
@@ -1043,8 +1047,9 @@ hash = "37e917db3cddb70bfdecc62917d37091238f1826ee4630a2ecd381c995ad2ca9"
 metafile = true
 
 [[files]]
-file = "mods/spyglass_astronomy-1.0.10-mc1.20.2.jar"
-hash = "1fb337dcb6001c204d5bf7ca1188fc44954cfc1ab9a359ccdd24afc469ef7d93"
+file = "mods/spyglass-astronomy.pw.toml"
+hash = "5ab36bcb9cd8288b97c4ba9ada144d0b39746be11d4b5a057551dbe026eea95e"
+metafile = true
 
 [[files]]
 file = "mods/starlight.pw.toml"
@@ -1052,8 +1057,9 @@ hash = "81dcaf6471b39e60612f29988aa57c21fcf02c50df1c4a4634ffd61ae24d007b"
 metafile = true
 
 [[files]]
-file = "mods/threadtweak-fabric-1.20.4-0.1.2.jar"
-hash = "4e47a3fad59cb9aed52b68a96a7cff0ae4b00ee8e1a9f9acf03381f8bfb19e4d"
+file = "mods/threadtweak.pw.toml"
+hash = "44593cfab255a73ae00161802962950525bad36716eb00afda5f3e9bc6f4cba9"
+metafile = true
 
 [[files]]
 file = "mods/tooltipfix.pw.toml"

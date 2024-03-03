@@ -1,0 +1,13 @@
+name = "Better Pie Chart"
+filename = "better-pie-chart-1.0.0+1.20.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Wx8hDV5V/versions/9Wah0vSj/better-pie-chart-1.0.0%2B1.20.jar"
+hash-format = "sha1"
+hash = "5354727838f6ff120e5a41f683b41e08a2e4ad9c"
+
+[update]
+[update.modrinth]
+mod-id = "Wx8hDV5V"
+version = "9Wah0vSj"
