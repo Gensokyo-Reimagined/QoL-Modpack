@@ -6,3 +6,6 @@ net.minecraft.class_429 {
 net.minecraft.class_500 {
 }
 
+net.minecraft.class_442 {
+}
+

@@ -42,7 +42,7 @@ hash = "2408c13d42c0ec4acc174efe3af2a4c57d96d82594a8edeee3f37f23401812e8"
 
 [[files]]
 file = "config/fancymenu/config.txt"
-hash = "222a3aa9c9eb45d23f0167b6200143a6024ab0e5a06f819b11755e9bdb500dbc"
+hash = "e4608a2b892315d654e79c1734d17ddad905e2dd0a5209efec7843aede60c240"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
@@ -50,7 +50,7 @@ hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "00c6ace3bf066190da3a8b014b6bfcbfaf64a405ea4757dc96a44d8a2632268d"
+hash = "599d34c7e937e3b78af9deaa1b1aaa60d2d5ddc3a82c75c14eeb15c49c7d9356"
 
 [[files]]
 file = "config/fancymenu/customization/.disabled/normalmc.txt"
@@ -362,7 +362,7 @@ hash = "271ad0560fb53c7f9a011ddbf8b1633368635e374b2c7e05a54aaed80f99b986"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "8ba06d7cdc4ac018acad5bd744d4774fd457bd9813a162bc8e7e1cf11a49eb82"
+hash = "1e30849381cb126032132ea524551945810fec97f768c3e34066fff00f8e7b58"
 
 [[files]]
 file = "data/fabricDefaultResourcePacks.dat"
@@ -572,7 +572,7 @@ metafile = true
 
 [[files]]
 file = "mods/.index/modernfix.pw.toml"
-hash = "81c056a03055b6bbe2e575283d04f43be58216742616f3caf3e2f4386dc2b893"
+hash = "ca7cc306ad9f3f8eb6e92d0cad5187778a23b081500b5820dbd9effd08ba0dfd"
 metafile = true
 
 [[files]]
@@ -1016,11 +1016,6 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "966f01c6e189532454a16c879686346dd226f12d7603e460dad9c7ee523236fd"
-metafile = true
-
-[[files]]
-file = "mods/replay-mod-fabric-and-forge.pw.toml"
-hash = "16d885801a525401921c5d79947def1abd11dd40c9bbb2bfa4ce196ce8f03666"
 metafile = true
 
 [[files]]
