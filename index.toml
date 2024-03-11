@@ -258,7 +258,7 @@ hash = "f4a5aa46cf4ed0e8df125b4fa84c37021812da7f125b694bdfd6490f36b93868"
 
 [[files]]
 file = "config/yosbr/config/bobby.conf"
-hash = "be5f8249ca699be05ce7c3f99847b4d72e7893e3d0d147bf78cf2feac138a9bd"
+hash = "0a48d2d8ac0d8f883496e66b2db5417c52faf1ad21034b64010e0f6eda939540"
 
 [[files]]
 file = "config/yosbr/config/chatpatches.json"
@@ -294,7 +294,7 @@ hash = "4c3d1985752777677bfaa0c4404d777fa5346addedba8b21ce393cafc7671a25"
 
 [[files]]
 file = "config/yosbr/config/exordium.json"
-hash = "35e114d52dc7d491a6088188a3dcf8d8a672f080626705cb422e67145ab61b65"
+hash = "63c261c392b54d002762941703f8e0b6a83ef22592c94e5e0ea62ec048de5b65"
 
 [[files]]
 file = "config/yosbr/config/experimentalperformance.properties"
@@ -362,7 +362,7 @@ hash = "271ad0560fb53c7f9a011ddbf8b1633368635e374b2c7e05a54aaed80f99b986"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "1e30849381cb126032132ea524551945810fec97f768c3e34066fff00f8e7b58"
+hash = "eb6ed2e6b222c149952cc5b5e71383a9fe37eda13d43469fa4dbbfce4cc4650e"
 
 [[files]]
 file = "data/fabricDefaultResourcePacks.dat"
@@ -427,7 +427,7 @@ metafile = true
 
 [[files]]
 file = "mods/.index/craftpresence.pw.toml"
-hash = "3c31731654b9d9f6824b198e5b68963ec5b4cdcaca8ce8f70cc54738beb51c29"
+hash = "2928802be2e1160cfec349179ab43f9f611f92f5dd09f343be4671062dab4898"
 metafile = true
 
 [[files]]
@@ -472,7 +472,7 @@ metafile = true
 
 [[files]]
 file = "mods/.index/fabric-language-kotlin.pw.toml"
-hash = "cf75e5ca126e344fbb45b7dc2ba880a5115cf8e1475add7b5350c2128dba6893"
+hash = "d74850aaf1ed5a53805d523aa2b624f58c43813446be0b6c066a599c80d704e6"
 metafile = true
 
 [[files]]
@@ -1006,11 +1006,6 @@ metafile = true
 [[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "18998b5c1ec55ea4febac338d248da721a08378089af76a6cefcbcfd321a18f1"
-metafile = true
-
-[[files]]
-file = "mods/physicsmod.pw.toml"
-hash = "3bce10e5eaa0b0bf9201ddcc8857314c36e468c3e5205f18e8e06580ef444a96"
 metafile = true
 
 [[files]]

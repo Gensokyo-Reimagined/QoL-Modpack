@@ -1,6 +1,6 @@
 {
   "configVersion": 3,
-  "enableSignBuffering": true,
+  "enableSignBuffering": false,
   "targetFPSNameTags": 60,
   "enableNametagScreenBuffering": false,
   "pollRate": 60,
