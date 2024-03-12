@@ -382,7 +382,7 @@ hash = "a7a3e7f944bb58f35d7aa2971b037e18fd8e5bb381b3d12ee399e2c2f26f0d48"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "4209b7c1f768202b2f70ec5ab499b26ae9d4e73cf1e855099fe5fb23db0512e5"
+hash = "e29e2c6ee1f9b25c81b61af028c90917379921b5797a1d4732b8a6ef64a6e075"
 metafile = true
 
 [[files]]
@@ -498,11 +498,6 @@ metafile = true
 [[files]]
 file = "mods/experimentalperformance.pw.toml"
 hash = "f61b029a23f9322e3ad5f48f1a9a0af8952822509047e44a2f0da114411de6b7"
-metafile = true
-
-[[files]]
-file = "mods/explosive-enhancement.pw.toml"
-hash = "20487e4b3ada29b8574c50d82cbff3d3729c9a16e912d9e18c085d6db4bac141"
 metafile = true
 
 [[files]]
@@ -720,7 +715,7 @@ metafile = true
 
 [[files]]
 file = "mods/spyglass-astronomy.pw.toml"
-hash = "5ab36bcb9cd8288b97c4ba9ada144d0b39746be11d4b5a057551dbe026eea95e"
+hash = "10ad0e2f0775135bf230f4620b10d75a01bc0593d7c37d1a8f4027380f623517"
 metafile = true
 
 [[files]]
