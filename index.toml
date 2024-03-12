@@ -659,6 +659,11 @@ hash = "18998b5c1ec55ea4febac338d248da721a08378089af76a6cefcbcfd321a18f1"
 metafile = true
 
 [[files]]
+file = "mods/particle-core.pw.toml"
+hash = "4420841f7846fa09df8bbddc7d497b88c4373ef2f4d643dfae42605e3b576b01"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "966f01c6e189532454a16c879686346dd226f12d7603e460dad9c7ee523236fd"
 metafile = true
