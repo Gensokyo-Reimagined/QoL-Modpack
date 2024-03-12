@@ -306,10 +306,10 @@ customization {
   path = config/fancymenu/resources/new_logo.png
   orientation = mid-left
   x = 0
-  width = 351
+  width = 335
   action = addtexture
-  actionid = 342470af-f857-4694-9ae9-4275fbcb345f1704724957804
-  y = -191
-  height = 186
+  actionid = ce1c1cb8-7c8a-43a8-b51a-e2e02cba116d1710271583606
+  y = -194
+  height = 195
 }
 
