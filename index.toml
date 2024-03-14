@@ -58,7 +58,7 @@ hash = "4dfd00d81d92637552e9563665018604e4cb316613c6b61cff04af5d314a45ae"
 
 [[files]]
 file = "config/fancymenu/customization/Test.txt"
-hash = "13ba668afb01ff5aa6684701cb435d1b05699d5e8a1a6cf08177306ee63dab8c"
+hash = "ce1cc1b40c2a92dd4c2f1b36165b0b30030f3f2501025d577adeaabbd724f9fa"
 
 [[files]]
 file = "config/fancymenu/customization/begone.txt"
@@ -129,10 +129,6 @@ file = "config/fancymenu/resources/discord_hover.png"
 hash = "72c9e5fd0a26666f190f218e7a7602c43049df5802f17aaa390ff012fab11444"
 
 [[files]]
-file = "config/fancymenu/resources/logo.png"
-hash = "546834e3a252bc47b364e07af2d5f43f5b3a20aa19573944378988f49a53e50f"
-
-[[files]]
 file = "config/fancymenu/resources/modrinth.png"
 hash = "f850ad1db3e8f42c91a52b9deda3399afc96d6e28fa04c3f5f3f8b86b2bda220"
 
@@ -142,7 +138,7 @@ hash = "2ec1a29f9850d998c6db555b3802cd1b879d6be332cb6ad768173818664d57c8"
 
 [[files]]
 file = "config/fancymenu/resources/new_logo.png"
-hash = "1aa395c881beb00e3c995e86598e793b28157aaa9ac9ebe7f75530fde54c3406"
+hash = "c164f32e45a56fb9fa4c85f25358e40eb0fac9f0d141ab971be21e57a3944ed2"
 
 [[files]]
 file = "config/fancymenu/slideshows/bg/images/image (11).png"
@@ -425,7 +421,7 @@ hash = "a565491285ada8b475b98a72a23f7221a24a8026f20e59fc17c708081844066b"
 
 [[files]]
 file = "mods/camera-utils.pw.toml"
-hash = "b87f893295747963bd0de01e639e838cd1a9ec3ed5684459bb57ea477128c0a2"
+hash = "7cfeafc78b2b57839463c14f972bf54069fb8e6876e7c0ffe1b7f9f18841d662"
 metafile = true
 
 [[files]]
@@ -542,7 +538,7 @@ metafile = true
 
 [[files]]
 file = "mods/forcecloseworldloadingscreen.pw.toml"
-hash = "f887b988eab34f06e2c1ddc8c61e04824301262d5e366e4c6f482f673bc9b143"
+hash = "0b979a56ecb4f9cb0ae346d69b7ef0e95eb2c16c058fe0bf36728bb4ed453d1a"
 metafile = true
 
 [[files]]
@@ -660,7 +656,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-core.pw.toml"
-hash = "4420841f7846fa09df8bbddc7d497b88c4373ef2f4d643dfae42605e3b576b01"
+hash = "a14a9d2c780c25e86d23a923504c8a1d6265fc31b949053dfa8f0c2dc4c5acbe"
 metafile = true
 
 [[files]]
