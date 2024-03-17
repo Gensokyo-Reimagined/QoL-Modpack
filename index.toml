@@ -431,7 +431,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatpatches.pw.toml"
-hash = "947e4be101bb3e7ff486ce6d5e8d9caeed3c7c81f5adf9e2278ee309fd234bce"
+hash = "f24b557e75be0395d902c2ac6b313856963fca0a3871060e14a7555e78600a31"
 metafile = true
 
 [[files]]
@@ -523,7 +523,7 @@ metafile = true
 
 [[files]]
 file = "mods/faster-random.pw.toml"
-hash = "b549ab4aa4f36488b0510240d77157dda5baf5c18f474ff30ebbac4705b5db91"
+hash = "3bd6726a24b1c6dcdd3884f949601b2d67f04a191f8308c249d64877b796ec8e"
 metafile = true
 
 [[files]]
@@ -691,7 +691,7 @@ metafile = true
 
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "6cca1ddaa3bef2b12c077837173a0f170695da697c27ec2ccdde7fa058e86a1e"
+hash = "53fcdbbf86febbe3ee76aea628b684500e167e849addd87d1069b157df0001f3"
 metafile = true
 
 [[files]]
@@ -746,7 +746,7 @@ metafile = true
 
 [[files]]
 file = "mods/voxy-0.1.5-alpha.jar"
-hash = "65f3a1460ab064f51fa2f183d6dce935eab6a7b71b6e9a16c34370069edd20e0"
+hash = "13cb7ae72e3347ce421c88f104a10e91b546565e6b57f2b048c1506651dd662d"
 
 [[files]]
 file = "mods/worldeditcui-fabric.pw.toml"
