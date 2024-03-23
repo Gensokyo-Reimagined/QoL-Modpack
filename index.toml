@@ -498,7 +498,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "cfe484dfb3903e353e0cd7d570457199eb78edbbd93e7cf01b75b89e2dbdc4fd"
+hash = "d041d301f84fb5fb33e4333d0c229923c119befc2bb664772590dcdbd7666ef2"
 metafile = true
 
 [[files]]
@@ -607,7 +607,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "ca7cc306ad9f3f8eb6e92d0cad5187778a23b081500b5820dbd9effd08ba0dfd"
+hash = "a05dcb27d2d7895c0ae969259d96841d689f233746595140ad8d9fc8cd9d8610"
 metafile = true
 
 [[files]]
@@ -760,7 +760,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "ba61863e3deac45bbd2da660f458369acd20e1178ecd801ff46400e5cc94d9f8"
+hash = "cdd17da4a2da99a7f4fd8d856ed5c0f6a1704b5014472e8a0ee7c4eb10de37f2"
 metafile = true
 
 [[files]]
