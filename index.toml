@@ -358,7 +358,7 @@ hash = "271ad0560fb53c7f9a011ddbf8b1633368635e374b2c7e05a54aaed80f99b986"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "eb6ed2e6b222c149952cc5b5e71383a9fe37eda13d43469fa4dbbfce4cc4650e"
+hash = "dafad5ab9f435e585aff55f51434496493ef8491a1cbcd851a97108a9b34fc08"
 
 [[files]]
 file = "data/fabricDefaultResourcePacks.dat"
