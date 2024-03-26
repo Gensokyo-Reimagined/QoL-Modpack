@@ -513,7 +513,7 @@ metafile = true
 
 [[files]]
 file = "mods/falling-leaves-fabric.pw.toml"
-hash = "e651193b4394351dd5246cf112ccff75efd3053e152cd102fb42d0d7ae8aa018"
+hash = "bb8d25bfaa946d7d85e2215c61b6e15c580487acc95715d26add374b8d2d3464"
 metafile = true
 
 [[files]]
@@ -523,7 +523,7 @@ metafile = true
 
 [[files]]
 file = "mods/faster-random.pw.toml"
-hash = "3bd6726a24b1c6dcdd3884f949601b2d67f04a191f8308c249d64877b796ec8e"
+hash = "8af71e2c291a546e0bfa80715e58138685c1a0510198f2ba563b0d67b9b6070d"
 metafile = true
 
 [[files]]
