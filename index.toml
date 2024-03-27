@@ -523,7 +523,7 @@ metafile = true
 
 [[files]]
 file = "mods/faster-random.pw.toml"
-hash = "8af71e2c291a546e0bfa80715e58138685c1a0510198f2ba563b0d67b9b6070d"
+hash = "56107724b6c4bc54a13b822529e71bff3d2d4c63f6ead6a98bf8a1e603fee7c1"
 metafile = true
 
 [[files]]
@@ -755,7 +755,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "9dbd94094a583e48664b46459b414799f1a4e357a29a9e31c5f88e29feb13352"
+hash = "b0bb97940efa94131fca8173d8487ef2110f86e8495d0f5269c0f95a57864d72"
 metafile = true
 
 [[files]]
