@@ -745,8 +745,9 @@ hash = "435f2b78dca925371c1dcbdca15bd1d2cfa26a6e827f5b9439e6dcbbb3685397"
 metafile = true
 
 [[files]]
-file = "mods/voxy-0.1.5-alpha.jar"
-hash = "13cb7ae72e3347ce421c88f104a10e91b546565e6b57f2b048c1506651dd662d"
+file = "mods/voxy.pw.toml"
+hash = "d6a437bb6d598a7c3d6c17ffa1984f717e5033e58e271dca7dba69f584d4532b"
+metafile = true
 
 [[files]]
 file = "mods/worldeditcui-fabric.pw.toml"
