@@ -391,11 +391,6 @@ hash = "368df52bd902f4d47ba20d49e2e296d61b17c86a94e11307f06061df68b2e2c8"
 metafile = true
 
 [[files]]
-file = "mods/badoptimizations.pw.toml"
-hash = "9b0b843844e70d1b10d805527b91686e7685c3aedde2422c5b21609fd90246d8"
-metafile = true
-
-[[files]]
 file = "mods/better-clouds.pw.toml"
 hash = "4e15b840dd4d26308f7a509f732b9b0e9044bdc36628515dde050ea03fe97f52"
 metafile = true
@@ -667,6 +662,11 @@ metafile = true
 [[files]]
 file = "mods/resourcify.pw.toml"
 hash = "5335a07b3426ab99d56f7bf4380075bc084e9228fb9ca3bf95a1dc0e987cf928"
+metafile = true
+
+[[files]]
+file = "mods/rrls.pw.toml"
+hash = "42e0923e98116788bdc09a174d943d81e28e0c2b3c7221eaacb839a9a9359aed"
 metafile = true
 
 [[files]]
