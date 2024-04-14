@@ -513,7 +513,7 @@ metafile = true
 
 [[files]]
 file = "mods/faster-random.pw.toml"
-hash = "56107724b6c4bc54a13b822529e71bff3d2d4c63f6ead6a98bf8a1e603fee7c1"
+hash = "fbf47623e89c966f0c90623854e390ddb20270c67d446506618588e324994325"
 metafile = true
 
 [[files]]
@@ -597,7 +597,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "a05dcb27d2d7895c0ae969259d96841d689f233746595140ad8d9fc8cd9d8610"
+hash = "66afcc444afc211fb2c9fdbfb4826e39165acf9a4c1343ed491fff5988e1d539"
 metafile = true
 
 [[files]]
@@ -656,7 +656,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "5335a07b3426ab99d56f7bf4380075bc084e9228fb9ca3bf95a1dc0e987cf928"
+hash = "ad9d87a747af9cbb9c99727c2658e0582379514324da5a3679a0dae5cfcb4673"
 metafile = true
 
 [[files]]
@@ -731,7 +731,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabric.pw.toml"
-hash = "225cd172b3f248f14c50af53e83b7eae30388b85558e57c193c156a62c292660"
+hash = "7b4297002c4936d1ded1ef212e064273af689d8fdbed1d747310e25d9b57bc43"
 metafile = true
 
 [[files]]
@@ -756,7 +756,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "cdd17da4a2da99a7f4fd8d856ed5c0f6a1704b5014472e8a0ee7c4eb10de37f2"
+hash = "ddb52a14f466b3cb54bc43fed7d95ae86bedb4197a74eda897dccc252a7cff22"
 metafile = true
 
 [[files]]
