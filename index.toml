@@ -382,10 +382,6 @@ hash = "e29e2c6ee1f9b25c81b61af028c90917379921b5797a1d4732b8a6ef64a6e075"
 metafile = true
 
 [[files]]
-file = "mods/ImmediatelyFast-Fabric-1.2.11-SNAPSHOT+1.20.4.jar"
-hash = "cf8c8c65a846f263ee9d0a8c07efcce7bd75c50b4d8e5ce866aa0b2fd4ef30f0"
-
-[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "368df52bd902f4d47ba20d49e2e296d61b17c86a94e11307f06061df68b2e2c8"
 metafile = true
@@ -534,6 +530,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port-fabric.pw.toml"
 hash = "50b1bf576c504b6ad39532db6f0e38c7804ca1fe6649ad754100d7b8f4937c1f"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "bd0e1bfaa16148cd114e33d11ec8f742979ec5b9372f6baa6a335a316659e70e"
 metafile = true
 
 [[files]]
