@@ -435,7 +435,7 @@ hash = "f9fbcbb54f76db39fc96502ced9e1a980c7075e3a5a3122264c0629af074f9b5"
 
 [[files]]
 file = "mods/craftgr.pw.toml"
-hash = "9bb62a810a3f723c352d94297e04184cdb8c62bf25fb23751fa858fbdcbe6856"
+hash = "50aae0d807d427c53921038623f97e6d76ae664ff9eea076a2032e2efc0b8c71"
 metafile = true
 
 [[files]]
@@ -608,7 +608,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "ef9c4bc27256d065df4feaba2bc05883ba22987c41cd48786070d37ae85cc8e1"
+hash = "aeb80ffcd7d25d95429f93b54e31d620f85e75a08769126d77031bd8fb262cbf"
 metafile = true
 
 [[files]]
@@ -618,7 +618,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "e96aaa7d953f793cbfc854a648f00ba86d726f4d679caf56dbb2ed5fa9c114c4"
+hash = "2992b2abe20d1a97dc84b5af87af5586bb0537b076e115e71ce3ada86c821da6"
 metafile = true
 
 [[files]]
@@ -657,7 +657,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "ad9d87a747af9cbb9c99727c2658e0582379514324da5a3679a0dae5cfcb4673"
+hash = "5afe31c0a38042de3aa4c04f49eee298c5bc536dc4f8c1a4923bd363e2fde16e"
 metafile = true
 
 [[files]]
@@ -752,12 +752,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "0d210ad4a4a394e25e55bb3805316020378a75ff320e5a3e7c74de0110b1ff7f"
+hash = "6460843f38a29f9c5dac033cd4ecdc8c92eb2fd2fffb0711acfcd65173f438d2"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "ddb52a14f466b3cb54bc43fed7d95ae86bedb4197a74eda897dccc252a7cff22"
+hash = "66e75dfb04e78ea970ddf6b9c60eb441a7569677572890b11ab15b4d3426c149"
 metafile = true
 
 [[files]]

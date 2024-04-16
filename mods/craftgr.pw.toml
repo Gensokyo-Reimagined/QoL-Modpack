@@ -1,16 +1,16 @@
 name = "CraftGR"
-filename = "craftgr-1.6.0-mc1.20.4.jar"
+filename = "craftgr-1.6.1-mc1.20.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/lKYr4L6w/versions/gWf5WQqa/craftgr-1.6.0-mc1.20.4.jar"
+url = "https://cdn.modrinth.com/data/lKYr4L6w/versions/9WuE4tw7/craftgr-1.6.1-mc1.20.4.jar"
 hash-format = "sha1"
-hash = "60e60305c14b2736c2051b4e8662bbac0c4399c6"
+hash = "af477b28075a632b1187eeb4b58ddd6325f79662"
 
 [update]
 [update.modrinth]
 mod-id = "lKYr4L6w"
-version = "gWf5WQqa"
+version = "9WuE4tw7"
 
 [option]
 optional = true
