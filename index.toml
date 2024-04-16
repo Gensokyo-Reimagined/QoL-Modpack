@@ -42,7 +42,7 @@ hash = "2408c13d42c0ec4acc174efe3af2a4c57d96d82594a8edeee3f37f23401812e8"
 
 [[files]]
 file = "config/fancymenu/config.txt"
-hash = "e4608a2b892315d654e79c1734d17ddad905e2dd0a5209efec7843aede60c240"
+hash = "d87876275cf1911c4713267887c3a33b39c4d6327a3c0659386bf71c3070bc74"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
@@ -440,7 +440,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "cd76f3318dde08e710fc20b03cb1aff773715789724a7d5f50d143247cfe87e9"
+hash = "f13d3cfcd6e8e253fc24a727e6dbe42b8e4496133d405215596300b83b5bf7fa"
 metafile = true
 
 [[files]]

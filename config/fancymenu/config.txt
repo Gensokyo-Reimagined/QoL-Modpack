@@ -32,7 +32,7 @@ S:customgameintroskiptext = '';
 ##[minecraftwindow]
 
 [A minecraft restart is required after changing this value.]
-S:customwindowtitle = 'Gensokyo Reimagined v1.6.0';
+S:customwindowtitle = 'Gensokyo Reimagined v1.6.1';
 [A minecraft restart is required after changing this value.]
 B:customwindowicon = 'true';
 
