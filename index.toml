@@ -509,7 +509,7 @@ metafile = true
 
 [[files]]
 file = "mods/faster-random.pw.toml"
-hash = "eba3571c6d85a9351c5fe655fb017b6f088672e0c76d293e0faa3f0a20b78e21"
+hash = "9afa18269996bcaa57899af3175ad0bef142363c3c863b1ed7206089677fcd3d"
 metafile = true
 
 [[files]]
@@ -534,7 +534,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "5ced7018dfc37d708c019789aee53cfc54c4a9b31139557871627176182caf93"
+hash = "d10d6632f398e4bc8f62555eab1d70a6624837741fc653f2e2a18188166c6477"
 metafile = true
 
 [[files]]
@@ -687,7 +687,7 @@ metafile = true
 
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "eec7b722b0738e0bd8f79e24b0d1a99d3905e8cbb6161e56497eb4f6038d4ec3"
+hash = "f353e796e459583f66b6bf4951f8cbd214ab904d4f9c07325c5dff8813795b81"
 metafile = true
 
 [[files]]
@@ -732,7 +732,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabric.pw.toml"
-hash = "18f49864dd2455c804a60ab0c6970dea7b42f0adcbd8bb79809394a34e88caa3"
+hash = "f221689fb09bbc743b03751de6f4b03cbd70f4bb85c23059e831935cd58e6d88"
 metafile = true
 
 [[files]]
