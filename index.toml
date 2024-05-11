@@ -417,7 +417,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatpatches.pw.toml"
-hash = "f24b557e75be0395d902c2ac6b313856963fca0a3871060e14a7555e78600a31"
+hash = "38614b70bc4a8560e453b3f8021b07d507dd91d6cef1582393f0463320e4f90b"
 metafile = true
 
 [[files]]
@@ -489,7 +489,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "ffc481992126189a9c15e1e8693bbc3477d8f76334edc2c220459a6ad8b4c7cc"
+hash = "9cfe15235c5f9af8386a09087e57e8962713a8a439a61a18e25cda9b9336c60f"
 metafile = true
 
 [[files]]
@@ -687,7 +687,7 @@ metafile = true
 
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "f353e796e459583f66b6bf4951f8cbd214ab904d4f9c07325c5dff8813795b81"
+hash = "bbdc2a3353e70642436bc4814eeb6bf89400524327958dc50fc74c40cb028631"
 metafile = true
 
 [[files]]
@@ -732,7 +732,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabric.pw.toml"
-hash = "f221689fb09bbc743b03751de6f4b03cbd70f4bb85c23059e831935cd58e6d88"
+hash = "130007fe6425445152d237c781ce4f2a7304326e70c4715dd57c0ef6b6c2baea"
 metafile = true
 
 [[files]]

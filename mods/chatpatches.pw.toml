@@ -1,13 +1,13 @@
 name = "Chat Patches"
-filename = "chatpatches-204.6.4.jar"
+filename = "chatpatches-204.6.5.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e4e378b8e5c37af5da2f60db51c887fb6a59efe5"
+hash = "968b75e1f6fabf1cabb68a01c0865352901d37b7"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5183376
+file-id = 5333947
 project-id = 560042
