@@ -489,7 +489,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "9cfe15235c5f9af8386a09087e57e8962713a8a439a61a18e25cda9b9336c60f"
+hash = "ea99a6e82af6a00b7050f66529ae0c506cafa90bb04efa275e2a9aa38ce4d7c0"
 metafile = true
 
 [[files]]
@@ -519,7 +519,7 @@ metafile = true
 
 [[files]]
 file = "mods/first-person-model.pw.toml"
-hash = "530a9db0f3a70af433f183de6e05fe6df7c9cd4c18e5db77602a26a9c1e3bd75"
+hash = "fdb9fcd1009ee8c3809c229ade2692956e7abe1cb38810f7c8100d387ffd522e"
 metafile = true
 
 [[files]]
@@ -534,7 +534,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "d10d6632f398e4bc8f62555eab1d70a6624837741fc653f2e2a18188166c6477"
+hash = "2be3635a0b6d46cbe9dead49d8b9a31a7e0ff3426b18623455e4a49bc7720cf3"
 metafile = true
 
 [[files]]
@@ -558,7 +558,7 @@ hash = "6520f02665e8c661ec57627c243b0210a1de4836f459357c47e9e9df5b90572e"
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "6c13c31aba27750dccaf140eee06cd1adbf5159829c2c1b7f38db5e38fdb25fc"
+hash = "983928f7846d1cd7720d56dc6131b0f2cbf6b800cf0e8feee3878f53dd19fafb"
 metafile = true
 
 [[files]]
@@ -707,7 +707,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "ea28d5198ea150397be0590774a61cb0b761e1e37353271a69d1b05c8ee42c79"
+hash = "c45567f9b2125e8018fdf206c6380a71b80b3d5c708e53c31176ecfbaa50f111"
 metafile = true
 
 [[files]]
