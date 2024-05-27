@@ -42,7 +42,7 @@ hash = "2408c13d42c0ec4acc174efe3af2a4c57d96d82594a8edeee3f37f23401812e8"
 
 [[files]]
 file = "config/fancymenu/config.txt"
-hash = "d87876275cf1911c4713267887c3a33b39c4d6327a3c0659386bf71c3070bc74"
+hash = "ce84af169accc2194d389b186dbe60130f8865c51591b7bdd6547a4d83c6cc87"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
@@ -652,6 +652,11 @@ metafile = true
 [[files]]
 file = "mods/particle-core.pw.toml"
 hash = "a14a9d2c780c25e86d23a923504c8a1d6265fc31b949053dfa8f0c2dc4c5acbe"
+metafile = true
+
+[[files]]
+file = "mods/particular.pw.toml"
+hash = "918c80c1e73cfa197b20403434cc5fd46d709b8a75e94365d4a610b26563b3b3"
 metafile = true
 
 [[files]]
