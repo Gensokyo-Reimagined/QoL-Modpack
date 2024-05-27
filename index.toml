@@ -378,12 +378,12 @@ hash = "a7a3e7f944bb58f35d7aa2971b037e18fd8e5bb381b3d12ee399e2c2f26f0d48"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "f6818135f5e41ef2f996a72161a5610219d809ed67f2bc72486e0b29902538b6"
+hash = "56234869ed83f80c7008f9f9d27e760930d9c6d931136f0a2010746788c8c1f4"
 metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "368df52bd902f4d47ba20d49e2e296d61b17c86a94e11307f06061df68b2e2c8"
+hash = "9adff4365a5785b0a101e8d0e923cba16d7bfbb5589229519f0b008db07e3530"
 metafile = true
 
 [[files]]
@@ -445,7 +445,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "65b5abcc676719af21361373fb06d7055ee2462826c4de374ce9f349b1256264"
+hash = "2d36042ef01858fb38bc92df34d13d68589b8f599aa6f35c3d3b4baefcc55744"
 metafile = true
 
 [[files]]
@@ -469,7 +469,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "307cd10b6f2fa6aa4731540f76802e8803e8e93e1cc747927ae94bc168cbcbbf"
+hash = "489c1b03fb49b1e1a62541465a305f56a6743078b3cec2d420e182c3b45f0015"
 metafile = true
 
 [[files]]
@@ -519,7 +519,7 @@ metafile = true
 
 [[files]]
 file = "mods/first-person-model.pw.toml"
-hash = "fdb9fcd1009ee8c3809c229ade2692956e7abe1cb38810f7c8100d387ffd522e"
+hash = "c191755e1029e6615c917d7a91ce1e78f5e0f53ccb37ed58c90d1dffe91a1e05"
 metafile = true
 
 [[files]]
@@ -642,7 +642,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "4dcc298b54803bcef02e4be73e51ad9562ea45de5c16e5d7837fb8f60d2a7732"
+hash = "ef39ab8042f3f3f2dc36f35ff5089f68663e89bd00f263e033f6300bc08bdd6f"
 metafile = true
 
 [[files]]
@@ -707,7 +707,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "c45567f9b2125e8018fdf206c6380a71b80b3d5c708e53c31176ecfbaa50f111"
+hash = "66dd09aeea003f3ddeaffeb94dc73ede5fd391b225a55c1753f2c745e4e7b1b5"
 metafile = true
 
 [[files]]
