@@ -329,6 +329,10 @@ file = "config/yosbr/config/noxesium.toml"
 hash = "6d5f45dc8cd30f0859603b8eaee5402ba67b7a52e921993d4ff2b87b1753920d"
 
 [[files]]
+file = "config/yosbr/config/particular.json5"
+hash = "425a1c674ed65e10ab94e8678b50ff55d33374e85dcf1bb222b8529b428e7f4a"
+
+[[files]]
 file = "config/yosbr/config/skinlayers.json"
 hash = "8f5d9f7a14e8e9cb68c37fab235fbb6620771f37754347b2c24bf01cf68b06a5"
 
