@@ -1,16 +1,10 @@
 name = "voxy"
-filename = "voxy-0.1.5-alpha.jar"
-side = "client"
+filename = "voxy-0.1.5-alpha-iris-fix.jar"
 
 [download]
 url = "https://repo.gensokyoreimagined.net/releases/voxy-0.1.5-alpha-iris-fix.jar"
-hash-format = "sha1"
-hash = "1d961a1cf42259120f8362a24eef277f15a596ce"
-
-[update]
-[update.modrinth]
-mod-id = "fxxUqruK"
-version = "pSAhmtO2"
+hash-format = "sha256"
+hash = "70c6c711672ea87c657e5f07b218a0bb7c7a6c69122dcbb1ee0034f5351dd5d1"
 
 [option]
 optional = true
