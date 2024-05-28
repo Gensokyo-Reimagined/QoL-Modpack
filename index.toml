@@ -357,12 +357,16 @@ file = "config/yosbr/config/vmp.properties"
 hash = "605db2984dcb67f07cce1d8d82e0363b1512af7f07ad7dd3e8e7949038d1010b"
 
 [[files]]
+file = "config/yosbr/config/voxy-config.json"
+hash = "c651255467de841b1c549664c4f98c6f3e97880a77b0fbb64c28bc278556c473"
+
+[[files]]
 file = "config/yosbr/config/zoomify.json"
 hash = "271ad0560fb53c7f9a011ddbf8b1633368635e374b2c7e05a54aaed80f99b986"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "dafad5ab9f435e585aff55f51434496493ef8491a1cbcd851a97108a9b34fc08"
+hash = "d7ee6c7c9a97f86023d7aa201640517728b44790d208ad34dc40af234b70cb43"
 
 [[files]]
 file = "data/fabricDefaultResourcePacks.dat"
