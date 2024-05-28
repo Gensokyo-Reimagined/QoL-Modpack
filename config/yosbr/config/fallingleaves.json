@@ -40,7 +40,7 @@
       "spawnBreakingLeaves": false
     },
     "minecraft:acacia_leaves": {
-      "spawnRateFactor": 8.0,
+      "spawnRateFactor": 10.0,
       "isConiferBlock": true,
       "spawnBreakingLeaves": false
     },

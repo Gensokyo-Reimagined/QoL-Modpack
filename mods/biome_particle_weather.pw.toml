@@ -1,0 +1,16 @@
+name = "Biome Particle Weather"
+filename = "BiomeParticleWeather-5.2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XH09j5fH/versions/PKB9nYni/BiomeParticleWeather-5.2.0.jar"
+hash-format = "sha1"
+hash = "6183df1d57f24f61b0649b433a2ddbb19d3ce7fc"
+
+[update]
+[update.modrinth]
+mod-id = "XH09j5fH"
+version = "PKB9nYni"
+
+[option]
+optional = true
