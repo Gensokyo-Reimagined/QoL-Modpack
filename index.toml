@@ -501,7 +501,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "ed82b48b7104f02ed5edef7dc6a32ff0fc58f5d3ea27d60d2949da71de801876"
+hash = "0126ef7b1211888b957bed30375225a8c7b054899134acb0a20d2018e87038ba"
 metafile = true
 
 [[files]]
@@ -551,7 +551,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "2be3635a0b6d46cbe9dead49d8b9a31a7e0ff3426b18623455e4a49bc7720cf3"
+hash = "547b1ccde38256b8090e6900147f2737513e423e1fc0bbfb412f8a1a8209b52c"
 metafile = true
 
 [[files]]
@@ -679,7 +679,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "6a3afecc5b5b03b7779e2c7a3e21643ed55fed10ceeeae7c2cc8e4d3ca726cc6"
+hash = "377a4f43c992f23ea65a58ebc5bbb75ddf3c41cc1a73300ebeb392714b56eb61"
 metafile = true
 
 [[files]]
@@ -749,7 +749,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabric.pw.toml"
-hash = "130007fe6425445152d237c781ce4f2a7304326e70c4715dd57c0ef6b6c2baea"
+hash = "9269c05e4fe5f1c1d65389c1bd943ebfc8adea69ca219dcba7b677c2e0fb7cde"
 metafile = true
 
 [[files]]
