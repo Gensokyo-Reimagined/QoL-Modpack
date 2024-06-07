@@ -42,7 +42,7 @@ hash = "2408c13d42c0ec4acc174efe3af2a4c57d96d82594a8edeee3f37f23401812e8"
 
 [[files]]
 file = "config/fancymenu/config.txt"
-hash = "ce84af169accc2194d389b186dbe60130f8865c51591b7bdd6547a4d83c6cc87"
+hash = "7c0a051e5064f74e81a76c1e182e996f3bc4ba19d1ad416af93c06036c5686b7"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
@@ -257,6 +257,10 @@ file = "config/yosbr/config/bobby.conf"
 hash = "0a48d2d8ac0d8f883496e66b2db5417c52faf1ad21034b64010e0f6eda939540"
 
 [[files]]
+file = "config/yosbr/config/brute_force_rendering_culling.json"
+hash = "b821eab582923ecd637a9b04aee8d4336a8353f0bef886da59249cb8fb4b0a74"
+
+[[files]]
 file = "config/yosbr/config/chatpatches.json"
 hash = "d8df4f8dde74ee487f15435b8f213c168d9203cb59e9835bade14ef54091b567"
 
@@ -366,7 +370,7 @@ hash = "271ad0560fb53c7f9a011ddbf8b1633368635e374b2c7e05a54aaed80f99b986"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "d7ee6c7c9a97f86023d7aa201640517728b44790d208ad34dc40af234b70cb43"
+hash = "c4dc1a7179c9ad40d21f3133c61c2d4d7ce183e89ccfa6102b45362ae15da354"
 
 [[files]]
 file = "data/fabricDefaultResourcePacks.dat"
@@ -421,6 +425,11 @@ metafile = true
 [[files]]
 file = "mods/borderless-mining-1.1.10-dev.402aef7+1.20.4.jar"
 hash = "a565491285ada8b475b98a72a23f7221a24a8026f20e59fc17c708081844066b"
+
+[[files]]
+file = "mods/brute-force-rendering-culling.pw.toml"
+hash = "df3435f4e2daa7509e37afcea82398e721af1cdab8fdce672d4cb3c17969ede8"
+metafile = true
 
 [[files]]
 file = "mods/camera-utils.pw.toml"
@@ -669,7 +678,7 @@ metafile = true
 
 [[files]]
 file = "mods/particular.pw.toml"
-hash = "918c80c1e73cfa197b20403434cc5fd46d709b8a75e94365d4a610b26563b3b3"
+hash = "83c4ddcef6339ac5f5254696a7c54811c1d2a1cdcf74e4fc1dcb8b990b8e8407"
 metafile = true
 
 [[files]]
@@ -769,12 +778,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "6460843f38a29f9c5dac033cd4ecdc8c92eb2fd2fffb0711acfcd65173f438d2"
+hash = "dcc01f232687d58e04e60644b0f26131a7d30d0b563588c7f3c44d0e46746801"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "66e75dfb04e78ea970ddf6b9c60eb441a7569677572890b11ab15b4d3426c149"
+hash = "8e402e52e3307a2c77d1e2f28b68bc2ac8091b8bd14bd51f7261b33d1ae05936"
 metafile = true
 
 [[files]]

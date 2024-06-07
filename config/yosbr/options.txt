@@ -33,11 +33,11 @@ damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
 gamma:0.5
-renderDistance:12
+renderDistance:48
 simulationDistance:5
 entityDistanceScaling:0.5
 guiScale:2
-particles:1
+particles:2
 maxFps:260
 graphicsMode:1
 ao:true
@@ -122,8 +122,10 @@ key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
 key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
 key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
+key_brute_force_rendering_culling.key.config:key.keyboard.c
+key_brute_force_rendering_culling.key.debug:key.keyboard.x
 key_key.fabrishot.screenshot:key.keyboard.f9
-key_Reload Menu | CTRL + ALT + :key.keyboard.r
+key_Reload Menu | CTRL + ALT + :key.keyboard.unknown
 key_Toggle Customization Overlay | CTRL + ALT + :key.keyboard.c
 key_key.worldeditcui.toggle:key.keyboard.insert
 key_key.worldeditcui.clear:key.keyboard.delete
