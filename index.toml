@@ -21,6 +21,10 @@ file = "config/badoptimizations.txt"
 hash = "fb90f1b011fe8d1998f3ebeeaabc9018054aca4b0acbc93e13c48a63607810e8"
 
 [[files]]
+file = "config/brute_force_rendering_culling.json"
+hash = "3119a304c1c51d1f272d6e81e9f2c4672dba6d1dd1d720d69c75a3743e28408c"
+
+[[files]]
 file = "config/camerautils/camerautils.properties"
 hash = "db4f4d23547185402f6ef3134686799f5f1751fe2693568d18cde66188c4a76b"
 
@@ -428,7 +432,7 @@ hash = "a565491285ada8b475b98a72a23f7221a24a8026f20e59fc17c708081844066b"
 
 [[files]]
 file = "mods/brute-force-rendering-culling.pw.toml"
-hash = "df3435f4e2daa7509e37afcea82398e721af1cdab8fdce672d4cb3c17969ede8"
+hash = "16a4f7ca4f55823c18ee9120cebc01bb13a06c2b8bc95fdd333d6947456c3665"
 metafile = true
 
 [[files]]
@@ -565,7 +569,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "275e74338b823bb2b06aedc4337ef6866a47dd718fd9ae7d02df0d64da438cca"
+hash = "21829fcfe024c31224f945753671b15923aeb59d199dc771cc8773f4da81992e"
 metafile = true
 
 [[files]]
@@ -668,7 +672,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "ef39ab8042f3f3f2dc36f35ff5089f68663e89bd00f263e033f6300bc08bdd6f"
+hash = "2541b55bfd823b5f77fb62274f3abf07b20aa8594f049f2603b8f2498716ff14"
 metafile = true
 
 [[files]]
@@ -678,7 +682,7 @@ metafile = true
 
 [[files]]
 file = "mods/particular.pw.toml"
-hash = "83c4ddcef6339ac5f5254696a7c54811c1d2a1cdcf74e4fc1dcb8b990b8e8407"
+hash = "e868456c1197e71712b605a6a9920f422005d8ddf6c6e4ad0d88f6524f82c748"
 metafile = true
 
 [[files]]
@@ -718,7 +722,7 @@ metafile = true
 
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "bbdc2a3353e70642436bc4814eeb6bf89400524327958dc50fc74c40cb028631"
+hash = "69470b83c6ac6544eb3f86de418447a6dcd3cf3a59a27863190d19b155948710"
 metafile = true
 
 [[files]]
@@ -758,7 +762,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabric.pw.toml"
-hash = "9269c05e4fe5f1c1d65389c1bd943ebfc8adea69ca219dcba7b677c2e0fb7cde"
+hash = "14879c2f3a846b29408621e849125d1cc415d1e25a7e6b785ccc1f2f2fc0b117"
 metafile = true
 
 [[files]]
