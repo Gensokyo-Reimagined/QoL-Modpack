@@ -46,7 +46,7 @@ hash = "2408c13d42c0ec4acc174efe3af2a4c57d96d82594a8edeee3f37f23401812e8"
 
 [[files]]
 file = "config/fancymenu/config.txt"
-hash = "7c0a051e5064f74e81a76c1e182e996f3bc4ba19d1ad416af93c06036c5686b7"
+hash = "b3ce167727789855b7f32976e6b81ff2af054ec43c467e87ec60e0bcd6cddd8a"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
