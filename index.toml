@@ -722,7 +722,7 @@ metafile = true
 
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "69470b83c6ac6544eb3f86de418447a6dcd3cf3a59a27863190d19b155948710"
+hash = "95a2ab817281a3ee27bb5137567c60b549dc70bad1fab3a2262073900fa08c24"
 metafile = true
 
 [[files]]
@@ -748,6 +748,11 @@ metafile = true
 [[files]]
 file = "mods/spyglass-astronomy.pw.toml"
 hash = "10ad0e2f0775135bf230f4620b10d75a01bc0593d7c37d1a8f4027380f623517"
+metafile = true
+
+[[files]]
+file = "mods/sushi-bar.pw.toml"
+hash = "deb510941e25d8aad3c2317f1cb5cdc838dc8cb111bf6011e19360278f87de30"
 metafile = true
 
 [[files]]
