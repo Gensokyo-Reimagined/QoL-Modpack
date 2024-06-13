@@ -33,7 +33,7 @@ damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
 gamma:0.5
-renderDistance:48
+renderDistance:16
 simulationDistance:5
 entityDistanceScaling:0.5
 guiScale:2
