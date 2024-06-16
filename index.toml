@@ -587,8 +587,8 @@ hash = "8e790b01d600080a22245594f1d6a7b5602c663d641d5398245e2bb722d80aee"
 metafile = true
 
 [[files]]
-file = "mods/lambdynamiclights-2.3.4+1.20.4-local.jar"
-hash = "6520f02665e8c661ec57627c243b0210a1de4836f459357c47e9e9df5b90572e"
+file = "mods/lambdynamiclights-2.3.4+1.20.6-local.jar"
+hash = "04d0be3cdba34a536c6ce1ea724eba2c663e1cad98ab2b038020fd65ac545f12"
 
 [[files]]
 file = "mods/language-reload.pw.toml"
