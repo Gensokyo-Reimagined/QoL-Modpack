@@ -1,13 +1,13 @@
 name = "CreativeCore"
-filename = "CreativeCore_FABRIC_v2.11.26_mc1.20.4.jar"
+filename = "CreativeCore_FABRIC_v2.11.33_mc1.20.6.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "5f7f0cd232111da3f80bf25ad606abd645b07ebc"
+hash = "f134f566b8986d38ac3b479d6369ac05274681c6"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5281984
+file-id = 5418925
 project-id = 257814

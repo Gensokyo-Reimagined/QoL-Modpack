@@ -1,16 +1,16 @@
 name = "CraftGR"
-filename = "craftgr-1.6.1-mc1.20.4.jar"
+filename = "craftgr-1.7.1-mc1.20.6-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/lKYr4L6w/versions/9WuE4tw7/craftgr-1.6.1-mc1.20.4.jar"
+url = "https://cdn.modrinth.com/data/lKYr4L6w/versions/tL2sSaIN/craftgr-1.7.1-mc1.20.6-fabric.jar"
 hash-format = "sha1"
-hash = "af477b28075a632b1187eeb4b58ddd6325f79662"
+hash = "e4d31d105f72a6b999dbb30bf45fa1a73964e4bc"
 
 [update]
 [update.modrinth]
 mod-id = "lKYr4L6w"
-version = "9WuE4tw7"
+version = "tL2sSaIN"
 
 [option]
 optional = true

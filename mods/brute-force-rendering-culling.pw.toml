@@ -1,16 +1,16 @@
 name = "Brute force Rendering Culling"
-filename = "BruteForceRenderingCulling-fabric-1.20.4-0.5.12.jar"
+filename = "BruteForceRenderingCulling-fabric-1.20.6-0.5.12.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/2wFaq89h/versions/Y4vmXkFB/BruteForceRenderingCulling-fabric-1.20.4-0.5.12.jar"
+url = "https://cdn.modrinth.com/data/2wFaq89h/versions/T3MFuMII/BruteForceRenderingCulling-fabric-1.20.6-0.5.12.jar"
 hash-format = "sha1"
-hash = "f89078bf385d5cc92bb813c46800c8f13779dba3"
+hash = "319eb47cc43e94a6b3e111dfd0d48e47fbbe16b4"
 
 [update]
 [update.modrinth]
 mod-id = "2wFaq89h"
-version = "Y4vmXkFB"
+version = "T3MFuMII"
 
 [option]
 optional = true
