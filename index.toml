@@ -407,7 +407,7 @@ hash = "d24ce8ea84684910e00e9c94508e5507ece7c5b7103f4276557ff4f9c0bdbcd9"
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "59bdd7b08ec13365b314ea45b82ddf6a084c689ae7132e7c7d8b74c60971ca5f"
+hash = "c7d257338055ed1dc44399ebf3bdf76ed2c046172d01011663b22533c627e438"
 metafile = true
 
 [[files]]
@@ -448,10 +448,6 @@ metafile = true
 file = "mods/chatpatches.pw.toml"
 hash = "f5149767218329cc57d4126e6a2d3c8c27b81f65237cf01142a4bbbeb7674058"
 metafile = true
-
-[[files]]
-file = "mods/citresewn-1.1.4-1.20.4.jar"
-hash = "4633f8df0735e3754dffad4bd6fa3e919f71f64edcfd92247a297b84cec04bcf"
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
@@ -568,8 +564,8 @@ hash = "2f2d1cdbd389e3ef40490ad640f6569fcff9b6f8e604de8c46c991de911a3a58"
 metafile = true
 
 [[files]]
-file = "mods/indium-1.0.32-dev.9e72717+mc1.20.6-dirty.jar"
-hash = "d6695f2208010698094c0fea3bd5c596cbfc79218060fca706d75158b275582b"
+file = "mods/indium-1.0.32+mc1.20.6.jar"
+hash = "5f40d8d4685f1e4746641833a34ec5a943855ccea19d23f1d6209657a6eacb7f"
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
@@ -602,12 +598,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "7527bb370b000a5eded465cbf3f32f9cb6448b483c5d72653dc40f52222bd0aa"
-metafile = true
-
-[[files]]
-file = "mods/lock-on-fabric.pw.toml"
-hash = "1856d545cfcafbee67ee80b4a95aedf82fff0e5d352b0eaa1c3443795685dc49"
+hash = "61c2ad02399ac98638dfd193396c7189936b8cf64035951e3e96ff6efe131c05"
 metafile = true
 
 [[files]]
@@ -658,11 +649,6 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "eccb94f189b1243a3822a449202cc2a8fd8c8c21d4325ceccf1382862a6a095f"
-metafile = true
-
-[[files]]
-file = "mods/noxesium.pw.toml"
-hash = "6efafee1d40cff2e48e92dc02af9d5ac98ce6e28e33afa742c1d942e52fc0f07"
 metafile = true
 
 [[files]]
@@ -765,7 +751,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabric.pw.toml"
-hash = "14879c2f3a846b29408621e849125d1cc415d1e25a7e6b785ccc1f2f2fc0b117"
+hash = "f5be2ad05bf2c6b90c8711c0c174c7caecffdf28d29d4a42dd79047c1a84365d"
 metafile = true
 
 [[files]]
