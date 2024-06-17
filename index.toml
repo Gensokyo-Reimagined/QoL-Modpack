@@ -45,6 +45,18 @@ file = "config/fabric/indigo-renderer.properties"
 hash = "2408c13d42c0ec4acc174efe3af2a4c57d96d82594a8edeee3f37f23401812e8"
 
 [[files]]
+file = "config/fancymenu/assets/32x32.icns"
+hash = "5c7b89ae44fc671bbd5435d0248b00934bb9af84850eda8ed344521ae196a2f1"
+
+[[files]]
+file = "config/fancymenu/assets/icon16x16.png"
+hash = "360c0c258ce5f005133c8a0bcc657e8c040406269b7e654206962800ee6bf9ee"
+
+[[files]]
+file = "config/fancymenu/assets/icon32x32.png"
+hash = "d70e942364624f51c5b49bd5387fae596b2b3a32d15a0f2a4e8880bb660f3af9"
+
+[[files]]
 file = "config/fancymenu/config.txt"
 hash = "b3ce167727789855b7f32976e6b81ff2af054ec43c467e87ec60e0bcd6cddd8a"
 
@@ -114,7 +126,7 @@ hash = "d70e942364624f51c5b49bd5387fae596b2b3a32d15a0f2a4e8880bb660f3af9"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "9af61e24df49630bcbc18eb64e5ad621a84d106ce5209561d1b302dfe22f5714"
+hash = "6173fd073fbf93380e33f0688b52dabdaf59cafc0adab9226f0949b7dc5c342d"
 
 [[files]]
 file = "config/fancymenu/resources/bmc.png"
@@ -306,7 +318,7 @@ hash = "4c3d1985752777677bfaa0c4404d777fa5346addedba8b21ce393cafc7671a25"
 
 [[files]]
 file = "config/yosbr/config/exordium.json"
-hash = "57407f92a83ed730076e2a2822c3a3e1111feaa6b53c1ad698f4ca8ef44ca7b8"
+hash = "1a50c5e0eaf6b06979a13d61f84b6eb46c8eec9db4f43c7600a911f13e76b129"
 
 [[files]]
 file = "config/yosbr/config/experimentalperformance.properties"
@@ -322,7 +334,7 @@ hash = "a2091a291309db8920c8a80e913ed31c24c29687d8cd25ac18076ad85a90ddb8"
 
 [[files]]
 file = "config/yosbr/config/immediatelyfast.json"
-hash = "24c6e23be5f7a93bb026bafb92d57b2391e4f6d5df1d29f739ddb3ec8b1bf704"
+hash = "0ef51df03de4f730e535de3f8822a850a5ab0704fa33ff6366d343127c745950"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
@@ -430,7 +442,7 @@ metafile = true
 
 [[files]]
 file = "mods/bobby.pw.toml"
-hash = "1c2c671ae8a167638c1fa226e27d195023915f23dd46d0a075446da298fc98bd"
+hash = "39deac5cb64fdb91cb8eda9cd76d42b4c5d637493ff4366f349deaf935a13ffc"
 metafile = true
 
 [[files]]
@@ -512,7 +524,7 @@ hash = "b3c9f6b8b372ed117d56b330edeb35ab031b8660aebdf65dc04291ba0013fb66"
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "7bfd3f90f0f45c957ba2f7a695726cad48ab0c36eae9ac1a4feace483087f232"
+hash = "7e5e7a222813e1aaa21e6d940ab1fc156daa90694f9e85152f283dbe5b1a912d"
 metafile = true
 
 [[files]]
@@ -667,6 +679,10 @@ metafile = true
 file = "mods/not-enough-animations.pw.toml"
 hash = "eccb94f189b1243a3822a449202cc2a8fd8c8c21d4325ceccf1382862a6a095f"
 metafile = true
+
+[[files]]
+file = "mods/noxesium-2.0.6-SNAPSHOT+004b106.jar"
+hash = "cd38226a100a0cdda323f397f53502e9db95fe4bd8936dc31bb28a4d281be1ea"
 
 [[files]]
 file = "mods/nvidium-0.2.7-beta.jar"
