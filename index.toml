@@ -294,7 +294,7 @@ hash = "8d33ecae42a6d613c2398ebf619f00a9b8d326fa6411f0ad8c343db058638427"
 
 [[files]]
 file = "config/yosbr/config/enhanced_bes.properties"
-hash = "4bd16b7a86fa6c0e4acaf70d4ac1948ceca1ade4505aeeaabb5d4fef1baee260"
+hash = "a571013fab85b796ccf4ac288b12e141f7385a9340f859a5a4ca71c2f9605688"
 
 [[files]]
 file = "config/yosbr/config/entity-view-distance.json"
