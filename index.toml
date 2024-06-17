@@ -241,14 +241,6 @@ file = "config/konkrete/locals/pt_br.local"
 hash = "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c"
 
 [[files]]
-file = "config/lockon.json"
-hash = "4638b2df9d2b448f880b156d9f0d1c02dd5b9286dcc9828f6c3ab47717d53b4f"
-
-[[files]]
-file = "config/noxesium-config.json"
-hash = "0781521331787b154c4af705e962e791caaa18706d0001bf7f1af40449ea74e8"
-
-[[files]]
 file = "config/resourcepackchecker/resourcepackchecker.properties"
 hash = "f5370c44c6d550547e803d980ffd2ed9f1edc6c8f1933e1eebd16d56934532c3"
 
@@ -314,7 +306,7 @@ hash = "4c3d1985752777677bfaa0c4404d777fa5346addedba8b21ce393cafc7671a25"
 
 [[files]]
 file = "config/yosbr/config/exordium.json"
-hash = "63c261c392b54d002762941703f8e0b6a83ef22592c94e5e0ea62ec048de5b65"
+hash = "57407f92a83ed730076e2a2822c3a3e1111feaa6b53c1ad698f4ca8ef44ca7b8"
 
 [[files]]
 file = "config/yosbr/config/experimentalperformance.properties"
@@ -462,7 +454,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatpatches.pw.toml"
-hash = "f5149767218329cc57d4126e6a2d3c8c27b81f65237cf01142a4bbbeb7674058"
+hash = "31f20c01eee180bdadebe7e3ac6c94a2292124cc121a9ae8a0557a0568532c66"
 metafile = true
 
 [[files]]

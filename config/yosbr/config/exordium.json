@@ -1,8 +1,5 @@
 {
   "configVersion": 3,
-  "enableSignBuffering": false,
-  "targetFPSNameTags": 60,
-  "enableNametagScreenBuffering": false,
   "pollRate": 60,
   "chatSettings": {
     "enabled": true,
@@ -12,7 +9,7 @@
   },
   "debugScreenSettings": {
     "enabled": true,
-    "maxFps": 10,
+    "maxFps": 20,
     "forceBlend": false,
     "forceUpdates": false
   },
@@ -20,7 +17,7 @@
     "enabled": true,
     "maxFps": 15,
     "forceBlend": false,
-    "forceUpdates": false
+    "forceUpdates": true
   },
   "experienceSettings": {
     "enabled": false,
@@ -44,7 +41,7 @@
     "enabled": true,
     "maxFps": 15,
     "forceBlend": false,
-    "forceUpdates": false
+    "forceUpdates": true
   },
   "vignetteSettings": {
     "enabled": true,
@@ -55,6 +52,12 @@
   "crosshairSettings": {
     "enabled": true,
     "maxFps": 20,
+    "forceBlend": false,
+    "forceUpdates": false
+  },
+  "bossbarSettings": {
+    "enabled": false,
+    "maxFps": 5,
     "forceBlend": false,
     "forceUpdates": false
   }
