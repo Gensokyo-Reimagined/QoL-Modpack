@@ -126,7 +126,7 @@ hash = "d70e942364624f51c5b49bd5387fae596b2b3a32d15a0f2a4e8880bb660f3af9"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "6173fd073fbf93380e33f0688b52dabdaf59cafc0adab9226f0949b7dc5c342d"
+hash = "1ee243bd02c94142be6fc8ab2d8e7f055b3463a70131beace47622e8eece60c2"
 
 [[files]]
 file = "config/fancymenu/resources/bmc.png"
@@ -274,7 +274,7 @@ hash = "a8e2a82ca0fa8ea72964c687633b99ed463168b7398d6ed745bd7a102602ee5d"
 
 [[files]]
 file = "config/yosbr/config/betterclouds-v1.json"
-hash = "f4a5aa46cf4ed0e8df125b4fa84c37021812da7f125b694bdfd6490f36b93868"
+hash = "3d462440396f876bfd9591a0995856daa980ae3f6f1db2936dba7c654016aa39"
 
 [[files]]
 file = "config/yosbr/config/bobby.conf"
@@ -466,7 +466,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatpatches.pw.toml"
-hash = "31f20c01eee180bdadebe7e3ac6c94a2292124cc121a9ae8a0557a0568532c66"
+hash = "96585cf443e3907830f25b33cee17beb4fbbfb66e5e6c703ded68a1d1c12af86"
 metafile = true
 
 [[files]]
@@ -486,7 +486,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "64c2abe4ebd08d06b65700413a1d7f150eae20d471c223224ffe43c84626d0d2"
+hash = "2fed31299b2a00847b50a85a0980b8232c034d852004cefb46d437134797e6cf"
 metafile = true
 
 [[files]]
@@ -501,7 +501,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "0fb4adf4c5d6819bb1121e2212235612c43787fa1e0ae79ce4e6c0f540a9d877"
+hash = "eb60ff58a3cea3a7402e0b773e9b283ad01f694dc14fc1e684732163dc612fe3"
 metafile = true
 
 [[files]]
@@ -524,7 +524,7 @@ hash = "b3c9f6b8b372ed117d56b330edeb35ab031b8660aebdf65dc04291ba0013fb66"
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "7e5e7a222813e1aaa21e6d940ab1fc156daa90694f9e85152f283dbe5b1a912d"
+hash = "2aaff0682f57de54888dda0c66ca6584b700460886064622aebe2d0d68ef0e23"
 metafile = true
 
 [[files]]
@@ -573,18 +573,13 @@ hash = "80d8c3e2744f883eb975117735af4cf93b2522aa9586508ea9833d2d0bbb71cb"
 metafile = true
 
 [[files]]
-file = "mods/forcecloseworldloadingscreen.pw.toml"
-hash = "ecfd75bec8245e1f183258086f8f3ff62169d8172b576889bb7eab8e1b27c46c"
-metafile = true
-
-[[files]]
 file = "mods/forge-config-api-port-fabric.pw.toml"
 hash = "bf8a374dff80a5d1263ec4b56d81169b887ce9d4aed9ed6d2e33a1e11c6f4da8"
 metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "4b6009a2fcae21de2f810f304d8ed64271b0af77de38673ab9a75ba07d8230ea"
+hash = "06cfcb7c02db05aa028c34844ddf211c1d9babddaa56862eadb362db87c27f17"
 metafile = true
 
 [[files]]
@@ -627,7 +622,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "61c2ad02399ac98638dfd193396c7189936b8cf64035951e3e96ff6efe131c05"
+hash = "9b2b88d50f07382e240941fdb7501cc135ecad98444ad38ea834b406adfadd6d"
 metafile = true
 
 [[files]]
@@ -657,7 +652,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "6c8c93e74e46a0cac65179d027e9aac4eaebc44847604b0ff86644f3030116e8"
+hash = "15af904cfeb2ee20ba0c865bae42dcc7eaea31b18bde9e9f5fb4e4192185566f"
 metafile = true
 
 [[files]]
@@ -718,11 +713,6 @@ hash = "ba5583a9fb4dd1bb61ab711f1018801cd0d96248fdcbb565fdce8d4d82d46e56"
 metafile = true
 
 [[files]]
-file = "mods/rrls.pw.toml"
-hash = "4c25ab649ab899d2efe7ae075d9ada0822f5c393aa11a575a423e7f3960738ea"
-metafile = true
-
-[[files]]
 file = "mods/screenshot-to-clipboard-fabric.pw.toml"
 hash = "d580e87dd3fbea1d9bd98da604ff9ed7de782565e507a113031f0555763901aa"
 metafile = true
@@ -734,7 +724,7 @@ metafile = true
 
 [[files]]
 file = "mods/server-resourcepack-checker.pw.toml"
-hash = "8388434f4df68d9cc170e1cafb17a2b6900fa3ab01a1f573815913e5f61267bb"
+hash = "fc9b180ddfa2e3325b55e971af13ea940c72fb3100540b99491cd22b4b9339ac"
 metafile = true
 
 [[files]]
