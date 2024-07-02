@@ -361,6 +361,10 @@ file = "config/yosbr/config/particular.json5"
 hash = "425a1c674ed65e10ab94e8678b50ff55d33374e85dcf1bb222b8529b428e7f4a"
 
 [[files]]
+file = "config/yosbr/config/shouldersurfing.toml"
+hash = "a32c7d3bed10c62f3371f48b0d4e276d65efa1ffc3c81ef0b8ce0ff65b62ea00"
+
+[[files]]
 file = "config/yosbr/config/skinlayers.json"
 hash = "8f5d9f7a14e8e9cb68c37fab235fbb6620771f37754347b2c24bf01cf68b06a5"
 
@@ -432,7 +436,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-clouds.pw.toml"
-hash = "0dd2990204bdaa6aa69e1414fb1c6c8e4c134d5c95aca17aa1b14a260bd6027b"
+hash = "727950ef57aa7aece92b55f5d4659d0afbd6e28501a970680889abc5a3406bf6"
 metafile = true
 
 [[files]]
@@ -486,7 +490,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "2fed31299b2a00847b50a85a0980b8232c034d852004cefb46d437134797e6cf"
+hash = "ddb2c5df9811454bd363d7be97b874a42519196d2e26082e4db6873530f853f4"
 metafile = true
 
 [[files]]
@@ -501,7 +505,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "eb60ff58a3cea3a7402e0b773e9b283ad01f694dc14fc1e684732163dc612fe3"
+hash = "52fcb1388058870b71dcc0ea340aaa53e7ef11db046396b88778f31cb6f9a4d7"
 metafile = true
 
 [[files]]
@@ -774,7 +778,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabric.pw.toml"
-hash = "f5be2ad05bf2c6b90c8711c0c174c7caecffdf28d29d4a42dd79047c1a84365d"
+hash = "c5d7358bb9b94791d12a67dd1deb99f5868988c1a623a3a3e55613c3816352af"
 metafile = true
 
 [[files]]
