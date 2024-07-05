@@ -333,6 +333,10 @@ file = "config/yosbr/config/ferritecore.mixin.properties"
 hash = "a2091a291309db8920c8a80e913ed31c24c29687d8cd25ac18076ad85a90ddb8"
 
 [[files]]
+file = "config/yosbr/config/feytweaks.json"
+hash = "2832c6eb4bddbdd97b9f5a886fd012384576d557e38ad2f646d9408b277f194f"
+
+[[files]]
 file = "config/yosbr/config/immediatelyfast.json"
 hash = "0ef51df03de4f730e535de3f8822a850a5ab0704fa33ff6366d343127c745950"
 
@@ -569,6 +573,11 @@ metafile = true
 [[files]]
 file = "mods/ferritecore-fabric.pw.toml"
 hash = "99f78b82c5813e75aec8f6f9e9c9e23e51d63835cbfd1614ac9766c9b3a04966"
+metafile = true
+
+[[files]]
+file = "mods/feytweaks.pw.toml"
+hash = "e8691ac2e8932f5bbe82f3f18f0e027d4add8c9fd40fe7a64f8f44e07ed1d261"
 metafile = true
 
 [[files]]
