@@ -470,7 +470,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatpatches.pw.toml"
-hash = "96585cf443e3907830f25b33cee17beb4fbbfb66e5e6c703ded68a1d1c12af86"
+hash = "a3adb1164bd2360d0b4e2568dd87c520875afe61884f890100b895ecadd41215"
 metafile = true
 
 [[files]]
@@ -592,12 +592,13 @@ hash = "2f2d1cdbd389e3ef40490ad640f6569fcff9b6f8e604de8c46c991de911a3a58"
 metafile = true
 
 [[files]]
-file = "mods/indium-1.0.32+mc1.20.6.jar"
-hash = "5f40d8d4685f1e4746641833a34ec5a943855ccea19d23f1d6209657a6eacb7f"
+file = "mods/indium.pw.toml"
+hash = "31278d67704a56eb32d93c240e4bfd9822e1ab6047ee14d752953dd0c24dca95"
+metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "628d8b51343c40a4a257953e60059ccb4065d19d7a545053eebfd81a74a1db0a"
+hash = "cc76ea317829089fce2d7a064e4274f8a5cafc814528dfbedaffbf54fd1621c0"
 metafile = true
 
 [[files]]
@@ -753,7 +754,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "fea95d937b70d4d092aec1ce8506291cae18aeb62aa768f0e62764da792373c0"
+hash = "115a89810ba6b5e00365b3733dd2ed03bb6e9aee3bdc49714cd897a153146d8a"
 metafile = true
 
 [[files]]
