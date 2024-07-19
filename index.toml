@@ -717,6 +717,11 @@ file = "mods/particular-1.0.2+1.20.6.jar"
 hash = "9523f02aa2e8efa48412824b8ba8f1e9d37b10a57edd4744e8ba06dff1a01780"
 
 [[files]]
+file = "mods/potatoptimize.pw.toml"
+hash = "2a4e17e7760fef4d472fef699c38e1578f29b54d34d9a6ec45eb586715525f3d"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "069dad07b849843c0b9160ad70fa1934f34da52c531083a16a68e623c9a210f9"
 metafile = true
