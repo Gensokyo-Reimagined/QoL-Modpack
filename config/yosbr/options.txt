@@ -38,7 +38,7 @@ realmsNotifications:true
 showSubtitles:false
 directionalAudio:false
 touchscreen:false
-bobView:false
+bobView:true
 toggleCrouch:false
 toggleSprint:false
 darkMojangStudiosBackground:true
