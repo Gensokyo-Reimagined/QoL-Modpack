@@ -422,7 +422,7 @@ hash = "a7a3e7f944bb58f35d7aa2971b037e18fd8e5bb381b3d12ee399e2c2f26f0d48"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "0d2894dbd10ec116a97b027b7c21f50979796cac9f76fc4a86b636ecc9f212d4"
+hash = "e42451b0e2a8afbe3dae3c51686f94ed71c61a5f1d354ac4c5bc1b2b2bc1d40f"
 metafile = true
 
 [[files]]
@@ -451,7 +451,7 @@ metafile = true
 
 [[files]]
 file = "mods/camera-utils.pw.toml"
-hash = "81f78ad0a2160ddcb404f431ae8ff9843832cb7978ecbb09cb51aa61ef80efed"
+hash = "70717c256bbf8a14aff34e94ca263e57da43c8ea0c9dff48d208f4e5f3b4809e"
 metafile = true
 
 [[files]]
@@ -460,18 +460,17 @@ hash = "a9f4984f9cbb921c28d115bf6232a21a2dad6ccc1a6c28a175729530426556a9"
 metafile = true
 
 [[files]]
-file = "mods/chatpatches.pw.toml"
-hash = "6cd8354be5fbe8d9c369c0702156cc39352acfe36be593974a0d7ffec75283cf"
-metafile = true
+file = "mods/chatpatches-210.6.7.jar"
+hash = "6202de01827c77fefb3637c7cee1a2604afc6834cf2f4844aaf881862cfa7ef7"
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "09e8e459ae0d4437cc7bfbdd370cd7b5ac1461feaf232ba3a339f767bb0da231"
+hash = "3940277b51e7eb2aa8509e1e8309d3cd4f3e9501fa27a8332c5c1a9a6727a0e3"
 metafile = true
 
 [[files]]
 file = "mods/concentration.pw.toml"
-hash = "dffbd545fb750dcdc590e9568c9f2944a8b9cbeb2bd2e68baa0bf4246abf1d0e"
+hash = "24b8f1a1f7a5217536f8422a5332dabb107aa26e4667ce1413a7f8b2543675eb"
 metafile = true
 
 [[files]]
@@ -506,12 +505,16 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "f1cfb6d5b1aeae9d349d909fc3170f60332b6347493543a2e4f1f0801f4a5d4d"
+hash = "8078e4d71da6ead36a6134ba3f5f0b90b53ba6466a176986a644bee3f6c2da5c"
 metafile = true
 
 [[files]]
+file = "mods/experimentalPerformance-0.1.1.jar"
+hash = "35a69b9d306c50634a7857edce7e1d8684205d633e879258a2d92cb31d3559ac"
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "dfe5807e1bef326fea19cfbdadb712a6c19d6cb594698ac8c61b1439f9e2fa98"
+hash = "324b9816c2616ae8ccfacb2cf93c2ed0c1ea2218efad38ab02cdaa6f75c1db1b"
 metafile = true
 
 [[files]]
@@ -531,7 +534,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabrishot.pw.toml"
-hash = "c67c4d02b44cdc169f35fbe4cdeb4b0b401e75b935eadbf0934bf9d3d2443cde"
+hash = "9ee3f572f67b4387198f29409c29df8f2b4cc76b3c09645ce84fa06ac88dc3e6"
 metafile = true
 
 [[files]]
@@ -566,7 +569,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port-fabric.pw.toml"
-hash = "a1eb3d740bc72cb79fb40f667bd1d9ba41f1e31eb09b122d00311b9b802fa773"
+hash = "cc91efc35506cab3787e9cb31114c6cb27eb3c32c93513ec4ab524461cbb625e"
 metafile = true
 
 [[files]]
@@ -581,7 +584,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "ec7ddc7195eaec44adb0a060c48d919bedb82775a3b683f8da21ab2eb6921ab1"
+hash = "a36870bfbbd57ea241255c6573a4d129509f5e50dbdcaf12d3a78c57f864bbde"
 metafile = true
 
 [[files]]
@@ -606,7 +609,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "da637bbc19fa99d116149cc8fa1f23be61c4693062a7b097b87725e4c25b0cdb"
+hash = "1a4ca1db88ea243d4e36021f179aedee55e3bf52a99cd0119b2e3a1b966d518f"
 metafile = true
 
 [[files]]
@@ -631,7 +634,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "ebbaf07d4e04f172081d5f4bec47837ae1008c5a6dbedc32f7ba471dd3d004cd"
+hash = "f01e3bf3ac19d148390509cc99c2df982439a619701a2a392101a6f4d3c250db"
 metafile = true
 
 [[files]]
@@ -651,22 +654,23 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "d1f98c2e250c116d46a21e2ae0caa4660860fa24ccd017ff41776f36c89d8faf"
+hash = "b7c16c4d4f6df115037e9446a7f55dab37b12e1a31a88955ea4dd0d9928a5aae"
 metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "8221d0376bdd5c13684d44ce2dcfc994f4aeea8d21546b9a562e71517ba1ce80"
+hash = "c7c101be06ad509eb7d2d2459419524b6814152546d59e0f7608b22a0d066ad9"
 metafile = true
 
 [[files]]
 file = "mods/noxesium.pw.toml"
-hash = "a026db230f816e25fed08d63f0ba7c55d849dfdcda3c76c71bf42f956172f3bb"
+hash = "e722e83ce843f9fc841f896de747e3590dcd1faa81aba8a73c8b0df7914a48b3"
 metafile = true
 
 [[files]]
-file = "mods/nvidium-0.3.0.jar"
-hash = "f7f43ac0a9c72e4114d72fec572a2b17309d35ce756093fc8dc16a7803495164"
+file = "mods/nvidium.pw.toml"
+hash = "ec4bc8b7c36db2dcf3f19b4e03df845c36e18477739a34531de66e2fa75ef2dc"
+metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
@@ -765,12 +769,12 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "35aa24f67e91fcd77e79ccd99b3ee304dbd53275a53bb269785e0f309a081f18"
+hash = "c2feebe5c593b047aad6c994636ac1b9975cfd6ee6cd5f95f880a8c6d3de6544"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "8b16a1ac7c64afbbc0087985a63505aeb6cb3e9e92f312fd2ea43a17249ad3d2"
+hash = "aa6ad8e866727547713b0c1ee376f33922d0a744d843f7de3efd2783d96c5366"
 metafile = true
 
 [[files]]
