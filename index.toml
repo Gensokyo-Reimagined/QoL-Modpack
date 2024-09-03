@@ -126,7 +126,7 @@ hash = "d70e942364624f51c5b49bd5387fae596b2b3a32d15a0f2a4e8880bb660f3af9"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "1ee243bd02c94142be6fc8ab2d8e7f055b3463a70131beace47622e8eece60c2"
+hash = "4df459351cc5c5f49ad2fd6b5e09307cb1690c2e198030d17140c943b7946eba"
 
 [[files]]
 file = "config/fancymenu/resources/bmc.png"
@@ -269,6 +269,18 @@ file = "config/shouldersurfing-2.toml.bak"
 hash = "0c3e8149a87d273292d8fc95425d1ad5e290adf25038fe4b30f69c4c1c86b6c8"
 
 [[files]]
+file = "config/xaerominimap-common.txt"
+hash = "771a844d13ab6c2ff99f14b8fd912d02c55a1a4104361692b740c3e596084f6f"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "c4e80dcc2c0b02a908f05f95128818412e762134b8490462908dd1dc6b7d4745"
+
+[[files]]
+file = "config/xaerominimap_entities.json"
+hash = "8b1b821f77d269ff15ee0d95ca8bf77979009fe930adc0c5efb36adc35d80ba6"
+
+[[files]]
 file = "config/yosbr/config/ambientsounds-client.json"
 hash = "a8e2a82ca0fa8ea72964c687633b99ed463168b7398d6ed745bd7a102602ee5d"
 
@@ -397,6 +409,18 @@ file = "config/yosbr/config/voxy-config.json"
 hash = "c651255467de841b1c549664c4f98c6f3e97880a77b0fbb64c28bc278556c473"
 
 [[files]]
+file = "config/yosbr/config/xaerominimap-common.txt"
+hash = "771a844d13ab6c2ff99f14b8fd912d02c55a1a4104361692b740c3e596084f6f"
+
+[[files]]
+file = "config/yosbr/config/xaerominimap.txt"
+hash = "c4e80dcc2c0b02a908f05f95128818412e762134b8490462908dd1dc6b7d4745"
+
+[[files]]
+file = "config/yosbr/config/xaerominimap_entities.json"
+hash = "8b1b821f77d269ff15ee0d95ca8bf77979009fe930adc0c5efb36adc35d80ba6"
+
+[[files]]
 file = "config/yosbr/config/zoomify.json"
 hash = "271ad0560fb53c7f9a011ddbf8b1633368635e374b2c7e05a54aaed80f99b986"
 
@@ -431,12 +455,12 @@ hash = "40a3fd33b75dd76f8d77c24e37163ee6ecdc1ef37624615db33d7e2ba6d16f52"
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "0b3bf0801a5a93f0a082fac5fbcaf03ad5c17daac08b67e0efbbdca0f90afb4b"
+hash = "955a068e5b296f249c084ca6eb19d985b1bd9353549bbce5d36dad5b9270dff8"
 metafile = true
 
 [[files]]
 file = "mods/better-clouds.pw.toml"
-hash = "423e142f9a7285f75af63580dfd4f1e9421a22e9ec0e77f1404e4a62396f3f1e"
+hash = "7d21cea212897ec7b1ec5b0953447273cdebab880ea85236790ef1d0e4351859"
 metafile = true
 
 [[files]]
@@ -451,7 +475,7 @@ metafile = true
 
 [[files]]
 file = "mods/camera-utils.pw.toml"
-hash = "70717c256bbf8a14aff34e94ca263e57da43c8ea0c9dff48d208f4e5f3b4809e"
+hash = "055d69e9a0a5607b59b7340d606002b0580ed28b72aacce0ca646dea4a870c6a"
 metafile = true
 
 [[files]]
@@ -460,8 +484,8 @@ hash = "a9f4984f9cbb921c28d115bf6232a21a2dad6ccc1a6c28a175729530426556a9"
 metafile = true
 
 [[files]]
-file = "mods/chatpatches-210.6.7.jar"
-hash = "6202de01827c77fefb3637c7cee1a2604afc6834cf2f4844aaf881862cfa7ef7"
+file = "mods/chatpatches-210.6.6.jar"
+hash = "1c69c4ecc39b39260e1255b18691d96a2a7d8966e6b3a6e0f37bdb89892bba4e"
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
@@ -505,21 +529,21 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "8078e4d71da6ead36a6134ba3f5f0b90b53ba6466a176986a644bee3f6c2da5c"
+hash = "444ec76f51b9713378aa4c900ca583a7df0888f89e76b76ae8cf5293d9cb51ab"
 metafile = true
 
 [[files]]
 file = "mods/experimentalPerformance-0.1.1.jar"
-hash = "35a69b9d306c50634a7857edce7e1d8684205d633e879258a2d92cb31d3559ac"
+hash = "56607ca071a237820d53e3e4f22b8359467f90dce807007a2f66d4931d03dff0"
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "324b9816c2616ae8ccfacb2cf93c2ed0c1ea2218efad38ab02cdaa6f75c1db1b"
+hash = "e3854a5bf8296a33ef7e2dcae13689b0923976a3b949564aebc27143e71d47fc"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "efb80c6fd1ed23b6460962289154c214e2d4731e445179011071f7165adb3a37"
+hash = "130d2b078d1a73c86271a0222fcefbd24f5f816df37d94fa780d37a5f1605119"
 metafile = true
 
 [[files]]
@@ -563,23 +587,18 @@ hash = "1e4034d327b8fde6937692ea0bfd91c571b27669624c1b429fe349415233b72f"
 metafile = true
 
 [[files]]
-file = "mods/first-person-model.pw.toml"
-hash = "ffb9ad3a8174df332b4a9d164409b44ba3c9ab904943c5eb0ff5a39451f80643"
-metafile = true
-
-[[files]]
 file = "mods/forge-config-api-port-fabric.pw.toml"
 hash = "cc91efc35506cab3787e9cb31114c6cb27eb3c32c93513ec4ab524461cbb625e"
 metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "0cbe0af05dbc18f8a45611d3f87d5c9a8d7c545f9e0422031021e54674bf421c"
+hash = "ba59e9b4c7cc30852ed1d1a5a4b14465f552921e54c440233d44a0d12c17567e"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "3f8f7b594419ea4fefa330c82fee1be6d904390b3a6bb40e52aeb8e7b9009c82"
+hash = "ae42dc97752bf2031b0fb77994ab04e51e5569a637f2f9ee6a98937053b0d290"
 metafile = true
 
 [[files]]
@@ -589,7 +608,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "010c30a70999d4ac6493b27323b546aefeca1f25fbfdc874c4428662412a9f0a"
+hash = "6165e438f6128a4185a34188f21e9b87bbc6c14e1f1e2220fe2be8384e485fef"
 metafile = true
 
 [[files]]
@@ -634,12 +653,12 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "f01e3bf3ac19d148390509cc99c2df982439a619701a2a392101a6f4d3c250db"
+hash = "8db4414ae685883aaa38fba9d9412962338585c231b20b1770b20a119a0d5ba6"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "e37792db4c4b69e11243c7470f0f2a791dc016381e460cd5616eccb6b567b5ab"
+hash = "2b8ce9ab97a35059a79d59d540687385d25956c519ce1728fbcfb13fae93a328"
 metafile = true
 
 [[files]]
@@ -669,12 +688,12 @@ metafile = true
 
 [[files]]
 file = "mods/nvidium.pw.toml"
-hash = "ec4bc8b7c36db2dcf3f19b4e03df845c36e18477739a34531de66e2fa75ef2dc"
+hash = "3776494f811e3e5f07a68a6811950fc4a936f41bb1fea10b26bfefcbe87dd880"
 metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "5523111bd895284daf9e2adf2d511b39cf2e7f83b4753a5070c2a599f9999354"
+hash = "4986ecbe3d1aea9216808004ce3abd93af7c191142dfe06561d0a72dc1e0f770"
 metafile = true
 
 [[files]]
@@ -694,17 +713,17 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "276e7e0b6cb6d9ec075be10a555361e9c8a0c39e02bbb161e3c726cd29ba19c6"
+hash = "0a548d61168d8ffb084dc0a8696b2959ad01b2b89bf64e50f1a8d7205976087a"
 metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "0ca7b0625896a1e35e4231c1f42c775c12b66683c65205eb696fd6354c069de9"
+hash = "1ee1ede7b38f808dd35e19d5cbd9fd0f69c89d788efcb702ad352d735d8e0a6e"
 metafile = true
 
 [[files]]
 file = "mods/scalablelux.pw.toml"
-hash = "9ba40cbb5d1da9666bf4b3a0ff6fa7e9520230252bc4cf00f02848f3e4633957"
+hash = "c456b8055d6c39599b74d1ef518cd83892b3055bd283fc0aae78cf6899f5f146"
 metafile = true
 
 [[files]]
@@ -734,12 +753,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "a8a83e9e121d535527abcc02d6c2411ead29904365f4b139191e890ec5ce5b51"
+hash = "c871534eabadd807e481daaddc99950fc48c4073f36c50b5991e6a8382d1850a"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "280cf7ad4ec95bd95eef81a7f327095c5f40e1b8aa45cea91284bfd19395d69e"
+hash = "a4c0d5d12d50900a6b34b74e4e199dd227b7cb1295854aa1ecbfee5a19c13d0c"
 metafile = true
 
 [[files]]
@@ -749,7 +768,7 @@ metafile = true
 
 [[files]]
 file = "mods/threadtweak.pw.toml"
-hash = "537ce9a516eaadc60b7498677f30ab1e2fe857a25a36e247f9cd11c565cd895a"
+hash = "aa9b0a592e0c8cd791e1194455a8569667d5a3f1e8b52a60bef79052474a0db8"
 metafile = true
 
 [[files]]
@@ -759,12 +778,12 @@ metafile = true
 
 [[files]]
 file = "mods/unilib.pw.toml"
-hash = "f12d0dc2dd8ba4154f4aae17f137d1d7b5e0306a7ba7bb759fd69445e8d2b478"
+hash = "2c35d988bdbc5f89e148f0ba2a982830c155080c5b860ef9d83da8528e89b797"
 metafile = true
 
 [[files]]
 file = "mods/viafabric.pw.toml"
-hash = "837d41ca1d993dab358f6726a822c09f446cab8606adf6619c3b678ca2382f22"
+hash = "3d09917992bb22019000f58ecdec751afcbaca5b57e85d2db8d7c573e18c2084"
 metafile = true
 
 [[files]]
@@ -774,12 +793,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "aa6ad8e866727547713b0c1ee376f33922d0a744d843f7de3efd2783d96c5366"
+hash = "d1d3da55b95294374123afca5337e60cc47f3464e8fd1714574a66caddb42d72"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "fad5c358be2ffad5d79bfcb1d43c8dda7a64cd8eceacd38644a462433dc14019"
+hash = "1f2c31ae633e34b7139edfc4057b1f2c0ff233c4e3c39c58d93d407c63b84933"
 metafile = true
 
 [[files]]
