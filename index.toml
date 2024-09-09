@@ -514,7 +514,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "d994541de2fa67b9f4d288e50793d2591d013c4ce4dd27fc99f0a6b562556825"
+hash = "2ded0b20c7dcdc7251a18e528a3fb70ad18db7b572ffc255dd957a1a56dff422"
 metafile = true
 
 [[files]]
@@ -528,8 +528,18 @@ hash = "e6eff4533154c7715f8a1fbc8c8b9c940e63b5878f6ce39e7ffef050a8da202f"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "be24167abe64f5bcf37e08bf93065e0800aa16b9ff170efb75c1e8c38e2a93a4"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "444ec76f51b9713378aa4c900ca583a7df0888f89e76b76ae8cf5293d9cb51ab"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "83024fe24a4eee53f070d3da0c9b14e453af60365a1787e02dfa4eac2e1c05ec"
 metafile = true
 
 [[files]]
@@ -593,7 +603,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "ba59e9b4c7cc30852ed1d1a5a4b14465f552921e54c440233d44a0d12c17567e"
+hash = "80ecd6da3ec4316f3bc7da8690d8ed572946e3a85ec1640371b6f97a19b60dbd"
 metafile = true
 
 [[files]]
@@ -678,7 +688,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "c7c101be06ad509eb7d2d2459419524b6814152546d59e0f7608b22a0d066ad9"
+hash = "601b4cdbd392d5abae9144ea83c4b93a362f33b60411a32059feeb73d12fe029"
 metafile = true
 
 [[files]]
