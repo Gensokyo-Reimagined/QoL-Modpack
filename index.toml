@@ -17,14 +17,6 @@ file = "config/ViaFabric/viaversion.yml"
 hash = "c92f25f8f10cdd74d141e5b0dc4a0902e3a6d4c49693b9ad88a635a2344048d2"
 
 [[files]]
-file = "config/badoptimizations.txt"
-hash = "fb90f1b011fe8d1998f3ebeeaabc9018054aca4b0acbc93e13c48a63607810e8"
-
-[[files]]
-file = "config/brute_force_rendering_culling.json"
-hash = "3119a304c1c51d1f272d6e81e9f2c4672dba6d1dd1d720d69c75a3743e28408c"
-
-[[files]]
 file = "config/camerautils/camerautils.properties"
 hash = "db4f4d23547185402f6ef3134686799f5f1751fe2693568d18cde66188c4a76b"
 
@@ -55,10 +47,6 @@ hash = "360c0c258ce5f005133c8a0bcc657e8c040406269b7e654206962800ee6bf9ee"
 [[files]]
 file = "config/fancymenu/assets/icon32x32.png"
 hash = "d70e942364624f51c5b49bd5387fae596b2b3a32d15a0f2a4e8880bb660f3af9"
-
-[[files]]
-file = "config/fancymenu/config.txt"
-hash = "b3ce167727789855b7f32976e6b81ff2af054ec43c467e87ec60e0bcd6cddd8a"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
@@ -126,7 +114,7 @@ hash = "d70e942364624f51c5b49bd5387fae596b2b3a32d15a0f2a4e8880bb660f3af9"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "4df459351cc5c5f49ad2fd6b5e09307cb1690c2e198030d17140c943b7946eba"
+hash = "3c1427f3664c3b709aecdb0882e769d8636d79b85813be8af116953cbd7b25f4"
 
 [[files]]
 file = "config/fancymenu/resources/bmc.png"
@@ -318,11 +306,15 @@ hash = "8d33ecae42a6d613c2398ebf619f00a9b8d326fa6411f0ad8c343db058638427"
 
 [[files]]
 file = "config/yosbr/config/enhanced_bes.properties"
-hash = "a571013fab85b796ccf4ac288b12e141f7385a9340f859a5a4ca71c2f9605688"
+hash = "64b747412eef926e677d27e09b51c07e3ede1edec741ae151ea6aec6d42807fa"
 
 [[files]]
-file = "config/yosbr/config/entity-view-distance.json"
-hash = "2f03913dccfdfa61f217a139b1d4360cc59a66173b54709a6885ae1c7424681b"
+file = "config/yosbr/config/entity_model_features.json"
+hash = "6be27ffe34b0df3f65b20fb06c22ee4297933f33e1376f7dea59c2549ba29e30"
+
+[[files]]
+file = "config/yosbr/config/entity_texture_features.json"
+hash = "17178ec49b40bf1c72ff90fa433bc5e0a9f0c1a8f1f40701b3a4efc167e1a714"
 
 [[files]]
 file = "config/yosbr/config/entityculling.json"
@@ -455,7 +447,7 @@ hash = "40a3fd33b75dd76f8d77c24e37163ee6ecdc1ef37624615db33d7e2ba6d16f52"
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "955a068e5b296f249c084ca6eb19d985b1bd9353549bbce5d36dad5b9270dff8"
+hash = "45336074b40a5d9c92caef3e1d6ab6d92ca919e404f24b38a5b5cf9c7c8bb5aa"
 metafile = true
 
 [[files]]
@@ -529,7 +521,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "be24167abe64f5bcf37e08bf93065e0800aa16b9ff170efb75c1e8c38e2a93a4"
+hash = "2ed06ddfb2e433024c5419af4dcb002dd854691b68565e4f0f1f1c96fc3fcdf6"
 metafile = true
 
 [[files]]
@@ -539,7 +531,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "83024fe24a4eee53f070d3da0c9b14e453af60365a1787e02dfa4eac2e1c05ec"
+hash = "dece10f161ad72eb069bc489fd10328b525b8c20858c0c13ff86f66452e2c8cc"
 metafile = true
 
 [[files]]
@@ -548,7 +540,7 @@ hash = "56607ca071a237820d53e3e4f22b8359467f90dce807007a2f66d4931d03dff0"
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "e3854a5bf8296a33ef7e2dcae13689b0923976a3b949564aebc27143e71d47fc"
+hash = "f7c2814e0854842eb1872dff98052714a8235d2beb1f67e04b9ffd62009ff5b1"
 metafile = true
 
 [[files]]
@@ -597,13 +589,18 @@ hash = "1e4034d327b8fde6937692ea0bfd91c571b27669624c1b429fe349415233b72f"
 metafile = true
 
 [[files]]
+file = "mods/forcecloseworldloadingscreen.pw.toml"
+hash = "ecfd75bec8245e1f183258086f8f3ff62169d8172b576889bb7eab8e1b27c46c"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port-fabric.pw.toml"
 hash = "cc91efc35506cab3787e9cb31114c6cb27eb3c32c93513ec4ab524461cbb625e"
 metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "80ecd6da3ec4316f3bc7da8690d8ed572946e3a85ec1640371b6f97a19b60dbd"
+hash = "2bda48a2822dbce02e5f80800803b9a0891024a4a903c6d45016f0b7294000ee"
 metafile = true
 
 [[files]]
@@ -648,12 +645,12 @@ metafile = true
 
 [[files]]
 file = "mods/midnightcontrols.pw.toml"
-hash = "b1670165359770e30df48c891e6fbe501519c57e52536c52b323e1b7ddd065ed"
+hash = "700bc897b84a65b9c99677f17638dd4f30ae3108005f529369e887512179527a"
 metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "e2d439d1fdd6e03d4fabf2f427e5e63dc0a69aa6347b067d064e103a857a4c26"
+hash = "b8eb6f6d1ed308fb0a691832cbc3159f8568eb775db0dd4da05e199346846529"
 metafile = true
 
 [[files]]
@@ -703,7 +700,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "4986ecbe3d1aea9216808004ce3abd93af7c191142dfe06561d0a72dc1e0f770"
+hash = "9eb7baae9b474fd38ef6d4e2829a742908f6aab4ef23f20e9ac77b37a17e9b10"
 metafile = true
 
 [[files]]
@@ -743,7 +740,7 @@ metafile = true
 
 [[files]]
 file = "mods/server-country-flags.pw.toml"
-hash = "f3bb1e2ab955b022e7f6b08fceb11b715c5971136ac9e140a5a263bc417acbda"
+hash = "758f0b430d81de60c0738f4042e37acedc212e1a94a5c846475c77be4bf7af4b"
 metafile = true
 
 [[files]]

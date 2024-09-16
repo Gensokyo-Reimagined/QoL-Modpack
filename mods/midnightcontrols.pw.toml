@@ -1,13 +1,13 @@
 name = "MidnightControls"
 filename = "midnightcontrols-1.9.7+1.21.jar"
-side = "both"
+side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/bXX9h73M/versions/rEUOfNLj/midnightcontrols-1.9.7%2B1.21.jar"
 hash-format = "sha1"
 hash = "be279164bcf6daef50f454e886573fd5fbcb5caf"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 5441792
-project-id = 621768
+[update.modrinth]
+mod-id = "bXX9h73M"
+version = "rEUOfNLj"
