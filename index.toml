@@ -318,7 +318,7 @@ hash = "17178ec49b40bf1c72ff90fa433bc5e0a9f0c1a8f1f40701b3a4efc167e1a714"
 
 [[files]]
 file = "config/yosbr/config/entityculling.json"
-hash = "4c3d1985752777677bfaa0c4404d777fa5346addedba8b21ce393cafc7671a25"
+hash = "6fb24ff4fce0739dcbfa9f48661c3041ed8bb599581d1a375a0f15a55627019c"
 
 [[files]]
 file = "config/yosbr/config/exordium.json"
