@@ -1,0 +1,16 @@
+name = "Astrocraft"
+filename = "astrocraft-1.4.4+1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DCWEXia7/versions/yLnZ7nol/astrocraft-1.4.4%2B1.21.1.jar"
+hash-format = "sha1"
+hash = "2791cfb5f3260e10e4742308211967282ddb8f40"
+
+[update]
+[update.modrinth]
+mod-id = "DCWEXia7"
+version = "yLnZ7nol"
+
+[option]
+optional = true
