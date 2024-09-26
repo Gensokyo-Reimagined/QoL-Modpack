@@ -1,13 +1,13 @@
 name = "Resourcify"
-filename = "Resourcify (1.21+-fabric)-1.4.1.jar"
+filename = "Resourcify (1.21+-fabric)-1.4.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "ae2fdff45dec446c34bb3303249acba381e0c7ba"
+hash = "2a1767238684fb4474de4ef2eb204ddb1fd11d61"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5671556
+file-id = 5746379
 project-id = 870076

@@ -447,7 +447,7 @@ hash = "40a3fd33b75dd76f8d77c24e37163ee6ecdc1ef37624615db33d7e2ba6d16f52"
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "45336074b40a5d9c92caef3e1d6ab6d92ca919e404f24b38a5b5cf9c7c8bb5aa"
+hash = "5ec1378d7dc0d0fdf552ea1c31bff5a74898d1d328ace2a1f5a49168b915c58c"
 metafile = true
 
 [[files]]
@@ -516,7 +516,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "2ded0b20c7dcdc7251a18e528a3fb70ad18db7b572ffc255dd957a1a56dff422"
+hash = "a114a0a930b5a866634080269deccad7b93117bb2a8b47f6b522a268bdfcb985"
 metafile = true
 
 [[files]]
@@ -550,7 +550,7 @@ hash = "56607ca071a237820d53e3e4f22b8359467f90dce807007a2f66d4931d03dff0"
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f7c2814e0854842eb1872dff98052714a8235d2beb1f67e04b9ffd62009ff5b1"
+hash = "40ec6cacc1f65f3aac6f72a14f95e59a76d907cd8804c0441a06d9e06fa4a73c"
 metafile = true
 
 [[files]]
@@ -600,7 +600,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "2bda48a2822dbce02e5f80800803b9a0891024a4a903c6d45016f0b7294000ee"
+hash = "a1f8779daf0bac7d47acd8ae9616e4d8ad620b301950205a09c251ef502e5447"
 metafile = true
 
 [[files]]
@@ -670,12 +670,12 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "7d1a2009e73a857e56c3c14ef809fa4624c0ac53a3760dd337aa09a7f2bc1dca"
+hash = "94caec0b2017c467df06218a28c4d3b9ec4c6a18cbd1775edc06483ed0a909b8"
 metafile = true
 
 [[files]]
 file = "mods/mpalladium.pw.toml"
-hash = "05f5fb9970910276aec5b068c52501ca0d1259ce8d9b038e775548c75765ee44"
+hash = "45d1f1e53e1bdf8e50cf1a7d822cb547d99e8916a9827e802ff1654c541b4030"
 metafile = true
 
 [[files]]
@@ -695,7 +695,7 @@ metafile = true
 
 [[files]]
 file = "mods/noxesium.pw.toml"
-hash = "b970013f28c20defc3fd24994c713776874cb12a496a755153df504619efa5d4"
+hash = "665d5fd80ae9167ab56a91ab600b5d9205bf5d974a26137c3da66ddc84869e7d"
 metafile = true
 
 [[files]]
@@ -724,7 +724,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "1ee1ede7b38f808dd35e19d5cbd9fd0f69c89d788efcb702ad352d735d8e0a6e"
+hash = "2c20c6e3eebc5031e22f4a65897deec95e12e1eaccb4042465f1663a947f0a72"
 metafile = true
 
 [[files]]
@@ -799,7 +799,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "c2feebe5c593b047aad6c994636ac1b9975cfd6ee6cd5f95f880a8c6d3de6544"
+hash = "af7ac0c97a2bc42ed5c6b3b13b2900f398f95f53fdd974289c85107000e996b8"
 metafile = true
 
 [[files]]
