@@ -11,7 +11,7 @@
   "counterFormat": "\u00268(\u00267x\u0026r$\u00268)",
   "counterColor": 16777045,
   "counterCompact": true,
-  "counterCompactDistance": 7,
+  "counterCompactDistance": 2,
   "boundary": true,
   "boundaryFormat": "\u00268[\u0026r$\u00268]",
   "boundaryColor": 5636095,
