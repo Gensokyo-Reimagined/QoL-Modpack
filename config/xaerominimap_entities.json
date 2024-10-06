@@ -14,8 +14,8 @@
   "name": "gui.xaero_entity_category_root",
   "protection": true,
   "settingOverrides": {
-    "displayed": true,
     "displayHeight": 0.0,
+    "displayed": true,
     "heightBasedFade": true,
     "renderOrder": 0.0,
     "color": 13.0,
@@ -56,8 +56,8 @@
           "protection": true,
           "settingOverrides": {
             "renderOrder": 6.0,
-            "color": 15.0,
-            "heightLimit": 2050.0
+            "heightLimit": 2050.0,
+            "color": 15.0
           },
           "subCategories": [
             {

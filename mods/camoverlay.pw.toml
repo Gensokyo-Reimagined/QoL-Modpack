@@ -1,0 +1,16 @@
+name = "CamOverlay"
+filename = "CamOverlay-2.0.0-alpha.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/att6conP/versions/CeIiUGNE/CamOverlay-2.0.0-alpha.2.jar"
+hash-format = "sha1"
+hash = "228084cd827155499409acbc6088d1f2641844bb"
+
+[update]
+[update.modrinth]
+mod-id = "att6conP"
+version = "CeIiUGNE"
+
+[option]
+optional = true

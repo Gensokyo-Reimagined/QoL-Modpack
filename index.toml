@@ -21,10 +21,6 @@ file = "config/camerautils/camerautils.properties"
 hash = "db4f4d23547185402f6ef3134686799f5f1751fe2693568d18cde66188c4a76b"
 
 [[files]]
-file = "config/chatpatches.json"
-hash = "d8df4f8dde74ee487f15435b8f213c168d9203cb59e9835bade14ef54091b567"
-
-[[files]]
 file = "config/dynamic_fps.json"
 hash = "c52656df278541d08da3e0d3853e812f6fcfef746aaef0c09899a97646e4ddea"
 
@@ -114,7 +110,7 @@ hash = "d70e942364624f51c5b49bd5387fae596b2b3a32d15a0f2a4e8880bb660f3af9"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "e994ec5a9c4c5ae2b6736fd640c832c1c709a488c2f35e5a91d57216e74059c0"
+hash = "78e549f274c67dd89bac88096bd03ccddff3b7aaadd0c092a2138b67ee6dd120"
 
 [[files]]
 file = "config/fancymenu/resources/bmc.png"
@@ -145,68 +141,68 @@ file = "config/fancymenu/resources/new_logo.png"
 hash = "c164f32e45a56fb9fa4c85f25358e40eb0fac9f0d141ab971be21e57a3944ed2"
 
 [[files]]
-file = "config/fancymenu/slideshows/bg/images/image (11).png"
-hash = "d17f854b1c2c597112afc14ed0ff6a4e790740f344444f1bc53a18f8fa6f4893"
+file = "config/fancymenu/slideshows/bg/images/1.png"
+hash = "b4e786562821956471a14c91d550ca724088082b508edace81c88f6ad7a91001"
 
 [[files]]
-file = "config/fancymenu/slideshows/bg/images/image (15).png"
-hash = "c29f7d44903c58b52281383f8ad865b6dcffd0061975df7a416375d52685c275"
+file = "config/fancymenu/slideshows/bg/images/2.png"
+hash = "5dbe7f2bd63817ae04371d0f165e52dc272ee38753882e224a9711db2c57f322"
 
 [[files]]
-file = "config/fancymenu/slideshows/bg/images/image (16).png"
-hash = "e51789e33767f962aab96192a9149d42f6a66b7b47f084807122abb10c89d274"
+file = "config/fancymenu/slideshows/bg/images/2024-09-04_21.40.54.png"
+hash = "a173e9ce9a7b1a66de62edfedc7d292306f23d05c4f99585b85f384d90768352"
 
 [[files]]
-file = "config/fancymenu/slideshows/bg/images/image (3).png"
-hash = "844e12c5b1ac25ee8b5ecbf89d3e1821a78e60eb459ecd795bbbed63df3665fc"
+file = "config/fancymenu/slideshows/bg/images/3.jpg"
+hash = "dcd7841a4feabb53d862597f0cdf2740f59d0887c13ba7471925bc986444056d"
+
+[[files]]
+file = "config/fancymenu/slideshows/bg/images/4.png"
+hash = "e852cbcca5bb229f878f4c0ccaeb5d6e255751d121f4ef4a8220baf518659828"
+
+[[files]]
+file = "config/fancymenu/slideshows/bg/images/5.png"
+hash = "56a4214ceb050a48774d3d5a8faf13c005aeed0a9e585053f9ed56cd19b2073d"
+
+[[files]]
+file = "config/fancymenu/slideshows/bg/images/fb2024-09-16_22.51.00.png"
+hash = "f14fddbad60a3e6d2c809f4380b1ea031081971d4260ab0bf490ef7ef4023f60"
 
 [[files]]
 file = "config/fancymenu/slideshows/bg/images/image (4).png"
 hash = "590d5716294cbf0dd226330e57a581d56cbcf8becaa549f5b6e4513b0dd14772"
 
 [[files]]
-file = "config/fancymenu/slideshows/bg/images/javaw_4bkM3czkjB.jpg"
-hash = "b8f7ec9e130ff3f2720481cd4d4aeff8853cde1f8e8150baf19a330ebae75c7d"
+file = "config/fancymenu/slideshows/bg/images/image (73).png"
+hash = "48d4a3dbc71e2ab27966529025eade2e526b2c50014f025671ae71a678d20c15"
+
+[[files]]
+file = "config/fancymenu/slideshows/bg/images/image (74).png"
+hash = "7521503f6b0b809a1a6ad18a0756e33aebedfebe0dfa6a9633b957bb8c055ec3"
+
+[[files]]
+file = "config/fancymenu/slideshows/bg/images/image (75).png"
+hash = "1e916e67833c865da2f6e43b769471854bac18fc55b0048ab817ae999e9348b1"
+
+[[files]]
+file = "config/fancymenu/slideshows/bg/images/image (76).png"
+hash = "231f4c955a7bb3f5d13382a38e934de093f16633fb2e22e2e70036979da773ed"
+
+[[files]]
+file = "config/fancymenu/slideshows/bg/images/image (77).png"
+hash = "19d0ee0344a32370642b0b972efa1a3d89c6e87c91677f3810ffa14e92b71daf"
+
+[[files]]
+file = "config/fancymenu/slideshows/bg/images/image (78).png"
+hash = "e603ec930ff10e86db71546527f79b19c061035f9cf9e2d5fb943547f274c66f"
+
+[[files]]
+file = "config/fancymenu/slideshows/bg/images/image (79).png"
+hash = "c42ebca288192a05d51290c32c198626d0fb5f95d17f137f7e24913bc2983230"
 
 [[files]]
 file = "config/fancymenu/slideshows/bg/images/javaw_8AsiXFlEsG.jpg"
 hash = "31726738eb95abba620465b7dfe50034051fa4bb802b870d6af6105b6607138e"
-
-[[files]]
-file = "config/fancymenu/slideshows/bg/images/javaw_KDDEg4BY5L.jpg"
-hash = "baa7d0e160565f4dc46ca244fb2dba53710793a01a9816fc254c8ba3621f881e"
-
-[[files]]
-file = "config/fancymenu/slideshows/bg/images/javaw_NTu5zgwtah.jpg"
-hash = "9c527238f2a6a80aa919766de43e0837221d4d1099655ad6e6e85174133554ef"
-
-[[files]]
-file = "config/fancymenu/slideshows/bg/images/javaw_SFYDRs9DQs (1).jpg"
-hash = "28d0569dfb1047e116dff358d1e8305d5736c6f900e283da2843c28c61711085"
-
-[[files]]
-file = "config/fancymenu/slideshows/bg/images/javaw_TIpOCuRYz1.jpg"
-hash = "0c8657d659a354072b25702648209be3d152589df01769dc9e0b6c7c95647366"
-
-[[files]]
-file = "config/fancymenu/slideshows/bg/images/javaw_cfN0784aT6.jpg"
-hash = "6aa9e397a0b517bd595099266eec086b591f24472e15e65336f6bb2873897940"
-
-[[files]]
-file = "config/fancymenu/slideshows/bg/images/javaw_eF6J3miiRz.jpg"
-hash = "0be0d71a272d697c6e60b091ec77b839fba439ca61b64bb7c0d6ee0fa18aac0a"
-
-[[files]]
-file = "config/fancymenu/slideshows/bg/images/javaw_g2Y3DiVJeR.jpg"
-hash = "c1459c370d87385d251502f5b63dd11c3ff838b6193d70c2886fb527839838b1"
-
-[[files]]
-file = "config/fancymenu/slideshows/bg/images/javaw_xezK3uwNfC.jpg"
-hash = "4223529e9cd7118b8d35c6ba51cb5d6614e6951d8c0002b52f2a8f10cffe7ed0"
-
-[[files]]
-file = "config/fancymenu/slideshows/bg/images/javaw_yXJAsRre2M.jpg"
-hash = "bab808e1d574a7fafa82fd9eb7a2c3c0af5676dedc39c135b5792405349b988b"
 
 [[files]]
 file = "config/fancymenu/slideshows/bg/properties.txt"
@@ -262,11 +258,15 @@ hash = "771a844d13ab6c2ff99f14b8fd912d02c55a1a4104361692b740c3e596084f6f"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "c4e80dcc2c0b02a908f05f95128818412e762134b8490462908dd1dc6b7d4745"
+hash = "2550d152f9d45d5888ffdb701b4051cc327860ec9d02c6c96c188cea2e380f36"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "8b1b821f77d269ff15ee0d95ca8bf77979009fe930adc0c5efb36adc35d80ba6"
+hash = "4d9e04bea0685bd205fed8a515a236c5a07c91169a1eba5a9651f382b86b6b0a"
+
+[[files]]
+file = "config/yosbr/config/DistantHorizons.toml"
+hash = "f60058a8c4382eb885df7d6978807e937bc2528abb0dbfdfc877e09cda81150a"
 
 [[files]]
 file = "config/yosbr/config/ambientsounds-client.json"
@@ -275,6 +275,10 @@ hash = "a8e2a82ca0fa8ea72964c687633b99ed463168b7398d6ed745bd7a102602ee5d"
 [[files]]
 file = "config/yosbr/config/betterclouds-v1.json"
 hash = "3d462440396f876bfd9591a0995856daa980ae3f6f1db2936dba7c654016aa39"
+
+[[files]]
+file = "config/yosbr/config/betterf3.json"
+hash = "da3c71d2c3a3a0f8d6a9523427b76fc2839ac4968cc73b1beb3f9215920b3837"
 
 [[files]]
 file = "config/yosbr/config/bobby.conf"
@@ -286,7 +290,7 @@ hash = "b821eab582923ecd637a9b04aee8d4336a8353f0bef886da59249cb8fb4b0a74"
 
 [[files]]
 file = "config/yosbr/config/chatpatches.json"
-hash = "69322a1128fda4a8d3d2e3f2cc85a0d13eefbcfc08af313f8ce2cec324df4ec9"
+hash = "6cfdb37b6d8c3cc8f64eddfc0f146069786dd55fb46c1311d397f7a27c66da16"
 
 [[files]]
 file = "config/yosbr/config/citresewn-defaults.json"
@@ -342,7 +346,7 @@ hash = "2832c6eb4bddbdd97b9f5a886fd012384576d557e38ad2f646d9408b277f194f"
 
 [[files]]
 file = "config/yosbr/config/immediatelyfast.json"
-hash = "545ae2708e53b28efedab566ce30983df7a7d6a4527799f78228920724a2008f"
+hash = "ae5abc063b9964552f3f9f7f0a1740304579c6b66408c6ef8491ba88339672ca"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
@@ -442,6 +446,11 @@ file = "mods/WorldEditCUI-1.21+01-SNAPSHOT.jar"
 hash = "40a3fd33b75dd76f8d77c24e37163ee6ecdc1ef37624615db33d7e2ba6d16f52"
 
 [[files]]
+file = "mods/alinlib.pw.toml"
+hash = "f73541cc7aecf6f58f859789e5ae994efcd0bf48c1c304cbd6843e861da2a4e4"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "5ec1378d7dc0d0fdf552ea1c31bff5a74898d1d328ace2a1f5a49168b915c58c"
 metafile = true
@@ -467,6 +476,11 @@ hash = "a934007a85cf1a0d1a1c28cd8d4f1eff250e6536ea7243813cf91d82b0708b2b"
 metafile = true
 
 [[files]]
+file = "mods/betterf3.pw.toml"
+hash = "7e149f7e7c028f692a331b828b9ad8b84ca2029c8ffe765e19f7a647653e77a9"
+metafile = true
+
+[[files]]
 file = "mods/bobby.pw.toml"
 hash = "c455d55e736f90f6a09701594dee2342e91c77b7f230f0ff73090d7ead339629"
 metafile = true
@@ -477,8 +491,18 @@ hash = "055d69e9a0a5607b59b7340d606002b0580ed28b72aacce0ca646dea4a870c6a"
 metafile = true
 
 [[files]]
+file = "mods/camoverlay.pw.toml"
+hash = "3727825ffc5216ac6bbe8035b3d467f175208852855cfa2f0771f4528dc76c4c"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
 hash = "a9f4984f9cbb921c28d115bf6232a21a2dad6ccc1a6c28a175729530426556a9"
+metafile = true
+
+[[files]]
+file = "mods/chatanimation.pw.toml"
+hash = "23d55a389474f57b784ec0e35f70bf12d7f768b309aa2c667cad9d8b559fbec0"
 metafile = true
 
 [[files]]
@@ -492,7 +516,7 @@ metafile = true
 
 [[files]]
 file = "mods/concentration.pw.toml"
-hash = "24b8f1a1f7a5217536f8422a5332dabb107aa26e4667ce1413a7f8b2543675eb"
+hash = "cf5697a3290686030e93cb37b6b5308ce3b1619470c8ea4a4086d3cfc0bc7afe"
 metafile = true
 
 [[files]]
@@ -513,6 +537,11 @@ metafile = true
 [[files]]
 file = "mods/creativecore.pw.toml"
 hash = "a114a0a930b5a866634080269deccad7b93117bb2a8b47f6b522a268bdfcb985"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "ed8371fa11f86ebd9c53bc384e1d91f36239b8ce9227c5d5b92ed1d1e470b0ab"
 metafile = true
 
 [[files]]
@@ -596,7 +625,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "a1f8779daf0bac7d47acd8ae9616e4d8ad620b301950205a09c251ef502e5447"
+hash = "cd6932ba64fd69b55137ab6ab0b8df23165f53335c11c9ac871fa97a6505049f"
 metafile = true
 
 [[files]]
@@ -691,7 +720,7 @@ metafile = true
 
 [[files]]
 file = "mods/noxesium.pw.toml"
-hash = "665d5fd80ae9167ab56a91ab600b5d9205bf5d974a26137c3da66ddc84869e7d"
+hash = "eb3c4a7faf6e350e2cec105a50a302e918e579784b73967e1cbf8f08a3c50605"
 metafile = true
 
 [[files]]
@@ -721,6 +750,11 @@ metafile = true
 [[files]]
 file = "mods/resourcify.pw.toml"
 hash = "2c20c6e3eebc5031e22f4a65897deec95e12e1eaccb4042465f1663a947f0a72"
+metafile = true
+
+[[files]]
+file = "mods/ryoamiclights.pw.toml"
+hash = "e4261ec482475202c24908049331fffb0a8f1f74d88a458eb4c2edf794b7d6c6"
 metafile = true
 
 [[files]]
@@ -790,7 +824,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabric.pw.toml"
-hash = "b14e60b58c09815f041161527272d3c9423d4ac0d31943aac110bdbd7bd3b825"
+hash = "92e467d6acabc7876bd6ed5e187d0a15e10570b3be9d81eaa1dcf09e87cebfd8"
 metafile = true
 
 [[files]]
