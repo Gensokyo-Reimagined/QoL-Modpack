@@ -457,7 +457,7 @@ metafile = true
 
 [[files]]
 file = "mods/astrocraft.pw.toml"
-hash = "f496e977b2910204915d052a52587804c8d4e04708386dd8991882af0ae5fc5c"
+hash = "6e5e8dad4c1d253d328a15db68b107b8dd562595f3197cd01f5e651aa89ee980"
 metafile = true
 
 [[files]]
@@ -516,7 +516,7 @@ metafile = true
 
 [[files]]
 file = "mods/concentration.pw.toml"
-hash = "dda5eee047fc06a70b79eebc5e688eb1a6c0e589af15d9b6fdc588ee9ab730d0"
+hash = "eb5a2d23b6e8cee2bbea0bfa9980b7cc4270097d228f9bd3049f9d58b84a284b"
 metafile = true
 
 [[files]]
@@ -536,7 +536,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "a114a0a930b5a866634080269deccad7b93117bb2a8b47f6b522a268bdfcb985"
+hash = "ef29ef1e0debdb08b5b24413c55f6adc7a16aa6a4d85881c5f6e21903279cd25"
 metafile = true
 
 [[files]]
@@ -546,7 +546,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "edac4c49e3bf3b04460b57f9053757880d36c9f2855a15ed66773168442414ad"
+hash = "44563318e233c0086999a52e2a154cea17f289f0cb123d2089d61d0f8d042be4"
 metafile = true
 
 [[files]]
@@ -595,7 +595,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "799739f8d8f5f43667ad44bbaa8f7beb1b7d68d345bf7cad0f0e2a24af47560c"
+hash = "28fe2d646fdab0949aa77a86116d530b440b40c62ee4fcd0b2b3419e8531bdfc"
 metafile = true
 
 [[files]]
@@ -605,7 +605,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferritecore-fabric.pw.toml"
-hash = "3bbee959cef239c2524be0e79286a03cc377571fff7cadf2a79ad435bc40884e"
+hash = "076a1cb946d8e57f95a0b740bfd2083b4392b42f98fdbac92588583fd6bd5619"
 metafile = true
 
 [[files]]
@@ -625,12 +625,12 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "a9e8e0dff7f078ec7ed4f1b538efa65b28f5fd4780b61f1daa1e44f4c35cc79c"
+hash = "ad0582e4564187ab1895239e3f74b71d1e841bb8da205d7416a242f33a035162"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "ae42dc97752bf2031b0fb77994ab04e51e5569a637f2f9ee6a98937053b0d290"
+hash = "835b42848b40cd6f0568cb95fa655833e0caeb488a74cfd05df97a5644fd052b"
 metafile = true
 
 [[files]]
@@ -660,7 +660,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "bf87266803c4386966e90dc88a99888e3bb6e519d11c18b1edccbec507814b93"
+hash = "8edae1a42bd1ebe3be34b1a0861f684558865315d16b2d94b971c7029fd9efce"
 metafile = true
 
 [[files]]
@@ -670,7 +670,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightcontrols.pw.toml"
-hash = "a1850e69400bfcf089983e2efdf736935fd0c9d87828e7ce200735ec0871e59d"
+hash = "6a917c1f2ad3b6b1be4e7d91d70131e3476a774c6accbad449d77d44e7e3a6e2"
 metafile = true
 
 [[files]]
@@ -730,7 +730,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "bd2997759de6603765d70801346bf46d41184c0b4ff6965958b3070896206ecf"
+hash = "8586c41556af2b9fa0d0d4521e29808dc8b1b56830375f8d250b1f67fce78225"
 metafile = true
 
 [[files]]
@@ -749,7 +749,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "2c20c6e3eebc5031e22f4a65897deec95e12e1eaccb4042465f1663a947f0a72"
+hash = "f40118beec40a160098f9fa4a8d2833acf91fd1ba3ef1d8560b5f9c1974a6eca"
 metafile = true
 
 [[files]]
@@ -844,7 +844,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "ca4306853c6033d1a8b4c54043581e28f266d0f30a624546487c45f6d6c829cc"
+hash = "e9b3d4d51dbcae52e1305cef72c089ebeb2258ba3599e219bab257cc79c3c1b3"
 metafile = true
 
 [[files]]
