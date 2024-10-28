@@ -452,12 +452,12 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "5ec1378d7dc0d0fdf552ea1c31bff5a74898d1d328ace2a1f5a49168b915c58c"
+hash = "56048dbb0fead7262b18936209e4341d0841adce3ab71cb8d63efa6ecf164a00"
 metafile = true
 
 [[files]]
 file = "mods/astrocraft.pw.toml"
-hash = "6e5e8dad4c1d253d328a15db68b107b8dd562595f3197cd01f5e651aa89ee980"
+hash = "566d8410452d51ae1fbea7b808cc2945fccf10ab515ff0620285269857e0af94"
 metafile = true
 
 [[files]]
@@ -575,7 +575,7 @@ hash = "56607ca071a237820d53e3e4f22b8359467f90dce807007a2f66d4931d03dff0"
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "4f98c68b1de3837e8e7c519dfffc8c2b312768c69f804540334cc3f20714f7f6"
+hash = "6781d16eadeb0c3795428014f55979736795206072637df5a8ac9344a107d9db"
 metafile = true
 
 [[files]]
@@ -605,7 +605,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferritecore-fabric.pw.toml"
-hash = "076a1cb946d8e57f95a0b740bfd2083b4392b42f98fdbac92588583fd6bd5619"
+hash = "1bcebf42f650151bf068b968e2b27b05c4b278bb9a31f2c0b64c4a462d3ff787"
 metafile = true
 
 [[files]]
@@ -625,7 +625,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "ad0582e4564187ab1895239e3f74b71d1e841bb8da205d7416a242f33a035162"
+hash = "b17bee03069990a9cdca5ae129b03d1bb21e2fdc58abffb4ba8177a19e57990d"
 metafile = true
 
 [[files]]
@@ -655,7 +655,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "39b934e8092db92e69ad06d387aa1f296e0abd0b5e28823e73c5157ae5f93613"
+hash = "78f97b41a8056b90287f2b3b8ccb9818cab23e66f593eb9fa09b949614855259"
 metafile = true
 
 [[files]]
@@ -794,7 +794,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "32183306d7fd027a408716bc1d40b66f50fdeb5ecb5ad5ee3309f7c89bd00da4"
+hash = "97b1e671200490832c505879f0cb23f04c0d12a610abab9d5da2a63a62d37688"
 metafile = true
 
 [[files]]
