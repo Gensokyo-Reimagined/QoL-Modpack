@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".spyglass_astronomy/rendering.txt"
-hash = "25f0d9bd686d3b5c80d5ab7119f9a9dcedccb13195042e3b632278029a0343f6"
-
-[[files]]
-file = ".spyglass_astronomy/unknown/6420008576066811976.txt"
-hash = "3f9c8acf73895033c07275c7eb6939ef69c7b40755e1ece67539e20a692dfa80"
-
-[[files]]
 file = "config/ViaFabric/viafabric.yml"
 hash = "dd34f976667a5d91df70c76db5f71a7338f1f04510f0b771ed88f35b2c37adcb"
 
@@ -110,7 +102,7 @@ hash = "d70e942364624f51c5b49bd5387fae596b2b3a32d15a0f2a4e8880bb660f3af9"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "78e549f274c67dd89bac88096bd03ccddff3b7aaadd0c092a2138b67ee6dd120"
+hash = "a265fda0b0262c68361923b0b4ec4578d7ba4949a2d726d9dd30d92fccd82822"
 
 [[files]]
 file = "config/fancymenu/resources/bmc.png"
@@ -263,10 +255,6 @@ hash = "2550d152f9d45d5888ffdb701b4051cc327860ec9d02c6c96c188cea2e380f36"
 [[files]]
 file = "config/xaerominimap_entities.json"
 hash = "4d9e04bea0685bd205fed8a515a236c5a07c91169a1eba5a9651f382b86b6b0a"
-
-[[files]]
-file = "config/yosbr/config/DistantHorizons.toml"
-hash = "f60058a8c4382eb885df7d6978807e937bc2528abb0dbfdfc877e09cda81150a"
 
 [[files]]
 file = "config/yosbr/config/ambientsounds-client.json"
@@ -431,10 +419,6 @@ hash = "63e1c3c8adfb4f29e743b3e892bf0d98fac4a80729ceb3d01cd98b7569281e5b"
 [[files]]
 file = "icon.png"
 hash = "0d8e9790ada83aef41194a858cb8c170cec9461a66982fb1350b5e4a4ada78d4"
-
-[[files]]
-file = "irisUpdateInfo.json"
-hash = "a7a3e7f944bb58f35d7aa2971b037e18fd8e5bb381b3d12ee399e2c2f26f0d48"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -829,7 +813,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "af7ac0c97a2bc42ed5c6b3b13b2900f398f95f53fdd974289c85107000e996b8"
+hash = "c74a283bcdbd91d5a5c4143f2334cc1d85f42c759691adcd9951d6b1703b2a3a"
 metafile = true
 
 [[files]]
