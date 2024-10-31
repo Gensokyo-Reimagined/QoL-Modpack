@@ -723,10 +723,6 @@ hash = "8b1ee4be0c60ea6f0e7c6834cd38edaa15145d71fa8cf963c48c0f2d1e49d5e5"
 metafile = true
 
 [[files]]
-file = "mods/potatoptimize-0.0.1-dev.7.jar"
-hash = "f41886f5e07cbaf9b6f19985351c4226c027e8072db8675f14bd0608d068e559"
-
-[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "64d946e815b6a939a10e2fd846e54a65cbbbe1782cdcd10ce30fff285a04acd6"
 metafile = true
