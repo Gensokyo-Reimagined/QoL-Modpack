@@ -102,7 +102,7 @@ hash = "d70e942364624f51c5b49bd5387fae596b2b3a32d15a0f2a4e8880bb660f3af9"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "a265fda0b0262c68361923b0b4ec4578d7ba4949a2d726d9dd30d92fccd82822"
+hash = "beea5c11c7c1fde2b64d6819284b8dc34f529997fda74d15c06326653e0cdec7"
 
 [[files]]
 file = "config/fancymenu/resources/bmc.png"
@@ -422,7 +422,7 @@ hash = "0d8e9790ada83aef41194a858cb8c170cec9461a66982fb1350b5e4a4ada78d4"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "3e21fb419d29247873603b28f167d0db6fa47bd2a93cba318db2470ef3e27823"
+hash = "77851b94af6f625209c69fdfcdbdd433be83d52a684fe4edcddea3478a8532ae"
 metafile = true
 
 [[files]]
@@ -559,7 +559,7 @@ hash = "56607ca071a237820d53e3e4f22b8359467f90dce807007a2f66d4931d03dff0"
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "6781d16eadeb0c3795428014f55979736795206072637df5a8ac9344a107d9db"
+hash = "f99dbd4783dd58e213fcccc0a4cb7f6aae01ea06d3e02b37f76ad9d1fc5f867f"
 metafile = true
 
 [[files]]
@@ -604,7 +604,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port-fabric.pw.toml"
-hash = "cdfc040e85ea3b7abcce2a930bc0337cf3dd4790e20842a21c2422596c2c4982"
+hash = "bcc5b0c8c518905abf15dac48b645c7e4983ee7263027d428295e295af7f39d7"
 metafile = true
 
 [[files]]
@@ -614,7 +614,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "b1a64c666e561ad9f9af5322e0364010b164b3b9ee03b0162d4054c683367d01"
+hash = "d9d52cb38be989efc4c99d47cb9b6b0eee0b86679b29be6135c5fdb8ecbfbd26"
 metafile = true
 
 [[files]]
@@ -624,7 +624,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "4c499af14951c043e227d95bbb114b67328ddf1db6d23b1df1e8a94995e42ce3"
+hash = "12f267ff18c22656de7cca6f0056c1b9067423f9db0568d1ba06c9146809478d"
 metafile = true
 
 [[files]]
@@ -654,7 +654,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightcontrols.pw.toml"
-hash = "6a917c1f2ad3b6b1be4e7d91d70131e3476a774c6accbad449d77d44e7e3a6e2"
+hash = "c04f00e8021306aabc33b0141f26d41e8bb6b4792f78f4f44b335b0e4687649a"
 metafile = true
 
 [[files]]
@@ -683,11 +683,6 @@ hash = "e92486f046ce8e0abe24b61e4be63f691746fe521014672bc363c989e177e736"
 metafile = true
 
 [[files]]
-file = "mods/mpalladium.pw.toml"
-hash = "71af14ebfcb04edd9e7b6e76c9d97512b3dde51b79fc803996514c8f6169c86b"
-metafile = true
-
-[[files]]
 file = "mods/no-telemetry.pw.toml"
 hash = "6105c544e8f5e340d189056416de7abed26fb32b21c91426eea704e432ced60b"
 metafile = true
@@ -699,7 +694,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "601b4cdbd392d5abae9144ea83c4b93a362f33b60411a32059feeb73d12fe029"
+hash = "10e477afd7cae112d9f19d65c000cc46935596efc460f9711eec9d6e22d44ea4"
 metafile = true
 
 [[files]]
