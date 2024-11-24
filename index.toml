@@ -550,7 +550,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "7dc281d7eab155efdf2a739aa3a514bdad2e51dd42ed2ed767e2c549ea11b2d0"
+hash = "bb401d9a8ee0d097d099dd76f10072ea59bb64a973a5461a4bcc39090f952cbb"
 metafile = true
 
 [[files]]
@@ -559,7 +559,7 @@ hash = "56607ca071a237820d53e3e4f22b8359467f90dce807007a2f66d4931d03dff0"
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f99dbd4783dd58e213fcccc0a4cb7f6aae01ea06d3e02b37f76ad9d1fc5f867f"
+hash = "5a06bd63b8132c8653e225db9d72e5eab51de5e6b5a4afa499fd3da7be5592f9"
 metafile = true
 
 [[files]]
@@ -609,7 +609,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "b17bee03069990a9cdca5ae129b03d1bb21e2fdc58abffb4ba8177a19e57990d"
+hash = "cdd849e77b02e9e44ed04cf6367c36b7212162d511ff1bfa4a9e75af324f1e0e"
 metafile = true
 
 [[files]]
@@ -624,7 +624,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "12f267ff18c22656de7cca6f0056c1b9067423f9db0568d1ba06c9146809478d"
+hash = "4c7f6fb53f7449394850ad9f8862dd7d331812a1612f1406c008ce5de415e812"
 metafile = true
 
 [[files]]
@@ -644,7 +644,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "8edae1a42bd1ebe3be34b1a0861f684558865315d16b2d94b971c7029fd9efce"
+hash = "88386371013446f328aac3121a8f8fd3c5e857e193d92931253be2732438d591"
 metafile = true
 
 [[files]]
@@ -719,7 +719,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "64d946e815b6a939a10e2fd846e54a65cbbbe1782cdcd10ce30fff285a04acd6"
+hash = "83acc1da5c6e17ccab4373190256ba8653471f2c7cb403fba22ed072e4eca31d"
 metafile = true
 
 [[files]]
@@ -764,12 +764,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "9878bf8fafb95c99415ef7f2012ba29d11373c0165aac32c62d7755991461160"
+hash = "898e14275dd5cc187dee2b8f8fc83b4f0cdb56430b7fa64a8055e006d0249ce7"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "97b1e671200490832c505879f0cb23f04c0d12a610abab9d5da2a63a62d37688"
+hash = "11e2d2257d15509f1acffb9945c0a85f35ddffbf6877b8ab8ff21414f0f3caff"
 metafile = true
 
 [[files]]
