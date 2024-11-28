@@ -102,7 +102,7 @@ hash = "d70e942364624f51c5b49bd5387fae596b2b3a32d15a0f2a4e8880bb660f3af9"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "beea5c11c7c1fde2b64d6819284b8dc34f529997fda74d15c06326653e0cdec7"
+hash = "196d59dfed4883fc5ef238ce51e839535fe04cbe7bd06896eeab264cd4dbd81b"
 
 [[files]]
 file = "config/fancymenu/resources/bmc.png"
@@ -258,7 +258,7 @@ hash = "4d9e04bea0685bd205fed8a515a236c5a07c91169a1eba5a9651f382b86b6b0a"
 
 [[files]]
 file = "config/yosbr/config/ambientsounds-client.json"
-hash = "a8e2a82ca0fa8ea72964c687633b99ed463168b7398d6ed745bd7a102602ee5d"
+hash = "6d3ec098e98b7b0cdeb5ae26120c4036da3b67d9b0716ec20259aaad5c2a34cc"
 
 [[files]]
 file = "config/yosbr/config/betterclouds-v1.json"
@@ -509,6 +509,11 @@ hash = "0f24f7bd2057b70b6816de4e66922b64f8b6635dc603e40cc45d62646dc7221d"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "1365610f945f34d5d9ca8987ff8dc9a6d0754d49f5b7a78ca507a1e74bcb0ce2"
+metafile = true
+
+[[files]]
 file = "mods/craftgr.pw.toml"
 hash = "5190433984f791b67a656e1c1336679446419b50678392c3e590a5cd32495859"
 metafile = true
@@ -559,7 +564,7 @@ hash = "56607ca071a237820d53e3e4f22b8359467f90dce807007a2f66d4931d03dff0"
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "5a06bd63b8132c8653e225db9d72e5eab51de5e6b5a4afa499fd3da7be5592f9"
+hash = "c0bb895f2240522cc6f20afb9ef46293d9b689b8d46839364350e5b0682bac4b"
 metafile = true
 
 [[files]]
@@ -743,6 +748,11 @@ hash = "ad678d08930212a87420033ad9f264b67842d27d9cccf6f47d7cf39f9db14cdf"
 metafile = true
 
 [[files]]
+file = "mods/searchables.pw.toml"
+hash = "8302da862578554b012b2cfe58a3c1e75b514d09f94d842e7303be41a2157aeb"
+metafile = true
+
+[[files]]
 file = "mods/server-country-flags.pw.toml"
 hash = "758f0b430d81de60c0738f4042e37acedc212e1a94a5c846475c77be4bf7af4b"
 metafile = true
@@ -801,6 +811,10 @@ metafile = true
 file = "mods/viafabric.pw.toml"
 hash = "92e467d6acabc7876bd6ed5e187d0a15e10570b3be9d81eaa1dcf09e87cebfd8"
 metafile = true
+
+[[files]]
+file = "mods/viewboboptions-0.3.1+1.21.jar"
+hash = "7d5f9acc437a5c7fd5d5f289af6891f83bdce5374783136f733011dd780ca103"
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
