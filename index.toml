@@ -431,7 +431,7 @@ hash = "40a3fd33b75dd76f8d77c24e37163ee6ecdc1ef37624615db33d7e2ba6d16f52"
 
 [[files]]
 file = "mods/alinlib.pw.toml"
-hash = "6b2f82371d9ede13fe0c4cd561f219b43b870521579495edad32f0989b6cb5f2"
+hash = "7b07fb096d1065a339d4594de5a05a149c0c53a11986a8f5d701f6c018681283"
 metafile = true
 
 [[files]]
@@ -446,7 +446,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-clouds.pw.toml"
-hash = "6ebf6f01a8550fddd86b8eab37957fa5e6c1d48701271010c4d38b2292f7f7f2"
+hash = "76c913b157f928a11b7c6f2d010b341fd50dd5032c39bf512eab39b5abfc3170"
 metafile = true
 
 [[files]]
@@ -520,12 +520,12 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "1617432c0e79c9f530a5c74e816906ec330987b6ad998bc280ae0eedd98abe6e"
+hash = "6185d6951df8226115e35bd3e7e1e659a38f1d80b5da902ea4aa0e401e95cc47"
 metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "c427369aa625b93d608d483cc710d07dfb247df707fcc814d43563d110a1a6ea"
+hash = "59906748e093fbd82a773a6cdc6982b44d2660b396ab8e9678c3a7cb57db0e49"
 metafile = true
 
 [[files]]
@@ -569,7 +569,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "987c02c2f31875d512336cccc2f5a9d8bbbb60337a9256fd632f6de25a3c3d62"
+hash = "070f3b65efd84e7d28e84d819e94f1d886ebb9df0d2c8e2e5acc168966a34f67"
 metafile = true
 
 [[files]]
@@ -809,7 +809,7 @@ metafile = true
 
 [[files]]
 file = "mods/unilib.pw.toml"
-hash = "566643d53d5c5e870cfd40d45ad3f5213a3413f6815559dac020810d4281eea8"
+hash = "09a9057a7e7a899e27fc96a34a5d69d7803b86142ddd7199456e93d803b0b196"
 metafile = true
 
 [[files]]
