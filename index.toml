@@ -579,7 +579,7 @@ metafile = true
 
 [[files]]
 file = "mods/falling-leaves-fabric.pw.toml"
-hash = "969a5ebac7a570884de5c73da6c437baf04742d940c9f308d7c2d67452de3db9"
+hash = "131d43677bacd12704cd8d7a996340fe5281f883245f1cf1922940fd5c4d4df7"
 metafile = true
 
 [[files]]
@@ -629,7 +629,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "4c7f6fb53f7449394850ad9f8862dd7d331812a1612f1406c008ce5de415e812"
+hash = "df966a76450213ed1cb66ba916f47fb40abb4ef01d8265ae9f1ffe15b121343f"
 metafile = true
 
 [[files]]
@@ -784,7 +784,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "11e2d2257d15509f1acffb9945c0a85f35ddffbf6877b8ab8ff21414f0f3caff"
+hash = "6f3622bd4a52be2851d1e90e9c4a352a7cdb54fae8acb069aa0dd54e3704a324"
 metafile = true
 
 [[files]]
