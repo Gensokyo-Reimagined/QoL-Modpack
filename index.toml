@@ -422,7 +422,7 @@ hash = "0d8e9790ada83aef41194a858cb8c170cec9461a66982fb1350b5e4a4ada78d4"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "77851b94af6f625209c69fdfcdbdd433be83d52a684fe4edcddea3478a8532ae"
+hash = "ad2b1f8c0f5a4a3f3d9c751ec8062ca600bb3d14509eced3601f55fab2edd734"
 metafile = true
 
 [[files]]
@@ -436,7 +436,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "56048dbb0fead7262b18936209e4341d0841adce3ab71cb8d63efa6ecf164a00"
+hash = "f327c4f5b841a1e4635feda65d489c5a8cdd5641bd7a6dbe1554fbd9d15c01a0"
 metafile = true
 
 [[files]]
@@ -550,7 +550,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "bb86568b5daae326e5fb8157a9d643ffd7398dde4b663cd2d8b1a922a72f2b9d"
+hash = "53961f9af9c645de525e0598f3f1c5cb0ebc81f98c6b17a479ccc1b9f851a593"
 metafile = true
 
 [[files]]
@@ -614,7 +614,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "cdd849e77b02e9e44ed04cf6367c36b7212162d511ff1bfa4a9e75af324f1e0e"
+hash = "e76885945cd82a93ecb6839917ccbabd37597e16dbbd3e5336b56306bbf7ca3a"
 metafile = true
 
 [[files]]
@@ -784,7 +784,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "b5fa54d30435d38adbbb1918f59a30836783f4cc5fdd55388b80006ceabf3afe"
+hash = "24c7818de226f7076c97d742a4c9b5e9bbf65a4e5bf3ff09d3f186e8e7103efd"
 metafile = true
 
 [[files]]
@@ -814,7 +814,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabric.pw.toml"
-hash = "92e467d6acabc7876bd6ed5e187d0a15e10570b3be9d81eaa1dcf09e87cebfd8"
+hash = "3b265a150d6c3978848d6e05a1b0449a53a9d1b75de7597b8140075d6a4381c3"
 metafile = true
 
 [[files]]
