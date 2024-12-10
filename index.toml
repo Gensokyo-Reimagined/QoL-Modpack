@@ -758,11 +758,6 @@ hash = "c6f959cce8e013579a65ce4a3a7255a9e5e0e48367d97d836d2eba764ee598d5"
 metafile = true
 
 [[files]]
-file = "mods/ryoamiclights.pw.toml"
-hash = "e4261ec482475202c24908049331fffb0a8f1f74d88a458eb4c2edf794b7d6c6"
-metafile = true
-
-[[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "c456b8055d6c39599b74d1ef518cd83892b3055bd283fc0aae78cf6899f5f146"
 metafile = true
