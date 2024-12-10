@@ -648,8 +648,13 @@ hash = "2c7ad26f8416aee6c43dbe20397a1bd52b333028a0c592c59ff5c4e1f1af63a2"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "0802f98909f8ef394056804e4772be187ff3143c9d4038ccb7dc3dcacfe535fc"
+metafile = true
+
+[[files]]
 file = "mods/language-reload.pw.toml"
-hash = "78f97b41a8056b90287f2b3b8ccb9818cab23e66f593eb9fa09b949614855259"
+hash = "d26aa418b7b3127eb7f767495cabbf6daf3fee10154f7679e083a33e476eedad"
 metafile = true
 
 [[files]]
@@ -679,7 +684,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "d795ac4bc7321d5b9defa33eaba9e03b5fa38b8345d827417d9366913567cb67"
+hash = "85549a8527681f0a07ff2835345f022d7293460797da66bc5af1f948ca1e44b3"
 metafile = true
 
 [[files]]
@@ -698,6 +703,11 @@ hash = "7fc969e77edc3b0b9946b42070fd858349a74555f0cf9648907241af8a3a2d25"
 metafile = true
 
 [[files]]
+file = "mods/mru.pw.toml"
+hash = "c0aa1b330284fc64e2e3aecb6f147f87c17a5d93706d732b4d18888d399959c4"
+metafile = true
+
+[[files]]
 file = "mods/no-telemetry.pw.toml"
 hash = "6105c544e8f5e340d189056416de7abed26fb32b21c91426eea704e432ced60b"
 metafile = true
@@ -709,7 +719,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "10e477afd7cae112d9f19d65c000cc46935596efc460f9711eec9d6e22d44ea4"
+hash = "a1c07d980228d8035bcf55cda9ea515d79e15820e47729c5b9e52d19f581a1cf"
 metafile = true
 
 [[files]]
@@ -795,6 +805,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "b91702b315eb45f61a513a1f3b25647293d71da3632cd7a5d9520daaf7097d31"
+metafile = true
+
+[[files]]
+file = "mods/sound.pw.toml"
+hash = "d1c4eb5d6d68540d9f5035884328e0fbf6170f9d2d9b863f9615945bac5bf3d1"
 metafile = true
 
 [[files]]
