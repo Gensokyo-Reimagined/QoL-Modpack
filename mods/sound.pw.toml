@@ -11,3 +11,6 @@ hash = "700bfb31d7a33da21855e9e0b9f5b97e0c5dc709d06e61b9464580b6670808c4ded5f90f
 [update.modrinth]
 mod-id = "ZouiUX7t"
 version = "1madb5Gs"
+
+[option]
+optional = true
