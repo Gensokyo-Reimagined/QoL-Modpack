@@ -476,7 +476,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "38349abff3ce807d93f07a6c4e8149851c0ec44f92eb7ef32dea5821ebe4b2e2"
+hash = "85aa8836c5ab746db52bc5582c7455fe66ed783a01589750559cb6c42b26d928"
 metafile = true
 
 [[files]]
@@ -502,6 +502,11 @@ metafile = true
 [[files]]
 file = "mods/chatpatches-210.6.6.jar"
 hash = "1c69c4ecc39b39260e1255b18691d96a2a7d8966e6b3a6e0f37bdb89892bba4e"
+
+[[files]]
+file = "mods/cicada.pw.toml"
+hash = "dbcabbe5e3788fcdb66a16b5c87ba62ef347e46708ab6c3c073a0f8856fac917"
+metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
@@ -565,7 +570,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "bb401d9a8ee0d097d099dd76f10072ea59bb64a973a5461a4bcc39090f952cbb"
+hash = "2f7a6e0ce4062f4e15d1afe844f23f3c7482bbcf2a3ac5de2a2f91e4054b8cfe"
 metafile = true
 
 [[files]]
@@ -619,7 +624,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port-fabric.pw.toml"
-hash = "bcc5b0c8c518905abf15dac48b645c7e4983ee7263027d428295e295af7f39d7"
+hash = "3591fd1d03bd9e21976c718e5260b1225d6fc354415ddecba23f0b8d63f2f938"
 metafile = true
 
 [[files]]
@@ -754,7 +759,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "c6f959cce8e013579a65ce4a3a7255a9e5e0e48367d97d836d2eba764ee598d5"
+hash = "c7ea9e60367e089745ba0f2819299801e0b3c58555d230e46da6d70b252ae9b4"
 metafile = true
 
 [[files]]
@@ -788,6 +793,11 @@ hash = "fa745c9b34bcab899564e77fb974db05cb5fb5adcb77173f3d688f32bc089e98"
 metafile = true
 
 [[files]]
+file = "mods/show-me-your-skin.pw.toml"
+hash = "b0af06e4699a4e17ae158d3a50a21d13dcd1f759f1ec2373e7d147f4a3a68239"
+metafile = true
+
+[[files]]
 file = "mods/smoothcoasters.pw.toml"
 hash = "0a54bad87ebed9cc9e5a223b20a60eef861d4d6dfa2ae78acb8960d592e0c4d6"
 metafile = true
@@ -804,7 +814,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "b91702b315eb45f61a513a1f3b25647293d71da3632cd7a5d9520daaf7097d31"
+hash = "061b2d59d79850415b6d7f07c068acac383e9009d5eabcef29b931b9fd1b14f6"
 metafile = true
 
 [[files]]
