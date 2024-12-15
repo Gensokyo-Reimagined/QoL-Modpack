@@ -9,6 +9,10 @@ file = "config/ViaFabric/viaversion.yml"
 hash = "c08b33fa4cb57ad1c9e46b550e390266651ee925ab31fa399324f10bfdee7020"
 
 [[files]]
+file = "config/c2me.toml"
+hash = "a81d4114e4e19b7f0fd1be6dede34f998f12352f8606f98605598a54efe1cb46"
+
+[[files]]
 file = "config/camerautils/camerautils.properties"
 hash = "db4f4d23547185402f6ef3134686799f5f1751fe2693568d18cde66188c4a76b"
 
@@ -275,6 +279,10 @@ hash = "da3c71d2c3a3a0f8d6a9523427b76fc2839ac4968cc73b1beb3f9215920b3837"
 [[files]]
 file = "config/yosbr/config/bobby.conf"
 hash = "7d6d3a323dbc985d8da53e5d67d5316b319f0635730fe44aebcf4202c6a6a9cc"
+
+[[files]]
+file = "config/yosbr/config/c2me.toml"
+hash = "a81d4114e4e19b7f0fd1be6dede34f998f12352f8606f98605598a54efe1cb46"
 
 [[files]]
 file = "config/yosbr/config/chatpatches.json"
