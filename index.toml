@@ -110,7 +110,7 @@ hash = "d70e942364624f51c5b49bd5387fae596b2b3a32d15a0f2a4e8880bb660f3af9"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "d400fdfc0703a053182575adbcf5fe3163644c341f26d392a56dc27c55d8f22d"
+hash = "ee8f2c13bd9c39d15225c71221d95914f3df7ef43efa66248aa5dfa34b8486be"
 
 [[files]]
 file = "config/fancymenu/resources/bmc.png"
