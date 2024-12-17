@@ -484,7 +484,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "5e2b50d6f724fa0d151e07044f8b4df65a5b9076dd17221c535dd225d220dd6f"
+hash = "69ead85064ef835b46fc1bdd97760727eac2be2b1e4d9597db5767b1a3075845"
 metafile = true
 
 [[files]]
@@ -568,7 +568,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "f8295c21b3396716170689afe5936134d22974f0676d8a877cb489850187547b"
+hash = "754b7b8bb209d1c1db45a6e047266fb8c53cc337823943a8b56252eecd0b1a67"
 metafile = true
 
 [[files]]
@@ -722,7 +722,7 @@ metafile = true
 
 [[files]]
 file = "mods/mru.pw.toml"
-hash = "185e7a46b8dfe9ae19439a236c1e2358b770815179b8e3a3f9ef1c0830bd202a"
+hash = "9effcb75f0affe654bc06bf334447fe37b5f02fd9aa35f540e2dcc43a07abd99"
 metafile = true
 
 [[files]]
@@ -827,12 +827,12 @@ metafile = true
 
 [[files]]
 file = "mods/sound.pw.toml"
-hash = "7145c030cdc564c553a379c217f350efe39f98fdf4e8d2e5f5e11ba824ad516c"
+hash = "3ef311e88ee3b69fcd5acf2972ecee179b045d4006f854b74e5f633b413f9dee"
 metafile = true
 
 [[files]]
 file = "mods/tcdcommons.pw.toml"
-hash = "dfde1fe9e7e53aa8a5644572c537b9e683733d0cf512fac4c66e4cb2a646a54c"
+hash = "cf2c07cb7d1637541d163948891a9b3df2aabf6d562e963ee33a99fbb9871e4d"
 metafile = true
 
 [[files]]
