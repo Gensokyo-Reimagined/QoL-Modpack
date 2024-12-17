@@ -1,0 +1,10 @@
+# Don't change this! Version used to track needed updates.
+version = 0
+turnOffPotionParticles = "NONE"
+reduceAllChance = 0.6960784
+reduceDecreasedChance = 0.4
+disableParticles = false
+
+[byTypeReductions]
+"minecraft:campfire_cosy_smoke" = 0.2
+"minecraft:campfire_signal_smoke" = 0.2

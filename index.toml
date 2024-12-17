@@ -9,6 +9,10 @@ file = "config/ViaFabric/viaversion.yml"
 hash = "c08b33fa4cb57ad1c9e46b550e390266651ee925ab31fa399324f10bfdee7020"
 
 [[files]]
+file = "config/betterclouds-v1.json"
+hash = "79b4fdb00de2a964c346fc4304cb1bbcf44b749d02ce9399ab3a2fe0b6b44544"
+
+[[files]]
 file = "config/c2me.toml"
 hash = "a81d4114e4e19b7f0fd1be6dede34f998f12352f8606f98605598a54efe1cb46"
 
@@ -233,6 +237,10 @@ file = "config/konkrete/locals/pt_br.local"
 hash = "d53707bca34d3d11ef17642d819a4444550bf5d1c3557d0d8c19c5d47e46bbc4"
 
 [[files]]
+file = "config/particle_core_config.toml"
+hash = "4cabf28aa99925a8c97e650f7a889ea1cba26d29434df6b78c116ad42807ce6e"
+
+[[files]]
 file = "config/resourcepackchecker/resourcepackchecker.properties"
 hash = "f5370c44c6d550547e803d980ffd2ed9f1edc6c8f1933e1eebd16d56934532c3"
 
@@ -270,7 +278,7 @@ hash = "69c843362f6eaffe6c1d1bde2103e1ecb2ae2dea8892d77607251f5a7fd47630"
 
 [[files]]
 file = "config/yosbr/config/betterclouds-v1.json"
-hash = "c0fbbdbfdd2812b362a11676df6c34a29f2f1e97cfbf7d3198baed07137df0ce"
+hash = "79b4fdb00de2a964c346fc4304cb1bbcf44b749d02ce9399ab3a2fe0b6b44544"
 
 [[files]]
 file = "config/yosbr/config/betterf3.json"
@@ -361,6 +369,10 @@ file = "config/yosbr/config/noxesium.toml"
 hash = "ad33e135d3f03bb3f007b2863c249cf7491cad5e7fda9988bbbc5453f527e9bb"
 
 [[files]]
+file = "config/yosbr/config/particle_core_config.toml"
+hash = "4cabf28aa99925a8c97e650f7a889ea1cba26d29434df6b78c116ad42807ce6e"
+
+[[files]]
 file = "config/yosbr/config/particular.json5"
 hash = "3adb88beccfb190dcd82405d94feed8b86fa544ee326c237434e30197ce1a771"
 
@@ -414,7 +426,7 @@ hash = "c94c228f8c464e015af3ae9b8c701642116d66769befdc8ef5c918786875fbf6"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "34b78a025a324148a14b69a436871624d285da804ce94593f2b42fff68749fbc"
+hash = "b347c99ef7d641b3fcbf306cc3b44128279c6e7414799d4c1d76f2193cb4f101"
 
 [[files]]
 file = "data/fabricDefaultResourcePacks.dat"
