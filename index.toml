@@ -25,6 +25,10 @@ file = "config/dynamic_fps.json"
 hash = "c52656df278541d08da3e0d3853e812f6fcfef746aaef0c09899a97646e4ddea"
 
 [[files]]
+file = "config/entityculling.json"
+hash = "ccc1c7e1982179048a1042c4179048fee916a61c28cf2864392914cff5df6b93"
+
+[[files]]
 file = "config/experimentalperformance.properties"
 hash = "fa879e1d4b5bdb4b2febb73023fff796f90f47fb97424778f56c1ff9e89ae3d4"
 
@@ -326,7 +330,7 @@ hash = "63a1926e8cf77768b0833a50edeba228f7aa9f2f4614003682821b9fa51ad281"
 
 [[files]]
 file = "config/yosbr/config/entityculling.json"
-hash = "670ea1fe4050dc2abb060c72c505a011f2a282115f4aa9d333cc36c1f222762a"
+hash = "ccc1c7e1982179048a1042c4179048fee916a61c28cf2864392914cff5df6b93"
 
 [[files]]
 file = "config/yosbr/config/exordium.json"
