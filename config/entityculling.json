@@ -14,7 +14,7 @@
     "botania:mana_burst",
     "drg_flares:drg_flares"
   ],
-  "tracingDistance": 192,
+  "tracingDistance": 128,
   "debugMode": false,
   "sleepDelay": 7,
   "hitboxLimit": 50,
