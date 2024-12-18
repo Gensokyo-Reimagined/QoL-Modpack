@@ -584,7 +584,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "754b7b8bb209d1c1db45a6e047266fb8c53cc337823943a8b56252eecd0b1a67"
+hash = "5715948ffee45d35e7e2b34580bde5f3cded2a01912de1d0a9c3c62eac76088a"
 metafile = true
 
 [[files]]
@@ -833,7 +833,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "4a9b93bb79e92f36c1375c24691326ad4f4801182494de782adf79acfe17bc7f"
+hash = "b82e3d69f134d7e925b55579f6bde47a7da1d9e57ad41f5959e27e3fbcb3827d"
 metafile = true
 
 [[files]]
