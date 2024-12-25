@@ -470,7 +470,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-clouds.pw.toml"
-hash = "695471e49be0013a4bbc0cbd81707d9a83b9d5351c9caeca6969b29a4abfba1c"
+hash = "c36c3ef1bf763c568e5caba8f4db7f1490db9c85ed561e226cab8b2327cf0284"
 metafile = true
 
 [[files]]
@@ -500,7 +500,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "69ead85064ef835b46fc1bdd97760727eac2be2b1e4d9597db5767b1a3075845"
+hash = "4136f561b52ce1f00d257fc595936b57dfa9cd525cf5303d243608f7630a5495"
 metafile = true
 
 [[files]]
@@ -529,7 +529,7 @@ hash = "1c69c4ecc39b39260e1255b18691d96a2a7d8966e6b3a6e0f37bdb89892bba4e"
 
 [[files]]
 file = "mods/cicada.pw.toml"
-hash = "9c566d5368309a713fd1affd05a6126f2ce8bd3d9c7b7c1ec161a439e8cdfddf"
+hash = "6a43a535e6b10a72864dcb723793136dfeb99c56cf925929bb72e5e22d0dd436"
 metafile = true
 
 [[files]]
@@ -728,7 +728,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "7c81f44783c5a303e88d3cd40bcf46157d4ecbbbcb031c0186aa34843d14bd4a"
+hash = "846d1972f31ab17805ad0ea3a6584cfac35150aa1bef8310011b6f5fc57036e7"
 metafile = true
 
 [[files]]
@@ -753,7 +753,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "c08824d37407f872c684094ce49d8404bb43163a1fe12c2c13392cb1dde5bc68"
+hash = "2413fcb171198ce6ff6f2dbc2bc77fde132865558fce5873a2ba2a1d397d52a0"
 metafile = true
 
 [[files]]
@@ -887,7 +887,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "1b87c504f0a3b7d860318e64dae6d7119ebd7263e518b29660fae065b4f7c9a2"
+hash = "caf9f8b1c9e3a00a5f7430f690708d6c3810e338d77131749eac5ae5f19ad2b5"
 metafile = true
 
 [[files]]
