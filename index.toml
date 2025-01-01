@@ -455,7 +455,7 @@ hash = "40a3fd33b75dd76f8d77c24e37163ee6ecdc1ef37624615db33d7e2ba6d16f52"
 
 [[files]]
 file = "mods/alinlib.pw.toml"
-hash = "7697363a6417825e8d8002aee28c20b8e18e7ca8e684f47dc5a3fc818c4271bc"
+hash = "5850aa4c22fc6c86daadd99b665898e4cc77737f5a99e704712c4dbad2375ea4"
 metafile = true
 
 [[files]]
@@ -500,7 +500,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "4136f561b52ce1f00d257fc595936b57dfa9cd525cf5303d243608f7630a5495"
+hash = "44d53179615587d0def4e5414b6cf20fa80136f3f85610142bd3ea38f972b6f9"
 metafile = true
 
 [[files]]
@@ -603,7 +603,7 @@ hash = "56607ca071a237820d53e3e4f22b8359467f90dce807007a2f66d4931d03dff0"
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "8378e5d1b4e0ad39842936f4e8f3f915fa00b8b21c9a19d094cd21664524467b"
+hash = "e0060dd5608032c12619d942e2004f7a1635ebadaef3b928445d2211f082f01f"
 metafile = true
 
 [[files]]
@@ -718,7 +718,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "43c4a571d47390bdaa6af3a9533e7410cdd210441777f45a1c7f60a2a56e6357"
+hash = "a21dbd676882b344c8d7158e234f19d380598eb1b63492a34bd75dddc42cfedd"
 metafile = true
 
 [[files]]
@@ -843,7 +843,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound.pw.toml"
-hash = "3ef311e88ee3b69fcd5acf2972ecee179b045d4006f854b74e5f633b413f9dee"
+hash = "840d49198c1f6ff0ec68c03b82d23777ff07c4d61ab7f204731ec735be37efc1"
 metafile = true
 
 [[files]]
