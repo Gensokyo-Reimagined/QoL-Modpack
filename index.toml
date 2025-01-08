@@ -26,7 +26,7 @@ hash = "c52656df278541d08da3e0d3853e812f6fcfef746aaef0c09899a97646e4ddea"
 
 [[files]]
 file = "config/entityculling.json"
-hash = "ccc1c7e1982179048a1042c4179048fee916a61c28cf2864392914cff5df6b93"
+hash = "cf90ec412bfd8238f30186f6b0746d903e724d125af7c2e027837df3e2711c94"
 
 [[files]]
 file = "config/experimentalperformance.properties"
@@ -114,7 +114,7 @@ hash = "d70e942364624f51c5b49bd5387fae596b2b3a32d15a0f2a4e8880bb660f3af9"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "ee8f2c13bd9c39d15225c71221d95914f3df7ef43efa66248aa5dfa34b8486be"
+hash = "22ff85860b9c6493f108caac6c16afbee53fcb101559422a743610c1de064ad5"
 
 [[files]]
 file = "config/fancymenu/resources/bmc.png"
@@ -245,6 +245,10 @@ file = "config/particle_core_config.toml"
 hash = "4cabf28aa99925a8c97e650f7a889ea1cba26d29434df6b78c116ad42807ce6e"
 
 [[files]]
+file = "config/particlerain.json5"
+hash = "c4c54ae73d1716344f4a3927bcf4f6300412c935c4ebed2dc1c94bc8b0c8426e"
+
+[[files]]
 file = "config/resourcepackchecker/resourcepackchecker.properties"
 hash = "f5370c44c6d550547e803d980ffd2ed9f1edc6c8f1933e1eebd16d56934532c3"
 
@@ -263,6 +267,10 @@ hash = "0c3e8149a87d273292d8fc95425d1ad5e290adf25038fe4b30f69c4c1c86b6c8"
 [[files]]
 file = "config/skinlayers.json"
 hash = "6b54a681077589a67b1c1b4d104f617786c4d0b234b043fbd353426cbdfb36f7"
+
+[[files]]
+file = "config/sodium-shadowy-path-blocks-options.json"
+hash = "da437f222c03b6e6d0703c0a250fba18538ef13c9eedf71b544f17165122ee63"
 
 [[files]]
 file = "config/xaerominimap-common.txt"
@@ -330,7 +338,7 @@ hash = "63a1926e8cf77768b0833a50edeba228f7aa9f2f4614003682821b9fa51ad281"
 
 [[files]]
 file = "config/yosbr/config/entityculling.json"
-hash = "ccc1c7e1982179048a1042c4179048fee916a61c28cf2864392914cff5df6b93"
+hash = "cf90ec412bfd8238f30186f6b0746d903e724d125af7c2e027837df3e2711c94"
 
 [[files]]
 file = "config/yosbr/config/exordium.json"
@@ -354,7 +362,7 @@ hash = "38459dab3481e37116c6c599d908c4650b80d055429be307c6edc8b8f88daa64"
 
 [[files]]
 file = "config/yosbr/config/immediatelyfast.json"
-hash = "ae5abc063b9964552f3f9f7f0a1740304579c6b66408c6ef8491ba88339672ca"
+hash = "316ce87a32fc36dba8b2bbbf40c6f1d36339b1135348b512a31ff6801368eda6"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
@@ -375,6 +383,10 @@ hash = "ad33e135d3f03bb3f007b2863c249cf7491cad5e7fda9988bbbc5453f527e9bb"
 [[files]]
 file = "config/yosbr/config/particle_core_config.toml"
 hash = "4cabf28aa99925a8c97e650f7a889ea1cba26d29434df6b78c116ad42807ce6e"
+
+[[files]]
+file = "config/yosbr/config/particlerain.json5"
+hash = "c4c54ae73d1716344f4a3927bcf4f6300412c935c4ebed2dc1c94bc8b0c8426e"
 
 [[files]]
 file = "config/yosbr/config/particular.json5"
@@ -403,6 +415,10 @@ hash = "b35b099a51f0cc1cfd94b1a1444de0d0d0c4e1b3399575504bbdcfaf02c359b0"
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
 hash = "92bb2b0f3bd8302944382823e8db70849a43fa7e184f1eb356fc2d13057a9e42"
+
+[[files]]
+file = "config/yosbr/config/sodium-shadowy-path-blocks-options.json"
+hash = "da437f222c03b6e6d0703c0a250fba18538ef13c9eedf71b544f17165122ee63"
 
 [[files]]
 file = "config/yosbr/config/vmp.properties"
@@ -534,7 +550,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "90950d188905b9472877ab8b3dbdbb778f37716f5e356178d12804cef90c3280"
+hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
 metafile = true
 
 [[files]]
@@ -569,7 +585,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "c7d10eb66cb678ff3dd0f0a19465eb94be2de26bf52c65759597871cf72db8c9"
+hash = "5af1d574741c8b8bd71590c3501d048221deca744eada17fe13d4d4f99aa0278"
 metafile = true
 
 [[files]]
@@ -777,6 +793,11 @@ hash = "90e60b2f4bab7cbab81bcd7f3f602e6dd3a16ece678fa450ffc699edab69f9a1"
 metafile = true
 
 [[files]]
+file = "mods/particle-rain.pw.toml"
+hash = "58e380b4d66907130eaa480252def925457d1033100571c946aaf9179a1e7bde"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "c54620cb57c83474aa7cc038f64ac565ff93cbe04dd93d52dfd776553ac259f7"
 metafile = true
@@ -832,8 +853,12 @@ hash = "bc6909de8efce357c239083cddcef8feb0e650dedbc66234b94ec9e7d78076c1"
 metafile = true
 
 [[files]]
-file = "mods/sodium.pw.toml"
-hash = "b82e3d69f134d7e925b55579f6bde47a7da1d9e57ad41f5959e27e3fbcb3827d"
+file = "mods/sodium-fabric-0.6.5-snapshot+mc1.21.1-local.jar"
+hash = "5e2558e5bdf8ad2de5488606c26a939851c08687fa7d8bf86c9e6bfd11dfd2f5"
+
+[[files]]
+file = "mods/sodium-shadowy-path-blocks.pw.toml"
+hash = "6a9b663f2cd6c3f6f35ee30831a8e577aacc27b1851688d2179c9a20b19bde92"
 metafile = true
 
 [[files]]
