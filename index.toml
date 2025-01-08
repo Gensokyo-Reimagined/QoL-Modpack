@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "79fc7d55168a5505824451abc71a8ca3e1100ff059bec7d711b7533c3278526f"
+
+[[files]]
 file = "config/ViaFabric/viafabric.yml"
 hash = "9c61e95fee69ffbca8381fced96424750e4206f2847cfdbfd15e217890c26ab0"
 
@@ -283,6 +287,10 @@ hash = "2550d152f9d45d5888ffdb701b4051cc327860ec9d02c6c96c188cea2e380f36"
 [[files]]
 file = "config/xaerominimap_entities.json"
 hash = "79d891bb79490c167d6b36a39a03e9adbb9cb8d183aa0304dbd1218706f70fdb"
+
+[[files]]
+file = "config/yosbr/config/DistantHorizons.toml"
+hash = "79fc7d55168a5505824451abc71a8ca3e1100ff059bec7d711b7533c3278526f"
 
 [[files]]
 file = "config/yosbr/config/ambientsounds-client.json"
