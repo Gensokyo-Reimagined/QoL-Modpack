@@ -485,7 +485,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "9f5a216a30005c266fef8f49bd5f7efae0261a2f76b976bae2ffef47ce301fb4"
+hash = "d512e7b29840fb39f4a98004c47f0f45b08696f221abc1ff3301c7ea1725f676"
 metafile = true
 
 [[files]]
@@ -653,7 +653,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "4a133d0edad0dad6e630dda817ff6d886746fd7c7a0c7da60451e3ae05802072"
+hash = "439c4e7a20a96daef235db0f8c0d5793928e7bb24a349bf9bb8bcbe5bbe0fa40"
 metafile = true
 
 [[files]]
