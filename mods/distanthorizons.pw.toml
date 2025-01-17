@@ -1,10 +1,7 @@
 name = "distanthorizons"
-filename = "DistantHorizons-2.3.0-b-RC2-1.21.1-fabric-neoforge.jar"
+filename = "DistantHorizons-2.3.0-b-RC2-1.21.3-neoforge-fabric.jar"
 
 [download]
-url = "https://repo.gensokyoreimagined.net/releases/DistantHorizons-2.3.0-b-RC2-1.21.1-fabric-neoforge.jar"
+url = "https://repo.gensokyoreimagined.net/releases/DistantHorizons-2.3.0-b-RC2-1.21.3-neoforge-fabric.jar"
 hash-format = "sha256"
-hash = "c462f3530c1870567bec0f5cbd265c5c4860e4e6f3680f5603ef32e02a6d17e4"
-
-[option]
-optional = true
+hash = "a17e21aca56b069f4b66a5cee271f10c8dbf0659d73c71e531a782c9753eebaa"

@@ -1,13 +1,13 @@
 name = "Gensokyo Reimagined QOL"
 author = "Taiyou06"
-version = "1.9.0"
+version = "1.9.0-alpha.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "46014b7882f80c7e3c96cac11e6138d67ceeabc2aa583ea236b4ee3487c5d294"
+hash = "3d8fa305a81e96432ee2f33ac25105098f3a10db768ef40422b3522add28430a"
 
 [versions]
 fabric = "0.16.10"
-minecraft = "1.21.1"
+minecraft = "1.21.3"
