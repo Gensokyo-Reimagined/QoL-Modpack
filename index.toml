@@ -648,7 +648,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "bd72b64658299c6266fdc347ee2b8e153816e019acc1127502045d5ae47c77de"
+hash = "fe4b38a0e9f95b5456597a405f644303fe17638e6d382031fb918683a9baffa3"
 metafile = true
 
 [[files]]
@@ -673,7 +673,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "989a2fdd1d6e23de81b91dfe5512551904b199e1d7bd301a01b5df895b0175c9"
+hash = "f6510e9df610fbb46d6f93592dc3caaed282355d905574a28eaf5174cdd84a93"
 metafile = true
 
 [[files]]
@@ -728,7 +728,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "caf911772fdd930591bac244cd990e0cb9520b7e6484c9f71fcd5c9a20a6aa3c"
+hash = "f90d7ae80a29d0dee810a6c65d09d17c887dc43606dc12532b1e93d344c317ed"
 metafile = true
 
 [[files]]
@@ -743,7 +743,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "f445d3f28bb0946ef587c483511bba903212a973ab921d3ccb0c9125353165f4"
+hash = "b3b5c1fdf24678872fff81d452de862e7ae0c187c0ab9d261dfc5509d6a1bd0a"
 metafile = true
 
 [[files]]
