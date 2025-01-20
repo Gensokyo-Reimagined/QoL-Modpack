@@ -317,14 +317,6 @@ file = "config/yosbr/config/chatpatches.json"
 hash = "e2fc6b3e99daba8c4f47270b352d0806ba7f7a0f705a3df37b38e4099250dcdd"
 
 [[files]]
-file = "config/yosbr/config/citresewn-defaults.json"
-hash = "ec350db1d59f642c8aef73e5e0cb12e25ce73772df7dc01fd1a58a44a5aac735"
-
-[[files]]
-file = "config/yosbr/config/citresewn.json"
-hash = "bc4c621dba955b4f8c8cd963722d85b7812bf7cbfb7a5a133f3c3520b241aa6c"
-
-[[files]]
 file = "config/yosbr/config/continuity.json"
 hash = "0c20664c800f25ebb7cdd5664cf8e546e7f40191e999172d0029d9f4673f3c91"
 
@@ -748,7 +740,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-core.pw.toml"
-hash = "90e60b2f4bab7cbab81bcd7f3f602e6dd3a16ece678fa450ffc699edab69f9a1"
+hash = "34be27e56878d6f9115f0403ccf7c8c116531110af0ccfe9ec9c84d6fa4087e1"
 metafile = true
 
 [[files]]
@@ -807,13 +799,12 @@ hash = "2d26d69c2248b5ed9d35989c7542b89149b652a7feb91f9273e75c868176f417"
 metafile = true
 
 [[files]]
-file = "mods/sodium-shadowy-path-blocks.pw.toml"
-hash = "6a9b663f2cd6c3f6f35ee30831a8e577aacc27b1851688d2179c9a20b19bde92"
-metafile = true
+file = "mods/sodium-fabric-0.6.7-snapshot+mc1.21.3-local.jar"
+hash = "5c5cd958c462b447f4a93373fed540090e114a2c5fc46e8b3d4b862a53e81b72"
 
 [[files]]
-file = "mods/sodium.pw.toml"
-hash = "e43454084839b810fa0fbc9a5193fca1d72470ecbc06d2138538306f08cb2849"
+file = "mods/sodium-shadowy-path-blocks.pw.toml"
+hash = "6a9b663f2cd6c3f6f35ee30831a8e577aacc27b1851688d2179c9a20b19bde92"
 metafile = true
 
 [[files]]
