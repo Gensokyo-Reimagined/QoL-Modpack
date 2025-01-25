@@ -491,7 +491,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "1a04bdf3328dcc20b933ea5e802c309a8a62c6aee9ad18170e486e057ba2d596"
+hash = "8d16c0d80b1c9e9018794a4e41148b7c88745a08c5a62f9bb922d61676bdd239"
 metafile = true
 
 [[files]]
@@ -526,7 +526,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatpatches.pw.toml"
-hash = "1d09cb0ea635df4e7f2b191b765a34ed7c6d2a1866bc3a64b8d15b935d317cf2"
+hash = "c6ff2d3ab280f2808e579ec8ccdfec7e2483650717a931bcebecd1c183d49ffd"
 metafile = true
 
 [[files]]
@@ -571,7 +571,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "bb3556ff265d61a3c15ceca3d020c72e1d3a6636dbf2647bda0fc9c5f8d6261e"
+hash = "0b0f7aa4588bf8218e623340166584c876e1b9fdc394f006d809c9628b2074a6"
 metafile = true
 
 [[files]]
@@ -640,7 +640,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "fe4b38a0e9f95b5456597a405f644303fe17638e6d382031fb918683a9baffa3"
+hash = "de71db1e4ff087d579c4340efe7bba4eb5eb148b9521a1d4d526af66de74a7a1"
 metafile = true
 
 [[files]]
@@ -755,7 +755,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "081305588cae7fc990e126bad8046f8f693fca30f6a3fe3db7aedcacbd5e7eff"
+hash = "19c0caa62bf9648753674f71a4421b0d9019bf36e15f3949f04fbb121863a045"
 metafile = true
 
 [[files]]
@@ -849,7 +849,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "963be6c86fe5163450cb249f99c76a35b1503e4dbea292b83bbea7c2cc70172d"
+hash = "859e4f744a1a0c6cc439d02b4f78d649b78f3ff4ad15f43141e16a8cbe9a5f9e"
 metafile = true
 
 [[files]]
