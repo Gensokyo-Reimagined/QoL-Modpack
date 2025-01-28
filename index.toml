@@ -605,7 +605,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "b8cb49ba59c1a3b904297e8f857b5d42fc89c12fba70a64e26ba820587b575d8"
+hash = "5b9d1e1ec60004c0bd38a134b7b8987583250200238abe84180b1f5bea839eae"
 metafile = true
 
 [[files]]
@@ -800,7 +800,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-fabric-0.6.7-snapshot+mc1.21.3-local.jar"
-hash = "5c5cd958c462b447f4a93373fed540090e114a2c5fc46e8b3d4b862a53e81b72"
+hash = "07979831db7484c9a9414a2681c2b381e35730b41ecaf7a2294b81ae88117f1e"
 
 [[files]]
 file = "mods/sodium-shadowy-path-blocks.pw.toml"
