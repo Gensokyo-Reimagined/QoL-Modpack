@@ -611,11 +611,6 @@ hash = "ff4dc29446ef1ada048cbf173153246f76e1c43bc88cc4bb15811f88f0cdd267"
 metafile = true
 
 [[files]]
-file = "mods/fancymenu.pw.toml"
-hash = "3ec16b2656b208d75471decae64aa8877bc0292882bfcfa430ec4d196db618f2"
-metafile = true
-
-[[files]]
 file = "mods/faster-random.pw.toml"
 hash = "0a15707a0081809fba1f937da07a56d274747938a6ac7363ad093ea7586ff8b1"
 metafile = true
@@ -648,11 +643,6 @@ metafile = true
 [[files]]
 file = "mods/irisshaders.pw.toml"
 hash = "4b18eb3f964a34971bb1e695f3c9440a943913db4b72dca51730e2754b2f1866"
-metafile = true
-
-[[files]]
-file = "mods/konkrete.pw.toml"
-hash = "dafb84b20ceb9f80a2f98170a05b90a7225bc476f64593af2a51d332055b2e8b"
 metafile = true
 
 [[files]]
