@@ -726,8 +726,8 @@ hash = "0c5ca0280d60e2f9a1d1eb35d61d85e329fa59ff5602fe9cae68b1ab99d4cb4b"
 metafile = true
 
 [[files]]
-file = "mods/nvidium-0.4.0-beta3.jar"
-hash = "0498c9dbb2a3e79e7c96514dde3f63061b7ad1bff938542561e499f554e2140c"
+file = "mods/nvidium-0.4.0-beta7.jar"
+hash = "70f9b7388f015df9313a232aa992ee42e49353d74c305ab78a67b337d010173e"
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
