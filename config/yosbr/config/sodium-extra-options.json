@@ -18,13 +18,14 @@
       "fallingleaves:falling_leaf": true,
       "fallingleaves:falling_leaf_conifer": true,
       "fallingleaves:falling_snow": true,
-      "minecraft:campfire_cosy_smoke": false,
-      "minecraft:campfire_signal_smoke": false
+      "minecraft:campfire_cosy_smoke": true,
+      "minecraft:campfire_signal_smoke": true
     }
   },
   "detail_settings": {
     "sky": true,
-    "sun_moon": true,
+    "sun": true,
+    "moon": true,
     "stars": true,
     "rain_snow": true,
     "biome_colors": true,
@@ -43,6 +44,7 @@
     "painting": true,
     "piston": true,
     "beacon_beam": true,
+    "limit_beacon_beam_height": false,
     "enchanting_table_book": true,
     "item_frame_name_tag": true,
     "player_name_tag": true
@@ -50,9 +52,9 @@
   "extra_settings": {
     "overlay_corner": "TOP_RIGHT",
     "text_contrast": "NONE",
-    "show_fps": true,
-    "show_f_p_s_extended": true,
-    "show_coords": true,
+    "show_fps": false,
+    "show_f_p_s_extended": false,
+    "show_coords": false,
     "reduce_resolution_on_mac": true,
     "use_adaptive_sync": false,
     "cloud_height": 319,
@@ -66,11 +68,5 @@
     "prevent_shaders": false,
     "steady_debug_hud": true,
     "steady_debug_hud_refresh_interval": 1
-  },
-  "super_secret_settings": {
-    "fetch_sodium_extra_crowdin_translations": false,
-    "sodium_extra_crowdin_project_identifier": "sodium-extra",
-    "fetch_sodium_crowdin_translations": false,
-    "sodium_crowdin_project_identifier": "sodium-fabric"
   }
 }
