@@ -487,6 +487,11 @@ hash = "f3e309ca882fc8ccdc60064682a634d0443df12eb706e061071e1a68d8725806"
 metafile = true
 
 [[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "7dcdc7a115022da11f30ebe9c64034f97157962489df361fb58a7d166f231c3b"
+metafile = true
+
+[[files]]
 file = "mods/better-clouds.pw.toml"
 hash = "e2dfa4dc88d3058e0abe12337d08a9829f9fab8b94b609d8dd7c4bb33e981e1e"
 metafile = true
@@ -557,7 +562,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "dd3fee4cb3fb078b09fc89d958b00aa65c42ad10fca267c97c66d2bc81dd9814"
+hash = "10c50634fd0c5f6023040017479e55fe7709f86244471ff368e6aad3c9ee27b1"
 metafile = true
 
 [[files]]
@@ -804,6 +809,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "2a4b0214aefa4f85868e3baf98abf660236f1d6dab8fa9d96f01a142455b13f8"
+metafile = true
+
+[[files]]
+file = "mods/sound.pw.toml"
+hash = "e0535b3fb60b675afff587766f0d33cae18a7f51104fdf8c82ad4ef5cd612803"
 metafile = true
 
 [[files]]
