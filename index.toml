@@ -772,6 +772,11 @@ hash = "fcb2b48e962361d11130754a8e2d524a5e5fb4025e18f0135096a95aabc5cb24"
 metafile = true
 
 [[files]]
+file = "mods/screentoclip.pw.toml"
+hash = "4f78cb981a11f20cad43802f56ac2d5d2b01f8a59dbe7a172c10d065cc65d05e"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "214c50c94d7484fe1c4522f3b14f3e5528b68760f3e48293a87f3ccf6ca733f7"
 metafile = true
