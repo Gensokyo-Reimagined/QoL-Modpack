@@ -114,7 +114,7 @@ hash = "d70e942364624f51c5b49bd5387fae596b2b3a32d15a0f2a4e8880bb660f3af9"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "c3a559d20919e2c451c9b1bdeda530dcdb12934fb789089ef03824575b46a346"
+hash = "1b7b1ddca0b39297f98133dd28889b1ae7814918977220120b3c3a4ef747712e"
 
 [[files]]
 file = "config/fancymenu/resources/bmc.png"
@@ -818,7 +818,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-fabric-0.6.13+mc1.21.8-build.jar"
-hash = "8b61343f57c62c1920efac697652f077339fbf9b336692533e35f231bd1dd9f0"
+hash = "c35346ff01f8f44fab6f974fed96e95838c28229b4e5264ff8764c66f53eca08"
 
 [[files]]
 file = "mods/sodium-shadowy-path-blocks.pw.toml"
