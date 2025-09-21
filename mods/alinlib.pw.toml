@@ -1,13 +1,13 @@
 name = "AlinLib"
-filename = "AlinLib-fabric-2.1.0-rc.2+mc1.21.8.jar"
+filename = "AlinLib-fabric-2.1.0-rc.3+mc1.21.8.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/UU7VUYKE/versions/kQDtvuhB/AlinLib-fabric-2.1.0-rc.2%2Bmc1.21.8.jar"
+url = "https://cdn.modrinth.com/data/UU7VUYKE/versions/wFwV8876/AlinLib-fabric-2.1.0-rc.3%2Bmc1.21.8.jar"
 hash-format = "sha512"
-hash = "0899208c1824936eaa8d16e89b9fbb6500afafc80261b30a0157f178e3805b5ac2539d5573bbaf3c101af25b515722e63e9d8fa42dd82b6e19354435bf1951ab"
+hash = "1ee13f06790a3ec9c1350fa6b4dcc14c8a2c9bf18578a44fbc0ac970525cd6b3cfac0ec8a01a07b63b1f35d8a93e9ed1dd9df2e4144c4e86e38755658b83647c"
 
 [update]
 [update.modrinth]
 mod-id = "UU7VUYKE"
-version = "kQDtvuhB"
+version = "wFwV8876"
