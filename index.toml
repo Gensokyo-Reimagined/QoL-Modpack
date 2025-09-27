@@ -114,7 +114,7 @@ hash = "d70e942364624f51c5b49bd5387fae596b2b3a32d15a0f2a4e8880bb660f3af9"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "1b7b1ddca0b39297f98133dd28889b1ae7814918977220120b3c3a4ef747712e"
+hash = "0fe11d5fb58c2026ee74dd6c1be75dd58c03f017cedd3ee42ca038c7d567e467"
 
 [[files]]
 file = "config/fancymenu/resources/bmc.png"
@@ -666,7 +666,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "9f351fd00f843bcc2d6aa30d5e43e737b90e4a9b3b2345594aa0efd5f6a13b10"
+hash = "9c9d1ded21c11cd419fbba9e39381605f23358d640aac24d7d604ed8f3e00f7c"
 metafile = true
 
 [[files]]
@@ -818,7 +818,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-fabric-0.6.13+mc1.21.8-build.jar"
-hash = "c35346ff01f8f44fab6f974fed96e95838c28229b4e5264ff8764c66f53eca08"
+hash = "ebab9378ff96b2c56df117ab9f8be6a458d33bd26e3767f3254aa6567a0b24b5"
 
 [[files]]
 file = "mods/sodium-shadowy-path-blocks.pw.toml"
@@ -832,7 +832,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound.pw.toml"
-hash = "e0535b3fb60b675afff587766f0d33cae18a7f51104fdf8c82ad4ef5cd612803"
+hash = "e092de876021de05f15df21c25bf5726d694516dcfddba7e95adeddd6b00ee95"
 metafile = true
 
 [[files]]
