@@ -333,10 +333,6 @@ file = "config/yosbr/config/craftgr.json"
 hash = "b64aa62d32b3ab3d24889200960e6005a7d1388a7a5b5cb6ae8989f4896ae17a"
 
 [[files]]
-file = "config/yosbr/config/craftpresence.json"
-hash = "b7e4611027c619e9d8ba8538ee0d8852ef15930c07fbd825e32d31ed4f747eb9"
-
-[[files]]
 file = "config/yosbr/config/enhanced_bes.properties"
 hash = "64b747412eef926e677d27e09b51c07e3ede1edec741ae151ea6aec6d42807fa"
 
@@ -499,7 +495,7 @@ hash = "2d958c8a69c71f4221a068c9b9d0224419cc81327dd71b5a0e8a9d1f9766abf7"
 
 [[files]]
 file = "mods/alinlib.pw.toml"
-hash = "b47d0249c33fad43e2046fffa13747b921f1e78146d2e6c3da548a188451a1a7"
+hash = "6532882423b385c520e67f3f7ea1cd1e44368f4c63d8e7013bfa2e90ef105216"
 metafile = true
 
 [[files]]
@@ -509,7 +505,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-clouds.pw.toml"
-hash = "e2dfa4dc88d3058e0abe12337d08a9829f9fab8b94b609d8dd7c4bb33e981e1e"
+hash = "7205532455728ed3b8b2855856331e7d75c3f57df2961114749e671482e0080b"
 metafile = true
 
 [[files]]
@@ -519,7 +515,7 @@ metafile = true
 
 [[files]]
 file = "mods/bobby.pw.toml"
-hash = "65ba148bc2832d78b433e76eccfbdbb1456066a9d14dac621a3b730b109b16cb"
+hash = "1999e2e85cc30a463ba4bb84ab2f612d8f55e68acc27279abad1ada8306fbd9e"
 metafile = true
 
 [[files]]
@@ -539,12 +535,12 @@ metafile = true
 
 [[files]]
 file = "mods/chatpatches.pw.toml"
-hash = "19acc4a682743cb347b3fb173adb2f7663f561e7f26483d231acb62b4df1041f"
+hash = "3ce2a3213ce16b4a7cc2620f39236964fd75686c05fda08f8db4fc9a0c4c40a8"
 metafile = true
 
 [[files]]
 file = "mods/cicada.pw.toml"
-hash = "c7a05bfd61b4e3f5cde2c2039915057ef724ff9d06fabcd1482665261dd50363"
+hash = "2108a3f7ff334130bc04e57cb19d56a6f0c1b403e89c120402e06dfb6c973412"
 metafile = true
 
 [[files]]
@@ -646,7 +642,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "35476f21ef1352e2f0d155e5810eb93d00c1c85bc455e5f1d92cb3d727a551f3"
+hash = "bc4f9441d69eefd3d48ed921338fbad1d24d0ecc671f755a83de0ad9f6418d3c"
 metafile = true
 
 [[files]]
@@ -656,7 +652,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "f9acd9fa6c8e3e28c54f196c3840ae9227265a966d511e21be5056951706ea00"
+hash = "8d40436970d9adcfe3c0b72c9f0cd1af217948469b091b0f07ca3df187ce2e61"
 metafile = true
 
 [[files]]
@@ -666,7 +662,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "9c9d1ded21c11cd419fbba9e39381605f23358d640aac24d7d604ed8f3e00f7c"
+hash = "d264106512ae10332b9259ef54ec408bad521c22db8498619ef0a7e83e1e2645"
 metafile = true
 
 [[files]]
@@ -715,7 +711,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "70676593e513e1499486765b8f654cb5034a20a2642a3bcc61a6f57c9d985972"
+hash = "d122f53efcfd54e24ef7e15247bbebe788d4ea475c2f5b84ccc1254dc625a1ec"
 metafile = true
 
 [[files]]
@@ -725,7 +721,7 @@ metafile = true
 
 [[files]]
 file = "mods/mru.pw.toml"
-hash = "07bc359595230fa1f1a605b11eab4436d63f2921157f5f48884f5d71364d778f"
+hash = "7d2683daeeea4990fe3e7e84443330cf36fa7732b577c050b1e9cec813eb3f5e"
 metafile = true
 
 [[files]]
@@ -739,16 +735,13 @@ hash = "b521c8ea3afe47d24a2acb56dbb63452f7940d120d829649bab0efada2e25983"
 metafile = true
 
 [[files]]
-file = "mods/noxesium-fabric-2.7.7+28c820c.jar"
-hash = "ed73b8efe6fcc6b1fe5f4305be2cc6ccaf7f3873edf81f86df0119f471718041"
-
-[[files]]
-file = "mods/nvidium-0.4.1-beta9-1.21.6-1.21.8.jar"
-hash = "cb1733ddcc5fbb2053670c296271cd9a41242ec5da120121c97d956fc3ae55ab"
+file = "mods/noxesium.pw.toml"
+hash = "cfcc769059afa545993eda061b4822f31564e7a879fee471262ab50db9e398ab"
+metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "cd57cd365d18989c123d1c74fc609b1122e065ffbf911b85b2adac790139bb67"
+hash = "0edaad6e267444d278f273c4b467edb39e70d978c40375119c8f6c108e675912"
 metafile = true
 
 [[files]]
@@ -763,7 +756,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-rain.pw.toml"
-hash = "b25bab61c1ecc70b3165cf74a81645ad943825bdc81b7e93c359db87891f02c8"
+hash = "f7e97f10067775f4f6d84666875324de38aee74691681117fbfb4b480d36b5b7"
 metafile = true
 
 [[files]]
@@ -773,7 +766,7 @@ metafile = true
 
 [[files]]
 file = "mods/reflex-antilag.pw.toml"
-hash = "e73a5c5edf2143ac0a31d3049e735aab8e8360bb85018a6ee2c6d20004eca784"
+hash = "c4152f0824a737e10502238c1c02d1869a766dae09940f3ffa50e8d0ca7d21b5"
 metafile = true
 
 [[files]]
@@ -817,12 +810,13 @@ hash = "d3ce7c562cb2d457391f3ea7992f1018055544035097547d9bc2d30b7429c8ea"
 metafile = true
 
 [[files]]
-file = "mods/sodium-fabric-0.6.13+mc1.21.8-build.jar"
-hash = "ebab9378ff96b2c56df117ab9f8be6a458d33bd26e3767f3254aa6567a0b24b5"
+file = "mods/sodium-shadowy-path-blocks.pw.toml"
+hash = "2d27a6e7c7e28a33b4e3d85106f80fd6629f060ec31a8be525f1c2ac9f769cf1"
+metafile = true
 
 [[files]]
-file = "mods/sodium-shadowy-path-blocks.pw.toml"
-hash = "b91aa8ca577a8397296c43e06f54e8246cbdacd44afa08ab6188323c441ac359"
+file = "mods/sodium.pw.toml"
+hash = "780646258386fccb6c92851e13dfb32b5d85cae9596ce6c829894b179245e64c"
 metafile = true
 
 [[files]]
@@ -832,7 +826,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound.pw.toml"
-hash = "e092de876021de05f15df21c25bf5726d694516dcfddba7e95adeddd6b00ee95"
+hash = "7c07f85a7d89dbe99b3b00a633610264f6f83fc2a3d6a6ae8b1ceb82a0de3028"
 metafile = true
 
 [[files]]
@@ -847,7 +841,7 @@ metafile = true
 
 [[files]]
 file = "mods/unilib.pw.toml"
-hash = "9d01184b05012d5b4c04d44ec3e7251aeb3b98fd0d7bb9e9ea28cd6024fbdc1f"
+hash = "11e0e78a74c2525277aeae9b7b10b68c0c56681dcf31dc83cdf33cda66456a15"
 metafile = true
 
 [[files]]
