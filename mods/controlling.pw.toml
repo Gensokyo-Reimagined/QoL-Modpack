@@ -1,13 +1,13 @@
 name = "Controlling"
-filename = "Controlling-fabric-1.21.7-25.0.2.jar"
+filename = "Controlling-fabric-1.21.8-26.0.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/xv94TkTM/versions/rJyUf9kw/Controlling-fabric-1.21.7-25.0.2.jar"
+url = "https://cdn.modrinth.com/data/xv94TkTM/versions/15AHrwi3/Controlling-fabric-1.21.8-26.0.3.jar"
 hash-format = "sha512"
-hash = "b7eeaf973c6ed571167f879be8a6057a5525529d475725347d9ef4175c6803cdb5738dfe364a0f811c9bdb6da59c56c35a0fb46a2f8de5c10a06162cef6ed4ad"
+hash = "e1a4779633f0967243b60253b99aa3f91f1c97edd8ffe6883b5491acc2be847833aa94aef6970e293a42d50033304f931a0e1c86939bc7fe9b0e620671d76c8c"
 
 [update]
 [update.modrinth]
 mod-id = "xv94TkTM"
-version = "rJyUf9kw"
+version = "15AHrwi3"

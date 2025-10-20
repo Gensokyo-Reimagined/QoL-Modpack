@@ -1,0 +1,13 @@
+name = "Ping View"
+filename = "pingview-fabric-1.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/gvl7lVcV/versions/nSEvkVTx/pingview-fabric-1.2.jar"
+hash-format = "sha512"
+hash = "9c7ae83ab93fad100a736e34497e0ab036ff637f6e7e156c57d64a70a36dca2eeed2b59a747bf1c733db5f22fddff4975ab5afa96d9ea4cff86f05a0c44629ba"
+
+[update]
+[update.modrinth]
+mod-id = "gvl7lVcV"
+version = "nSEvkVTx"
