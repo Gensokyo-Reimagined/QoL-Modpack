@@ -712,6 +712,11 @@ file = "mods/modernfix-fabric-5.20.4-beta.51+mc1.21.7.a724.jar"
 hash = "bf3e764c6e607ff5ee14ce66d0406eb6d8b5a1bd902fbaf982a91fdaefa7eff8"
 
 [[files]]
+file = "mods/modernfix-mvus.pw.toml"
+hash = "ceab5807172e236916b8386d352aca46895480867f607c5be07ff37da7fc9c85"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "6eea5e1db3dbca126b82f211bf0d2fcf2cf13097023fdef3dd668e48581a73d0"
 metafile = true
