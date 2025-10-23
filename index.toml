@@ -520,6 +520,11 @@ hash = "1999e2e85cc30a463ba4bb84ab2f612d8f55e68acc27279abad1ada8306fbd9e"
 metafile = true
 
 [[files]]
+file = "mods/borderless-fullscreen.pw.toml"
+hash = "150a20496f40bf24e2a49ca3ee0cec31578aec647c47c3dbc2b4afc7c12bb9b3"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "01c5eb93a204f6b917b21aefd8e1c1268c8c0e63a9b6b34c4173bd7c8ff3dca5"
 metafile = true
@@ -548,15 +553,6 @@ metafile = true
 file = "mods/cloth-config.pw.toml"
 hash = "a216e613b5ada8a83972394c8b52331388f6d3e41187a04c3bced3f1752bea70"
 metafile = true
-
-[[files]]
-file = "mods/concentration.pw.toml"
-hash = "47d958616c05fad48488a2654b48ad9505355da4172bda61f580624df1abc293"
-metafile = true
-
-[[files]]
-file = "mods/continuity-3.0.1-alpha.1+1.21.6.jar"
-hash = "ef0274db2b9418c77662e617fbc32c430634da51f3e11657eb8c7a14ae21ddd8"
 
 [[files]]
 file = "mods/continuity.pw.toml"
@@ -614,8 +610,9 @@ hash = "373c9e22de4d4df2997c0316cb244d3b61b1cc6a6c748c1593af757653b4f957"
 metafile = true
 
 [[files]]
-file = "mods/fabrishot-1.16.1.jar"
-hash = "b8ff6f0ead3c888fe52509868650281446c33d93e44577d280499486075c025f"
+file = "mods/fabrishot.pw.toml"
+hash = "261db391d481e1cd61c0c973d280fa3147e17355ec71589f9f5217b4c3744ac8"
+metafile = true
 
 [[files]]
 file = "mods/falling-leaves-fabric.pw.toml"
@@ -708,10 +705,6 @@ hash = "14800fc12fd4b92497c0f26455523783bdf59194233bdaa71d4864b3d436929a"
 metafile = true
 
 [[files]]
-file = "mods/modernfix-fabric-5.20.4-beta.51+mc1.21.7.a724.jar"
-hash = "bf3e764c6e607ff5ee14ce66d0406eb6d8b5a1bd902fbaf982a91fdaefa7eff8"
-
-[[files]]
 file = "mods/modernfix-mvus.pw.toml"
 hash = "ceab5807172e236916b8386d352aca46895480867f607c5be07ff37da7fc9c85"
 metafile = true
@@ -743,7 +736,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "db9eab696bdf9bcd22d3c2a61d8d862a6362a9fa3948acbccbc5be96a015bff2"
+hash = "1b4530e79094030db3fcf262af621e5ebfb5036f70dfc39c3a2c9010357ceb0d"
 metafile = true
 
 [[files]]
@@ -768,7 +761,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-rain.pw.toml"
-hash = "f7e97f10067775f4f6d84666875324de38aee74691681117fbfb4b480d36b5b7"
+hash = "bbcf3ad28288df3009f28bc2a3ecfcdb8f6d161c2679eaa6a79575c9619e897f"
 metafile = true
 
 [[files]]
@@ -853,7 +846,7 @@ metafile = true
 
 [[files]]
 file = "mods/threadtweak.pw.toml"
-hash = "ff0d87064f466d6dfa5151178cb805cea4169a6e85f47913b462758262a78024"
+hash = "9973e988e573963e42d6de40ea4c1e1e4dc582331f9241532252603bb0cd310b"
 metafile = true
 
 [[files]]
