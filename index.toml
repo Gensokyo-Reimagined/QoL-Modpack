@@ -397,6 +397,10 @@ file = "config/yosbr/config/particle_core_config.toml"
 hash = "4cabf28aa99925a8c97e650f7a889ea1cba26d29434df6b78c116ad42807ce6e"
 
 [[files]]
+file = "config/yosbr/config/particlerain.json"
+hash = "e2c81808cfbed09f08383926d57cde3deeadfdcdbfbd07a6d540c6ad7c91d253"
+
+[[files]]
 file = "config/yosbr/config/particlerain.json5"
 hash = "c4c54ae73d1716344f4a3927bcf4f6300412c935c4ebed2dc1c94bc8b0c8426e"
 
@@ -430,7 +434,7 @@ hash = "b35b099a51f0cc1cfd94b1a1444de0d0d0c4e1b3399575504bbdcfaf02c359b0"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
-hash = "92bb2b0f3bd8302944382823e8db70849a43fa7e184f1eb356fc2d13057a9e42"
+hash = "bc8efe3f22bb716d40dea862c9afbffa7bb8912820a5692d6cc48b0262be9f74"
 
 [[files]]
 file = "config/yosbr/config/sodium-shadowy-path-blocks-options.json"
@@ -502,6 +506,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "832691489ab19e2f0a4b81b77c143a8dceb5f3f395cdee96bcddd893fb01b363"
+metafile = true
+
+[[files]]
+file = "mods/asyncparticles.pw.toml"
+hash = "a1aee1a390e64a3c5cd7ba20fad7c451f00daba64b8bda0060635eca4b00f5d5"
 metafile = true
 
 [[files]]
@@ -743,6 +752,10 @@ metafile = true
 file = "mods/noxesium.pw.toml"
 hash = "cfcc769059afa545993eda061b4822f31564e7a879fee471262ab50db9e398ab"
 metafile = true
+
+[[files]]
+file = "mods/nvidium-0.4.2-beta1-1.21.6-1.21.8.jar"
+hash = "e2fba2de00fb5b4be8f4442bbe3206a880994e6937fc0e3cc5d55d3819e27f2b"
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
