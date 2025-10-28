@@ -114,7 +114,7 @@ hash = "d70e942364624f51c5b49bd5387fae596b2b3a32d15a0f2a4e8880bb660f3af9"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "fcbf4a0475021a71751def4f99dad01dac2d931dd05b773d596034e74475de21"
+hash = "eb6aceb4c0a3f5204645dcce80ddde560a65920ecc07aec116073444e1309d72"
 
 [[files]]
 file = "config/fancymenu/resources/bmc.png"
@@ -540,7 +540,7 @@ metafile = true
 
 [[files]]
 file = "mods/camera-utils.pw.toml"
-hash = "dbebcce8bd4fa6afa83612a9dd49a075225de1773b3421e73644c3add12d11fc"
+hash = "63468a4318b643f2706b922d301eb14383f211c64b790f2bff2a04a601049e9f"
 metafile = true
 
 [[files]]
@@ -580,7 +580,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "b36098ad4d52f44a3e077847792af2cb9562560c3fd85ad25788d32ecb051830"
+hash = "e5cf907d7bc2c5154e007185f305e575acd9faec6718d30e61a77fa81b92d3b5"
 metafile = true
 
 [[files]]
@@ -615,7 +615,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "373c9e22de4d4df2997c0316cb244d3b61b1cc6a6c748c1593af757653b4f957"
+hash = "94f000249d21c4fc3b7744f9579bb6ac0d48e6bf4860fad16f23c997950a47f3"
 metafile = true
 
 [[files]]
@@ -660,7 +660,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "ce1a109ba7d2637596ab6b7c001716437e1bef89f337dc3fb31ca950a46e79c3"
+hash = "9af4574f848b49a2b11822e81500aebacdb77c416dbcf4502be5feaabfb5f66f"
 metafile = true
 
 [[files]]
@@ -864,7 +864,7 @@ metafile = true
 
 [[files]]
 file = "mods/unilib.pw.toml"
-hash = "11e0e78a74c2525277aeae9b7b10b68c0c56681dcf31dc83cdf33cda66456a15"
+hash = "db3322e6f547044afc3f1ee13c49245244e080e29d128c6e6f6b1df613c8020c"
 metafile = true
 
 [[files]]
