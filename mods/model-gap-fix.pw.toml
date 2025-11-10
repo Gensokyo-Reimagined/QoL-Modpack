@@ -1,13 +1,13 @@
 name = "Model Gap Fix"
-filename = "modelfix-1.21.3-1.10-fabric.jar"
+filename = "modelfix-1.21.10-1.12-fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "3f4d67c87d0a6e8c323f443635013bfd58b8872d"
+hash = "6902ab0bc41ee2db516b61667a8998dc4045dc2f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5972532
+file-id = 7106598
 project-id = 676136

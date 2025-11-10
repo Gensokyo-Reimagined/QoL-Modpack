@@ -1,13 +1,13 @@
 name = "SmoothCoasters"
-filename = "SmoothCoasters-1.21.6-v1.jar"
+filename = "SmoothCoasters-1.21.10-v1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "6c7583896234f1b0174dbd46158640d4ef8f9e07"
+hash = "75c4982800d7164cd3fa9ec533de65f2bd9643e2"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6709104
+file-id = 7173868
 project-id = 397480
