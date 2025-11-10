@@ -458,15 +458,19 @@ hash = "c4e80dcc2c0b02a908f05f95128818412e762134b8490462908dd1dc6b7d4745"
 
 [[files]]
 file = "config/yosbr/config/xaerominimap_entities.json"
-hash = "8178708fb32b4c05bcd013136a19b5ee81675fe3af1e188995a98b2ac08c787a"
+hash = "e547b455b33e32cf35f341dc9244668d71c3449a22012b9fcd4bffc18a115db4"
 
 [[files]]
 file = "config/yosbr/config/zoomify.json"
 hash = "c94c228f8c464e015af3ae9b8c701642116d66769befdc8ef5c918786875fbf6"
 
 [[files]]
+file = "config/yosbr/debug-profile.json"
+hash = "6f991bfd74f06bcf207011fc6677411b2a283afdd5bdd8009a639fe337747023"
+
+[[files]]
 file = "config/yosbr/options.txt"
-hash = "e361cec0911b49a68b2507cbe11ee47a1c880cc1631c8d72083840c69d4d1f2e"
+hash = "792ac66e593bad8b7e2a13ccecda8a64a537c8d62ba646544a26da57eb90fa4d"
 
 [[files]]
 file = "data/fabricDefaultResourcePacks.dat"
@@ -742,6 +746,10 @@ metafile = true
 file = "mods/not-enough-animations.pw.toml"
 hash = "958d770c8024a7c901315c786f6060554b5583ae302068526766e42c31b5f604"
 metafile = true
+
+[[files]]
+file = "mods/nvidium-0.4.2-beta2-1.21.9-1.21.10.jar"
+hash = "099752812218f0373ef3872f2a607f8cebfa4f0eb93318c24594bc4dd2337d47"
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
