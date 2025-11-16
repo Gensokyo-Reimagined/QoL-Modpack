@@ -504,7 +504,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "a04d905ccfc8761cbd28ae225139d8a58210bc825f5c48efac55e5ea28d1d2dd"
+hash = "da436c26003ac49101f5dea0a217ac57c92260e350979d15e5a3730bdf1a5a62"
 metafile = true
 
 [[files]]
@@ -515,6 +515,11 @@ metafile = true
 [[files]]
 file = "mods/asyncparticles.pw.toml"
 hash = "d170ce4828b4b7fb7d21dc1dafd7e318e3f0cceea823f8d4f4e78f062baacc57"
+metafile = true
+
+[[files]]
+file = "mods/better-block-entities.pw.toml"
+hash = "813c519e865e698c8e6ae461c20c987a5afe1f3c638dfcd2f1435fec9709a302"
 metafile = true
 
 [[files]]
@@ -539,7 +544,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "731284bbfcd8900314bac3244877a4dd7688f14b7142af41d7dc5bd6250dd12d"
+hash = "4ee1808a7fb319d469dece5752cedb05dacb9afbe48021fa664f54b8c83fdc45"
 metafile = true
 
 [[files]]
@@ -654,7 +659,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port-fabric.pw.toml"
-hash = "65255c87bd3bf84de532144811557741121766878c8366c929df9261c0fd1cb0"
+hash = "3f793cb78a7b12af9f43914e55fd158789db5f69f69205a897e11cdd6569c367"
 metafile = true
 
 [[files]]
@@ -684,7 +689,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "68ba5d242288b71ab622d1ccf1ffdb05aacc7d7ca497b1ccf7ed7b56661f7be5"
+hash = "bcfd26bc56aa72b4edd5cd6a025137e51dc6cb4a7866a7665511009404d13bb9"
 metafile = true
 
 [[files]]
@@ -758,7 +763,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "3cc638ef914f36ee2d97a2c234a9da26538f3794e136d007ac8f3b1528126689"
+hash = "84cb0dcad9ac46d22adba4fb7924951affa6ac5e46027a3b25fa9a0db8d91b2b"
 metafile = true
 
 [[files]]
@@ -823,7 +828,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "e8c961dbadf2dde334c857d0b42a6c6452aa77a146cf80d4febf7f46e4ac2ef6"
+hash = "279ea1bb4b776be9176fe34416e2132e37abfce4483def54177091cc0f2faade"
 metafile = true
 
 [[files]]
@@ -833,7 +838,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound.pw.toml"
-hash = "9210da9646623ee52aaa1bd7b52de6b02bd94ab70079bab6fa73c60ca89456fe"
+hash = "1720437e9bae96db40ecd9e15bd970e7bbf19ce9a0a9c92d7ed8f7fe53932774"
 metafile = true
 
 [[files]]
@@ -853,7 +858,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "e1bcf049ed52fdeaf0380fcabfbe8e17fc7dd525cebed59fe0be34334e556577"
+hash = "8f46d4d770dd234c54a3f1b569ec268b2a80b55f58307099a6d25b28deb68283"
 metafile = true
 
 [[files]]
