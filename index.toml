@@ -519,7 +519,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-block-entities.pw.toml"
-hash = "813c519e865e698c8e6ae461c20c987a5afe1f3c638dfcd2f1435fec9709a302"
+hash = "c8d6bda044475105c02984665f1205537241931d927f825cd8af9699264c1025"
 metafile = true
 
 [[files]]
@@ -794,6 +794,11 @@ metafile = true
 [[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "936e9028071f4e49ecd551aadab4c161f9a7143764b4cc89f8077296bd8645a6"
+metafile = true
+
+[[files]]
+file = "mods/screentoclip.pw.toml"
+hash = "1ab9b557d5ebb4f710de38133827ee08c81af9c80a9e9ce9bba6d216157231d8"
 metafile = true
 
 [[files]]

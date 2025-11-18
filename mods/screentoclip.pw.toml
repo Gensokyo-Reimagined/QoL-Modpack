@@ -1,0 +1,13 @@
+name = "ScreenToClip"
+filename = "screentoclip-fabric-2.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/AQSbbfTn/versions/V6XKkGXT/screentoclip-fabric-2.0.1.jar"
+hash-format = "sha512"
+hash = "0f9f0688f45763c37b8e11d59c2a437208b819c07b391a8e12d9b6c2db4bb247340e6e194de80c93317b6e2e015ebe0f23ed71dc2c34fac89742af7d727e9a56"
+
+[update]
+[update.modrinth]
+mod-id = "AQSbbfTn"
+version = "V6XKkGXT"
