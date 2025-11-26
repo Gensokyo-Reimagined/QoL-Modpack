@@ -114,7 +114,7 @@ hash = "d70e942364624f51c5b49bd5387fae596b2b3a32d15a0f2a4e8880bb660f3af9"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "1cfc6087e26f1dad04452850d2851adde0c47f3ac565863ee0aac62302e6e84c"
+hash = "e9e4de2e5af0d5ad2cf9dd8ebfa8ebc3aee8d9fa37416b12c19ad41876e124b0"
 
 [[files]]
 file = "config/fancymenu/resources/bmc.png"
@@ -559,7 +559,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatpatches.pw.toml"
-hash = "82eed593663ed38d7f3fff58be659357f3ff54d8607b274b44274960f2458d85"
+hash = "85b6b778d7b56c6096a3e9809c44639d94c0013239bf2fe20899b7305397fe5d"
 metafile = true
 
 [[files]]
@@ -604,7 +604,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "5a5767fc7f4c7ace54fb67e4bb7990c8f7e58b54862f7d1b2e30ea6a9f368962"
+hash = "8ac9c8207f024dfd8191ed008f8d7158cee9713e060678725fca513fc7bfa797"
 metafile = true
 
 [[files]]
@@ -614,7 +614,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "adebffe169745949d66cd381e0e6d59042358d6b750680e8f7ad71bab05e81b6"
+hash = "326b119d9d3a6241742d6b2937d02350555529f29e1b405551baf7c898a0b550"
 metafile = true
 
 [[files]]
@@ -639,7 +639,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "2f38872f39fda60d4a25dadb072a47a4a0cee32d592e0f9e6e611ea2bef7422e"
+hash = "f06deb980ff2c6ab885c65a3d52ca9341470f12b544af6c1045d85262c407d80"
 metafile = true
 
 [[files]]
@@ -704,7 +704,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "a4166ef4c4cfdf21a4c54e6c0b482fe8f8656bcb15a61637337830c42639f55d"
+hash = "a52c4abb63f2fa13e3d99587d2c0ca14b0592880eb14f286d9ba1a21badd05eb"
 metafile = true
 
 [[files]]
@@ -739,7 +739,7 @@ metafile = true
 
 [[files]]
 file = "mods/mru.pw.toml"
-hash = "c0b691fa58c8a7177fa08fe8577324f82bae5b120f80c21a1b38fa2fe55e7e84"
+hash = "08bfd9206da2a48954acae3a6083db563173def502333b6b49e7ec4cf083e231"
 metafile = true
 
 [[files]]
@@ -753,8 +753,9 @@ hash = "958d770c8024a7c901315c786f6060554b5583ae302068526766e42c31b5f604"
 metafile = true
 
 [[files]]
-file = "mods/nvidium-0.4.2-beta2-1.21.9-1.21.10.jar"
-hash = "099752812218f0373ef3872f2a607f8cebfa4f0eb93318c24594bc4dd2337d47"
+file = "mods/nvidium.pw.toml"
+hash = "69550bc880fb5efbaaba65358b6f2b2c10c21e849587fdf3aac3f46800469ab6"
+metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
@@ -778,7 +779,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "1600b1e64b297d68bafb4f5e5eeef08117645ac24922696da10c711ae587c06b"
+hash = "ad2c2880cd91b5d927f3bfdba657189997cdd6dd30f46ee0d969a68de2bb2ad8"
 metafile = true
 
 [[files]]
@@ -823,7 +824,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "4f57108f9e1c6281cfdaf3812e6bc2a2f16609a845c9912218ada90b1603e1b3"
+hash = "bb7064282571976ed2bbe266bcf5e525d6d661aeea89649e4d604327973cf92d"
 metafile = true
 
 [[files]]

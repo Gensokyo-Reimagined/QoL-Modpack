@@ -1,13 +1,13 @@
 name = "MidnightLib"
-filename = "midnightlib-1.8.3-fabric+1.21.9.jar"
+filename = "midnightlib-fabric-1.9.1+1.21.10.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "4264a1296347bf8750676b4b6725afb0db0b4c64"
+hash = "3b8eb4ae181c71d157426342a608a55dc878f476"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7061512
+file-id = 7254896
 project-id = 488090
