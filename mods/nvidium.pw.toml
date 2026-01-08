@@ -1,7 +1,7 @@
 name = "nvidium"
-filename = "nvidium-0.4.2-beta3-1.21.9-1.21.10.jar"
+filename = "nvidium-0.4.3-beta3-1.21.11.jar"
 
 [download]
-url = "https://github.com/drouarb/nvidium/releases/download/0.4.2-beta3/nvidium-0.4.2-beta3-1.21.9-1.21.10.jar"
+url = "https://github.com/drouarb/nvidium/releases/download/0.4.3-beta3/nvidium-0.4.3-beta3-1.21.11.jar"
 hash-format = "sha256"
 hash = "0167871902d980de5b3053b12acc59012ca9374fbcd9156cea90f62df355bcd2"
