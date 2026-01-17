@@ -482,7 +482,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-block-entities.pw.toml"
-hash = "cb1b225bb04b606ab22b2378048f2e040cff6ba9acdd1013daa054abd606b265"
+hash = "f25fe10d36c668ac9b4c564ade627cf42a5b6e7dccd01d5377be8e2033c75f5b"
 metafile = true
 
 [[files]]
@@ -812,7 +812,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "d2752b3cfcd51f39bd6d094244e915b6c4c73010fa2d9504e1eddc331d2a7335"
+hash = "267eca2f94a645c8e1c19a7e01d4a906a64d1c5b7681702359b82fa06687b333"
 metafile = true
 
 [[files]]
