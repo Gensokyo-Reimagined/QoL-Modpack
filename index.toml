@@ -487,7 +487,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "0053fa40707004c6c12761ae8e85e4b7ae892041062d74b700608486dad4ac7c"
+hash = "7b39ae9c766853820b9aca8685e451208012aec3ab4b560a22b54ec9fd3ba3f3"
 metafile = true
 
 [[files]]
@@ -622,7 +622,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "6f8f908c216a72efc2aab289578eeb4399a259eae29fbac8bcc88df840e3c0bf"
+hash = "b748f3c5782acd14bc088ab235b949bd3237a246c7221e06b7bc25d9310daa73"
 metafile = true
 
 [[files]]
@@ -717,7 +717,7 @@ metafile = true
 
 [[files]]
 file = "mods/ping-view.pw.toml"
-hash = "a25ff2b7f1fe489dcecbbcb67907f15f3e1b18892916615050fb1f741c57440c"
+hash = "5feb5943b2d67736363b69cd5b14021573f835f7c9dd376f7597b03ba83030f7"
 metafile = true
 
 [[files]]
@@ -803,11 +803,6 @@ metafile = true
 [[files]]
 file = "mods/unilib.pw.toml"
 hash = "d25e68bfaa4f0adaf716738827256d0b7d78889852fc6cef667c6c2fe4326526"
-metafile = true
-
-[[files]]
-file = "mods/viafabric.pw.toml"
-hash = "3afb8146397199564ddc80b33cba08e289f9bfd10720fb548262aee631fa97f8"
 metafile = true
 
 [[files]]
