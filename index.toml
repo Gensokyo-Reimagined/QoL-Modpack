@@ -521,11 +521,6 @@ hash = "eecec1d4fad34bd807d30ff8c15b5935d7c8aa003bad7e1da8e0e2c85e43c42c"
 metafile = true
 
 [[files]]
-file = "mods/cicada.pw.toml"
-hash = "551d9247d8cbba099f84e416ac50fe322f82401eef6800d3bfa159be521acb9b"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "a06ef129798265e0d7249426fb0ed5c506725b0460dc3dfdb975b8978480895e"
 metafile = true
