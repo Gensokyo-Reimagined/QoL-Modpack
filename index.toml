@@ -106,7 +106,7 @@ hash = "d70e942364624f51c5b49bd5387fae596b2b3a32d15a0f2a4e8880bb660f3af9"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "0303460c0c53442e91825e7cdcb6f19c4a5c3574aa143df3d6df47b234014945"
+hash = "39bd3800ac2e45a70b27189fd95cef3818b44c249cf95c288bb15c8905dbcda9"
 
 [[files]]
 file = "config/fancymenu/resources/bmc.png"
@@ -472,7 +472,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "564ba07765d3894f54a5d8886db7cf4b8c8fb8c83f18c8cfb1f042a115b44724"
+hash = "e19edfaebfc436b6355adc94d4517192adb78b964a98d755ecf2b2d97a318224"
 metafile = true
 
 [[files]]
@@ -487,7 +487,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "7b39ae9c766853820b9aca8685e451208012aec3ab4b560a22b54ec9fd3ba3f3"
+hash = "8f5e0a869502481967d2863ecf637d77896505feb98bf0259d3f477e728d03a7"
 metafile = true
 
 [[files]]
@@ -552,7 +552,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "311f19fbeed28d9217aac4c56d25dfe190f016983a008befaa8ff8a35bd92aa3"
+hash = "acc18c66e780b5cc9b037792a3db7ba522608cf73b934c8eba38d48ac32437e8"
 metafile = true
 
 [[files]]
@@ -562,12 +562,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "241cece83d6a3c7c0338a9b625972ee25747d14684810778bc64d9613f7a49a1"
+hash = "45abf05e1cc90006aeb65e4e1bbe97da5a1984f547ea8028a077dae68af0ac11"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "1aa94f817646eea69478dc3dce662c3f4b674359d7ce34cf58fd38dcbc56e458"
+hash = "c27a08b54ab9b474a57211f383f511d67fd0023035ee2e76d247667e15183e63"
 metafile = true
 
 [[files]]
@@ -582,7 +582,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "7a4219c28a753fd2b1ad48782cce1484811d7d8abbbb8078a022ac60093c6db3"
+hash = "281dfa2e0e51ce16433e31d1ba6e1db9fe2fd038bfeecd05a643c294163a4cb3"
 metafile = true
 
 [[files]]
@@ -607,7 +607,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "b748f3c5782acd14bc088ab235b949bd3237a246c7221e06b7bc25d9310daa73"
+hash = "c5103bd5c497d707072363d1bb994697a62774b8bc79ad5a8c3b33313f824948"
 metafile = true
 
 [[files]]
@@ -622,7 +622,7 @@ metafile = true
 
 [[files]]
 file = "mods/konkrete.pw.toml"
-hash = "751f1092fa317fb79e59bda34c08ae076dbee41e6799cbadde5eb8ece1d311a1"
+hash = "2c8f1f08da355faa45fd5215a1187af1a6250dacf41eaaf80786055216a87caf"
 metafile = true
 
 [[files]]
@@ -682,7 +682,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "4c4f8569adba682de05800e73690fec8ce64d9d86341862ac6d9315d9dec01eb"
+hash = "cda48efd057d3682a962ddc1149486500f394fb8f1be98f5101658795a2020e9"
 metafile = true
 
 [[files]]
@@ -693,6 +693,11 @@ metafile = true
 [[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "c5cf55b4ec0c694443ae7769d9d96b7ae69aef8a94e7d74f884014b7f5102234"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "51c5dc79381f5e788aa78211c82a8294ec8b1313a5f8cc584fba1e62664dea81"
 metafile = true
 
 [[files]]
@@ -782,7 +787,7 @@ metafile = true
 
 [[files]]
 file = "mods/tcdcommons.pw.toml"
-hash = "cf2a50560f03613b7356103544a1f11d38da73fc445b5ec0b5a29c10543c3cfd"
+hash = "3fcc0e1833d5ad122a623027acad67e5e3057066fec9974584995ac555d074f3"
 metafile = true
 
 [[files]]
@@ -792,17 +797,17 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "267eca2f94a645c8e1c19a7e01d4a906a64d1c5b7681702359b82fa06687b333"
+hash = "06def6d9f54255f85a1e4d13b18dcb40e4b17a544b053b0bcd5da61cc00da417"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "11b66118a3480c0b56b01096b6fef484408503cd7c369838e5b458405d18ab1c"
+hash = "e2f9a986f77a90de363fea7c32489429abc45e2cafe3a5a8cf815627e43d89b2"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "52e4aed404ec32b35fad696b50b65f8cd7db7f933465b812e929a60384c4d6af"
+hash = "88b63297b3dffffe91d914c68e62817a33accacc043c4f0386f91cad546f9fe0"
 metafile = true
 
 [[files]]
