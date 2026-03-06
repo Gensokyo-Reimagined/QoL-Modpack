@@ -462,7 +462,7 @@ hash = "0d8e9790ada83aef41194a858cb8c170cec9461a66982fb1350b5e4a4ada78d4"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "b00aff5a3f3cbd827b3e6c935a8c5b36faab2410a3661575003588560af39210"
+hash = "b242ec68791751ccbda707a12248c89d1faed57d65e839446bd715ff7c589d4e"
 metafile = true
 
 [[files]]
@@ -482,12 +482,12 @@ metafile = true
 
 [[files]]
 file = "mods/better-block-entities.pw.toml"
-hash = "7b587cd143d5f24804b6f20c6adb51816afd1f8167ab15f434d8b19ad725b7c6"
+hash = "8958a9efde473f0e9ab49069682c66f5c6cbf8023f983a14658c1a325c7273b7"
 metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "8d24c50e86aad7649057b65c47ea5dddffa6b3aecf5bfe31f63bb40ced4973c7"
+hash = "41e20e663cba5b05aa5672fe703092aa1db34633956241f0cbfc76b85128c7d5"
 metafile = true
 
 [[files]]
@@ -502,7 +502,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "a8f073ab0640d9e501fe3fc95d282306000fd6eab3186fd682269c0d0913b307"
+hash = "037350c2aa47c78e4223154291da5d6dd51e515015d78741f64d3d7b71e25111"
 metafile = true
 
 [[files]]
@@ -542,7 +542,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "c4aecd36cc2a07b48538ab2eced4eabdc1b53af9e76ee91581921db2ed689c7e"
+hash = "20a8eb9b49cb58482a35ac4e9d068cd70c23cd86555494bbfacc2056b2131f44"
 metafile = true
 
 [[files]]
@@ -617,7 +617,12 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "276947b1f9933ca2220a00736aba177e4034ca9a45cad9f258abf762fdb3bb0b"
+hash = "38c950bdd47f54d586d1e9ae0c714574885423941ed7799f11b776d2b05ed02f"
+metafile = true
+
+[[files]]
+file = "mods/ismah.pw.toml"
+hash = "1b45f6fa66cd494b35ef5cf2b04359d41ac9b01554233706950e818d562d09a8"
 metafile = true
 
 [[files]]
@@ -662,7 +667,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "0544fefc6f04f2b408b2c6b4dd3e4bf7d0a4048f1fad6ddf63357549d7446165"
+hash = "e4b9192ce7f54715dde7eb682ebab23aaaac10658b1bd08ba553a5f99b0124d1"
 metafile = true
 
 [[files]]
@@ -682,7 +687,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "cda48efd057d3682a962ddc1149486500f394fb8f1be98f5101658795a2020e9"
+hash = "00bc3af6def79868e126ea53faf06bbad004f094fc26d60e7b4a1eda067e7311"
 metafile = true
 
 [[files]]
@@ -772,7 +777,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "9d340481c374a20067d1748c1a4991626bce9d7812f0bdb96072cd7a15d35462"
+hash = "0b4c98b7b25cdfcbb7882c32155d597f0fcaa37aa301b14baf4ad8cab65fea85"
 metafile = true
 
 [[files]]
@@ -782,17 +787,17 @@ metafile = true
 
 [[files]]
 file = "mods/sound.pw.toml"
-hash = "3ec8292ae1ea69fee14808e0126e34d6588089e7121cf08c83024098b2d66a8a"
+hash = "5f963c93bf4858687056c332831fa96fa101020a565d8000eed675ae167d98fc"
 metafile = true
 
 [[files]]
 file = "mods/tcdcommons.pw.toml"
-hash = "a9a12d51606befdc928f127ceff3c0b2ebaf4ca61ff80d62c1290e4d72b91ff8"
+hash = "7d5967a6fd97f0ae7107bdaf548061ec54bff059fee062f785f80becc44d0e55"
 metafile = true
 
 [[files]]
 file = "mods/unilib.pw.toml"
-hash = "d25e68bfaa4f0adaf716738827256d0b7d78889852fc6cef667c6c2fe4326526"
+hash = "10daac97634014be6358aa3515589c173378ef72b96fd9e7aeafed43dc4cfc81"
 metafile = true
 
 [[files]]
