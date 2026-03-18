@@ -622,7 +622,7 @@ metafile = true
 
 [[files]]
 file = "mods/ismah.pw.toml"
-hash = "1b45f6fa66cd494b35ef5cf2b04359d41ac9b01554233706950e818d562d09a8"
+hash = "7e734bd6722a215e93aa7b595b030c95b699afca3a4b9c77ed77fc8a454964a1"
 metafile = true
 
 [[files]]
@@ -637,7 +637,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "e1abc1f3938e26029a550172b3e616c8e62f14a4988aefe0c2d9c768298c8fca"
+hash = "aff4aa2f11b20a4535e9a794c3fb316d86ae7ab5e6350bd21ec202784ea1fe9c"
 metafile = true
 
 [[files]]
@@ -657,7 +657,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix-mvus.pw.toml"
-hash = "67116d1cf5d38dfd27aded9d675afcc625d720a4d457660ff82db760934d9f4d"
+hash = "f13c7f723c3a50ea547a409d54065cc93322d700e260deeafb92d7bfd51f9ac1"
 metafile = true
 
 [[files]]
@@ -707,7 +707,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-rain.pw.toml"
-hash = "526836880e4bfb6f98fad732b2aa5a2b7d4ea6cbe9238be6a956f82472e9b934"
+hash = "94f7151f9d1a58d9347e46ad36f30ceb9a73815eeb0011d4bebf20ff43373739"
 metafile = true
 
 [[files]]
@@ -747,7 +747,7 @@ metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
-hash = "77f6ba8f063840c0d8a58bba2cedc2743d136c1d51cdd28d3506d19e167e08d5"
+hash = "a17a9c598d984e4ff28d0945dd0e8bf94b3125b1d669226b4ad736543dacef3f"
 metafile = true
 
 [[files]]
@@ -783,11 +783,6 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "3c6aff9ceb73d592c228f9d2210a9588e399353d2b61c7ce5b1a57b61b0fad4a"
-metafile = true
-
-[[files]]
-file = "mods/sound.pw.toml"
-hash = "5f963c93bf4858687056c332831fa96fa101020a565d8000eed675ae167d98fc"
 metafile = true
 
 [[files]]
