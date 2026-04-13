@@ -106,7 +106,7 @@ hash = "d70e942364624f51c5b49bd5387fae596b2b3a32d15a0f2a4e8880bb660f3af9"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "69b31188fc06b64596ffc6236f8d3f1241eb9428e4bfaa35030876e09407e046"
+hash = "caa23d4a4c8c65f536a094eb3b41f4446bc75aaa75e9d11f5dcd5da10752ab09"
 
 [[files]]
 file = "config/fancymenu/resources/bmc.png"
@@ -557,7 +557,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "6932ffe04ebe5f86c43b8afca22824e193ec082750e87933e293dba4e6f22504"
+hash = "e8098c1c7cd6bcb3d33af2f7a5110b499efe26c3be6a3eed985c04dc8e980cc7"
 metafile = true
 
 [[files]]
@@ -608,6 +608,11 @@ metafile = true
 [[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "c5103bd5c497d707072363d1bb994697a62774b8bc79ad5a8c3b33313f824948"
+metafile = true
+
+[[files]]
+file = "mods/gputape.pw.toml"
+hash = "0f6b1cc4b382f2083dd602d5ace58393828f7eb9adccae68092b11e73ab6568a"
 metafile = true
 
 [[files]]
@@ -692,7 +697,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "3768141d0bf4d655f2df823b39997d171f1d3950d1f00f7bbb78df82a6a26d4e"
+hash = "58e348bf5ed0c9867339046522042c351b1630ccbfeb15412d938bacfb84b054"
 metafile = true
 
 [[files]]
@@ -722,7 +727,7 @@ metafile = true
 
 [[files]]
 file = "mods/quick-pack.pw.toml"
-hash = "b6bda8317d9911686487decf305e8addb2eb415fe9df2428d7fb34bc324cc6b6"
+hash = "6da7ed3f110fa22371189e8164f2e2c97578b1798c871643da1c5e5e3b04a4c7"
 metafile = true
 
 [[files]]
@@ -793,6 +798,11 @@ metafile = true
 [[files]]
 file = "mods/tcdcommons.pw.toml"
 hash = "55e6f3c2e756c504561ac483a9bce2758fbfc7ae6e0f5100a5a3b31ee95b0bf2"
+metafile = true
+
+[[files]]
+file = "mods/toadlib.pw.toml"
+hash = "109c099fe3f0bfa48962189b1b9062f6123cbea932ba691856b852b67ec1929f"
 metafile = true
 
 [[files]]
