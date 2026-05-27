@@ -1,0 +1,9 @@
+{
+  "core_dsa": true,
+  "const_cache": true,
+  "remove_err_check": true,
+  "fast_math": false,
+  "command_caching": true,
+  "simd_weather": true,
+  "smart_cull": "simd"
+}
