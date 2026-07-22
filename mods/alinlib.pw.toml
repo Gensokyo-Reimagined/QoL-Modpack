@@ -1,13 +1,13 @@
 name = "AlinLib"
-filename = "AlinLib-fabric-2.1.0-rc.6+mc1.21.11.jar"
+filename = "26.2-fabric-2.1.0-rc.6.1+mc26.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/UU7VUYKE/versions/NPrITvvo/AlinLib-fabric-2.1.0-rc.6%2Bmc1.21.11.jar"
+url = "https://cdn.modrinth.com/data/UU7VUYKE/versions/Kyvv4Pan/26.2-fabric-2.1.0-rc.6.1%2Bmc26.2.jar"
 hash-format = "sha512"
-hash = "c0a50f493cf578a5623d0aab0a1fb76f1770dbf8ee248550dcaa119809086d3a7d203d33f1dd5087de5e89e3988fdbfa186a3b688f1008596027c8f4cd9496a9"
+hash = "ff119aba08d9da55f8ce48281293303ffddf7a8278f5598fbc865fa3d91018079e8dd303a8e64a32aa1cb3fd58e31252c27092f5f0a92534003d26a4e3c2cef2"
 
 [update]
 [update.modrinth]
 mod-id = "UU7VUYKE"
-version = "NPrITvvo"
+version = "Kyvv4Pan"

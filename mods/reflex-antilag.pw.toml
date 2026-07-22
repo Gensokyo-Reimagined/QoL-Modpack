@@ -1,13 +1,13 @@
 name = "Reflex AntiLag"
-filename = "reflex-fabric-1.0.4+mc1.21.5.jar"
+filename = "reflex-fabric-1.0.4+26.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/WTVzusYD/versions/GQoYAaOM/reflex-fabric-1.0.4%2Bmc1.21.5.jar"
+url = "https://cdn.modrinth.com/data/WTVzusYD/versions/OCMYgcbi/reflex-fabric-1.0.4%2B26.2.jar"
 hash-format = "sha512"
-hash = "68698d2721e56a8ec76bcba08978c5a2794aaa23d781d31621407aca163971d81edd4e591f5c34f3222fa12cd43e9dd06c67b413e738ff1e32b57c3076cca3af"
+hash = "404b1bbab41e984337b7e0a43c0ee8d9cf005ea1c81e0b89ace522d8ba86b1d9539a818a76bb30537f3cbd1bdb50e6bf4bc53e24f981c039d0ae40f3b1bfc703"
 
 [update]
 [update.modrinth]
 mod-id = "WTVzusYD"
-version = "GQoYAaOM"
+version = "OCMYgcbi"
